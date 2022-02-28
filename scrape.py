@@ -16,6 +16,7 @@ content = markdownify.markdownify(str(soup.find_all("h3")))
 content = (
     content[1:-1]
     .replace("\n\n,", "\n\n")
+    .replace("### ", "")
     .replace("Russia - ", "\n \n ## Russia\n \n ### Russia - ")
     .replace("Ukraine - ", "\n \n ## Ukraine\n \n ### Ukraine - ")
 )
