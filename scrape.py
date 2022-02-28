@@ -21,11 +21,11 @@ content = (
     .replace("Ukraine - ", "\n \n ## Ukraine\n \n ### Ukraine - ")
 )
 # %%
-def save_str_to_md(s, filename):
-    with open(filename, "w") as f:
-        f.write(s)
+with open("losses.md", "w") as f:
+    f.write(content)
 
 
-save_str_to_md(content, "losses.md")
+with open("losses.html", "w") as f:
+  f.write(str(soup))
 
-# %%
+
