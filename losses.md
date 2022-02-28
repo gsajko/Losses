@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 ### 
  
  ## Russia
  
  ### Russia - 284, of which: destroyed: 134, damaged: 6, abandoned: 53, captured: 89
+=======
+### Russia - 282, of which: destroyed: 134, damaged: 6, abandoned: 52, captured: 88
+>>>>>>> 77f7d8a27fad14ed6c160801d6fd3a422869652d
 
  ### 
 
