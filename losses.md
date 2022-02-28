@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 311, of which: destroyed: 138, damaged: 7, abandoned: 72, captured: 92
+ ### Russia - 323, of which: destroyed: 139, damaged: 7, abandoned: 72, captured: 103
 
  
 
@@ -48,13 +48,13 @@
 
  Helicopters (4, of which destroyed: 3, damaged: 1)
 
- Trucks, Vehicles and Jeeps (96, of which destroyed: 53, damaged: 2, abandoned: 18, captured: 23)
+ Trucks, Vehicles and Jeeps (108, of which destroyed: 54, damaged: 2, abandoned: 18, captured: 34)
 
  
  
  ## Ukraine
  
- ### Ukraine - 148, of which: destroyed: 53, damaged: 4, abandoned: 38, captured: 51
+ ### Ukraine - 149, of which: destroyed: 53, damaged: 4, abandoned: 38, captured: 52
 
  
 
@@ -68,7 +68,7 @@
 
  Armoured Personnel Carriers (9, of which destroyed: 1, abandoned: 2, captured: 6)
 
- Infantry Mobility Vehicles (5, of which destroyed: 2, captured: 3)
+ Infantry Mobility Vehicles (6, of which destroyed: 2, captured: 4)
 
  Anti-tank Guided Missiles (12, of which captured: 12)
 
