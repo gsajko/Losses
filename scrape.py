@@ -1,9 +1,10 @@
 # %%
-from bs4 import BeautifulSoup
-import markdownify
+import json
 import urllib.request
-# import pandas as pd
-# import json
+
+import markdownify
+import pandas as pd
+from bs4 import BeautifulSoup
 
 # %%
 url = (
@@ -27,44 +28,48 @@ with open("losses.md", "w") as f:
 
 
 with open("losses.html", "w") as f:
-  f.write(str(soup))
+    f.write(str(soup))
 
 # %%
-# losses = {}
-# for line in content.split("\n"):
+try:
+    # create markdown table
+    losses = {}
+    for line in content.split("\n"):
 
-#     if "Ukraine" in line:
-#         break
-#     if "Russia" in line:
-#         pass
-#     elif len(line) >2:
-#         vehicle_type = line.split("(")[0].strip()
-#         losses[vehicle_type] = {}
-#         for i in ("destroyed: ", "damaged: ", "abandoned: ", "captured: "):
-#             if i in line:
-#                 losses[vehicle_type][i.replace(": ","")] = int(line.split(i)[1].split(",")[0].replace(")","").strip())
-#             else:
-#                 losses[vehicle_type][i.replace(": ","")] = 0
-#         print(vehicle_type)
-# df = pd.DataFrame(losses).T
-# df["total"] = df.sum(axis=1)
-# df.loc["total"] = df.sum()
-# df
-# # %%
-# with open("losses_table.md", "w") as f:
-#   f.write(df.to_markdown())
-# # %%
+        if "Ukraine" in line:
+            break
+        if "Russia" in line:
+            pass
+        elif len(line) > 2:
+            vehicle_type = line.split("(")[0].strip()
+            losses[vehicle_type] = {}
+            for i in ("destroyed: ", "damaged: ", "abandoned: ", "captured: "):
+                if i in line:
+                    losses[vehicle_type][i.replace(": ", "")] = int(
+                        line.split(i)[1].split(",")[0].replace(")", "").strip()
+                    )
+                else:
+                    losses[vehicle_type][i.replace(": ", "")] = 0
+    df = pd.DataFrame(losses).T
+    df["total"] = df.sum(axis=1)
+    df.loc["total"] = df.sum()
 
-# # %%
-# # %%
-# df2 = df.sum(axis=1)
-# df2.loc["time"] = str(pd.to_datetime("now"))
-# df_dict = df2.to_dict()
+    with open("losses_table.md", "w") as f:
+        f.write(df.to_markdown())
 
-# with open('dict_losses.json', 'r') as f:
-#     dict_list = json.loads(f.read())
+    # create dict
+    df2 = df.drop(["total"], axis=1).sum(axis=1)
+    df2.loc["time"] = str(pd.to_datetime("now"))
+    df_dict = df2.to_dict()
+    try:
+        with open("dict_losses.json", "r") as f:
+            dict_list = json.loads(f.read())
+    except:
+        dict_list = []
 
-# dict_list.append(df_dict)
+    dict_list.append(df_dict)
 
-# with open('dict_losses.json', 'w') as f:
-#     json.dump(dict_list, f)
+    with open("dict_losses.json", "w") as f:
+        json.dump(dict_list, f)
+except:
+    pass
