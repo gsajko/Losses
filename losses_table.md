@@ -1,6 +1,6 @@
 |                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:----------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                             |          13 |         1 |          19 |         11 |      44 |
+| Tanks                             |          14 |         1 |          20 |         11 |      46 |
 | Armoured Fighting Vehicles        |          16 |         0 |           8 |         12 |      36 |
 | Infantry Fighting Vehicles        |          14 |         0 |          21 |         13 |      48 |
 | Armoured Personnel Carriers       |           7 |         0 |           5 |          2 |      14 |
@@ -21,4 +21,4 @@
 | Helicopters                       |           4 |         2 |           0 |          0 |       6 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps        |          59 |         2 |          19 |         37 |     117 |
-| total                             |         150 |         8 |          85 |        118 |     361 |
+| total                             |         151 |         8 |          86 |        118 |     363 |
