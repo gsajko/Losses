@@ -43,5 +43,5 @@ jobs:
 
       - uses: mikeal/publish-to-github-action@master
         env:
-          BRANCH_NAME: 'action-fixes'
+          BRANCH_NAME: 'main'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
