@@ -50,6 +50,7 @@ try:
                     )
                 else:
                     losses[vehicle_type][i.replace(": ", "")] = 0
+
     df = pd.DataFrame(losses).T
     df["total"] = df.sum(axis=1)
     df.loc["total"] = df.sum()
@@ -71,5 +72,6 @@ try:
 
     with open("dict_losses.json", "w") as f:
         json.dump(dict_list, f)
-except:
+except Exception as e:
+    print("error", e)
     pass
