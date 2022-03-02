@@ -15,10 +15,10 @@
 | Self-Propelled Artillery          |           2 |         0 |           7 |          1 |      10 |
 | Multiple Rocket Launchers         |           4 |         0 |           1 |          6 |      11 |
 | Self-propelled Anti-Aircraft Guns |           0 |         0 |           2 |          1 |       3 |
-| Surface-To-Air Missile Systems    |           7 |         1 |           3 |          5 |      16 |
+| Surface-To-Air Missile Systems    |           8 |         1 |           3 |          5 |      17 |
 | Jammers And Deception Systems     |           0 |         1 |           0 |          0 |       1 |
 | Aircraft                          |           3 |         0 |           0 |          0 |       3 |
 | Helicopters                       |           4 |         2 |           0 |          0 |       6 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |          73 |         2 |          31 |         47 |     153 |
-| total                             |         184 |         8 |         116 |        161 |     469 |
+| Trucks, Vehicles and Jeeps        |          73 |         2 |          33 |         47 |     155 |
+| total                             |         185 |         8 |         118 |        161 |     472 |
