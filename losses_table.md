@@ -1,9 +1,9 @@
 | Russian Losses                    |   destroyed |   damaged |   abandoned |   captured |   total |
 |:----------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                             |          17 |         1 |          20 |         12 |      50 |
-| Armoured Fighting Vehicles        |          18 |         0 |          11 |         15 |      44 |
-| Infantry Fighting Vehicles        |          17 |         0 |          24 |         16 |      57 |
-| Armoured Personnel Carriers       |           9 |         0 |           7 |          5 |      21 |
+| Tanks                             |          17 |         1 |          20 |         15 |      53 |
+| Armoured Fighting Vehicles        |          18 |         0 |          11 |         17 |      46 |
+| Infantry Fighting Vehicles        |          17 |         0 |          24 |         19 |      60 |
+| Armoured Personnel Carriers       |           9 |         0 |           7 |          6 |      22 |
 | Mine-Resistant Ambush Protected   |           1 |         0 |           0 |          2 |       3 |
 | Infantry Mobility Vehicles        |          12 |         1 |           2 |          8 |      23 |
 | Communications Station            |           1 |         0 |           3 |          1 |       5 |
@@ -20,5 +20,5 @@
 | Aircraft                          |           3 |         0 |           0 |          0 |       3 |
 | Helicopters                       |           4 |         2 |           0 |          0 |       6 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |          71 |         2 |          31 |         41 |     145 |
-| total                             |         180 |         8 |         116 |        145 |     449 |
+| Trucks, Vehicles and Jeeps        |          73 |         2 |          31 |         45 |     151 |
+| total                             |         182 |         8 |         116 |        158 |     464 |
