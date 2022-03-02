@@ -1,4 +1,4 @@
-|                                   |   destroyed |   damaged |   abandoned |   captured |   total |
+| Russian Losses                    |   destroyed |   damaged |   abandoned |   captured |   total |
 |:----------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                             |          16 |         1 |          20 |         12 |      49 |
 | Armoured Fighting Vehicles        |          17 |         0 |           9 |         15 |      41 |

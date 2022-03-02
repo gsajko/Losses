@@ -54,7 +54,8 @@ try:
     df = pd.DataFrame(losses).T
     df["total"] = df.sum(axis=1)
     df.loc["total"] = df.sum()
-
+    df.index.rename("Russian Losses", inplace=True)
+  
     with open("losses_table.md", "w") as f:
         f.write(df.to_markdown())
 
@@ -70,8 +71,8 @@ try:
 
     dict_list.append(df_dict)
 
-    with open("dict_losses.json", "w") as f:
-        json.dump(dict_list, f)
+    # with open("dict_russian_losses.json", "w") as f:
+    #     json.dump(dict_list, f)
 except Exception as e:
     print("error", e)
     pass
