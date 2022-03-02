@@ -64,7 +64,7 @@ try:
     df2.loc["time"] = str(pd.to_datetime("now"))
     df_dict = df2.to_dict()
     try:
-        with open("dict_losses.json", "r") as f:
+        with open("dict_russian_losses.json", "r") as f:
             dict_list = json.loads(f.read())
     except:
         dict_list = []
