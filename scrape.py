@@ -71,8 +71,8 @@ try:
 
     dict_list.append(df_dict)
 
-    # with open("dict_russian_losses.json", "w") as f:
-    #     json.dump(dict_list, f)
+    with open("dict_russian_losses.json", "w") as f:
+        json.dump(dict_list, f)
 except Exception as e:
     print("error", e)
     pass
