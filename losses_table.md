@@ -1,9 +1,9 @@
 | Russian Losses                    |   destroyed |   damaged |   abandoned |   captured |   total |
 |:----------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                             |          17 |         1 |          20 |         15 |      53 |
-| Armoured Fighting Vehicles        |          18 |         0 |          11 |         17 |      46 |
-| Infantry Fighting Vehicles        |          18 |         0 |          24 |         19 |      61 |
-| Armoured Personnel Carriers       |           9 |         0 |           7 |          6 |      22 |
+| Tanks                             |          17 |         1 |          21 |         16 |      55 |
+| Armoured Fighting Vehicles        |          19 |         0 |          12 |         17 |      48 |
+| Infantry Fighting Vehicles        |          18 |         0 |          24 |         20 |      62 |
+| Armoured Personnel Carriers       |           9 |         0 |           9 |          6 |      24 |
 | Mine-Resistant Ambush Protected   |           1 |         0 |           0 |          2 |       3 |
 | Infantry Mobility Vehicles        |          13 |         1 |           2 |          8 |      24 |
 | Communications Station            |           1 |         0 |           3 |          1 |       5 |
@@ -20,5 +20,5 @@
 | Aircraft                          |           3 |         0 |           0 |          0 |       3 |
 | Helicopters                       |           4 |         2 |           0 |          0 |       6 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |          73 |         2 |          33 |         47 |     155 |
-| total                             |         185 |         8 |         118 |        161 |     472 |
+| Trucks, Vehicles and Jeeps        |          75 |         2 |          35 |         50 |     162 |
+| total                             |         188 |         8 |         124 |        166 |     486 |
