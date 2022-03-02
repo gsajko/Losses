@@ -58,20 +58,6 @@ try:
     with open("losses_table.md", "w") as f:
         f.write(df.to_markdown())
 
-    # create dict
-    df2 = df.drop(["total"], axis=1).sum(axis=1)
-    df2.loc["time"] = str(pd.to_datetime("now"))
-    df_dict = df2.to_dict()
-    try:
-        with open("dict_losses.json", "r") as f:
-            dict_list = json.loads(f.read())
-    except:
-        dict_list = []
-
-    dict_list.append(df_dict)
-
-    with open("dict_losses.json", "w") as f:
-        json.dump(dict_list, f)
 except Exception as e:
     print("error", e)
     pass
