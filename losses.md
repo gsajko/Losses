@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 598, of which: destroyed: 238, damaged: 8, abandoned: 138, captured: 213
+ ### Russia - 604, of which: destroyed: 239, damaged: 8, abandoned: 138, captured: 218
 
  
 
@@ -10,9 +10,9 @@
 
  Tanks (85, of which destroyed: 26, damaged: 1, abandoned: 23, captured: 35)
 
- Armoured Fighting Vehicles (63, of which destroyed: 23, abandoned: 15, captured: 25)
+ Armoured Fighting Vehicles (65, of which destroyed: 23, abandoned: 15, captured: 27)
 
- Infantry Fighting Vehicles (78, of which destroyed: 23, abandoned: 26, captured: 29)
+ Infantry Fighting Vehicles (79, of which destroyed: 24, abandoned: 26, captured: 29)
 
  Armoured Personnel Carriers (32, of which destroyed: 11, abandoned: 9, captured: 12)
 
@@ -38,7 +38,7 @@
 
  Self-propelled Anti-Aircraft Guns (7, of which destroyed: 5, abandoned: 2)
 
- Surface-To-Air Missile Systems (17, of which destroyed: 8, damaged: 1, abandoned: 3, captured: 5)
+ Surface-To-Air Missile Systems (18, of which destroyed: 8, damaged: 1, abandoned: 3, captured: 6)
 
  Jammers And Deception Systems (1, of which damaged: 1)
 
@@ -50,23 +50,23 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (197, of which destroyed: 91, damaged: 3, abandoned: 39, captured: 62)
+ Trucks, Vehicles and Jeeps (199, of which destroyed: 91, damaged: 3, abandoned: 39, captured: 64)
 
  
  
  ## Ukraine
  
- ### Ukraine - 190, of which: destroyed: 71, damaged: 4, abandoned: 44, captured: 71
+ ### Ukraine - 193, of which: destroyed: 73, damaged: 4, abandoned: 44, captured: 72
 
  
 
  
 
- Tanks (34, of which destroyed: 9, abandoned: 10, captured: 15)
+ Tanks (35, of which destroyed: 10, abandoned: 10, captured: 15)
 
- Armoured Fighting Vehicles (26, of which destroyed: 7, abandoned: 11, captured: 6)
+ Armoured Fighting Vehicles (27, of which destroyed: 7, abandoned: 11, captured: 7)
 
- Infantry Fighting Vehicles (28, of which destroyed 9, abandoned: 8, captured: 11)
+ Infantry Fighting Vehicles (29, of which destroyed 10, abandoned: 8, captured: 11)
 
  Armoured Personnel Carriers (14, of which destroyed: 1, abandoned: 2, captured: 10)
 
