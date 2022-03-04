@@ -8,7 +8,7 @@
 | Infantry Mobility Vehicles        |          13 |         1 |           2 |          9 |      25 |
 | Communications Station            |           2 |         0 |           4 |          2 |       8 |
 | Engineering Vehicles              |          10 |         0 |           3 |         13 |      26 |
-| Anti-tank Guided Missiles         |           0 |         0 |           0 |         25 |      25 |
+| Anti-tank Guided Missiles         |           0 |         0 |           0 |         26 |      26 |
 | Man-Portable Air Defence Systems  |           0 |         0 |           0 |          3 |       3 |
 | Heavy Mortars                     |           0 |         0 |           0 |          3 |       3 |
 | Towed Artillery                   |           3 |         0 |           3 |          2 |       8 |
@@ -21,5 +21,5 @@
 | Unmanned Aerial Vehicles          |           0 |         0 |           0 |          1 |       1 |
 | Helicopters                       |           5 |         1 |           2 |          0 |       8 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |          93 |         3 |          39 |         67 |     202 |
-| total                             |         243 |         9 |         141 |        252 |     645 |
+| Trucks, Vehicles and Jeeps        |          93 |         3 |          39 |         68 |     203 |
+| total                             |         243 |         9 |         141 |        254 |     647 |
