@@ -2,13 +2,13 @@
 |:----------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                             |          30 |         2 |          24 |         48 |     104 |
 | Armoured Fighting Vehicles        |          26 |         0 |          15 |         32 |      73 |
-| Infantry Fighting Vehicles        |          33 |         0 |          24 |         39 |      96 |
-| Armoured Personnel Carriers       |          11 |         0 |           9 |         17 |      37 |
+| Infantry Fighting Vehicles        |          38 |         0 |          24 |         43 |     105 |
+| Armoured Personnel Carriers       |          12 |         0 |           9 |         19 |      40 |
 | Mine-Resistant Ambush Protected   |           2 |         0 |           0 |          2 |       4 |
-| Infantry Mobility Vehicles        |          15 |         1 |           2 |          9 |      27 |
+| Infantry Mobility Vehicles        |          16 |         1 |           2 |         10 |      29 |
 | Communications Stations           |           2 |         0 |           4 |          2 |       8 |
-| Engineering Vehicles              |          10 |         0 |           6 |         13 |      29 |
-| Anti-Tank Guided Missiles         |           0 |         0 |           0 |         27 |      27 |
+| Engineering Vehicles              |          10 |         0 |          10 |         13 |      33 |
+| Anti-Tank Guided Missiles         |           0 |         0 |           0 |         29 |      29 |
 | Man-Portable Air Defence Systems  |           0 |         0 |           0 |          3 |       3 |
 | Heavy Mortars                     |           0 |         0 |           0 |          3 |       3 |
 | Towed Artillery                   |           4 |         0 |           3 |          2 |       9 |
@@ -17,9 +17,9 @@
 | Self-propelled Anti-Aircraft Guns |           5 |         0 |           2 |          0 |       7 |
 | Surface-To-Air Missile Systems    |           8 |         1 |           3 |          8 |      20 |
 | Jammers And Deception Systems     |           0 |         1 |           0 |          0 |       1 |
-| Aircraft                          |           9 |         0 |           0 |          0 |       9 |
+| Aircraft                          |          10 |         0 |           0 |          0 |      10 |
 | Unmanned Aerial Vehicles          |           1 |         0 |           0 |          1 |       2 |
 | Helicopters                       |           7 |         1 |           2 |          0 |      10 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |         100 |         6 |          39 |         76 |     221 |
-| total                             |         274 |        12 |         143 |        294 |     723 |
+| Trucks, Vehicles and Jeeps        |         101 |         6 |          39 |         78 |     224 |
+| total                             |         283 |        12 |         147 |        305 |     747 |
