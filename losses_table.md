@@ -1,6 +1,6 @@
 | Russian Losses                    |   destroyed |   damaged |   abandoned |   captured |   total |
 |:----------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                             |          30 |         2 |          23 |         44 |      99 |
+| Tanks                             |          30 |         2 |          24 |         45 |     101 |
 | Armoured Fighting Vehicles        |          26 |         0 |          15 |         27 |      68 |
 | Infantry Fighting Vehicles        |          29 |         0 |          24 |         32 |      85 |
 | Armoured Personnel Carriers       |          11 |         0 |           9 |         13 |      33 |
@@ -17,9 +17,9 @@
 | Self-propelled Anti-Aircraft Guns |           5 |         0 |           2 |          0 |       7 |
 | Surface-To-Air Missile Systems    |           8 |         1 |           3 |          6 |      18 |
 | Jammers And Deception Systems     |           0 |         1 |           0 |          0 |       1 |
-| Aircraft                          |           7 |         0 |           0 |          0 |       7 |
-| Unmanned Aerial Vehicles          |           0 |         0 |           0 |          1 |       1 |
-| Helicopters                       |           5 |         1 |           2 |          0 |       8 |
+| Aircraft                          |           8 |         0 |           0 |          0 |       8 |
+| Unmanned Aerial Vehicles          |           1 |         0 |           0 |          1 |       2 |
+| Helicopters                       |           7 |         1 |           2 |          0 |      10 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |          98 |         3 |          43 |         70 |     214 |
-| total                             |         262 |         9 |         143 |        264 |     678 |
+| Trucks, Vehicles and Jeeps        |          99 |         3 |          43 |         70 |     215 |
+| total                             |         267 |         9 |         144 |        265 |     685 |
