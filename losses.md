@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 696, of which: destroyed: 274, damaged: 10, abandoned: 141, captured: 270
+ ### Russia - 701, of which: destroyed: 275, damaged: 10, abandoned: 143, captured: 272
 
  
 
@@ -22,7 +22,7 @@
 
  Communications Stations (8, of which destroyed: 2, abandoned: 4, captured: 2)
 
- Engineering Vehicles (26, of which destroyed: 10, abandoned: 3, captured: 13)
+ Engineering Vehicles (29, of which destroyed: 10, abandoned: 6, captured: 13)
 
  Anti-Tank Guided Missiles (27, of which captured: 27)
 
@@ -46,17 +46,17 @@
 
  Unmanned Aerial Vehicles (2, of which destroyed: 1, captured: 1)
 
- Helicopters (11, of which destroyed: 8, damaged: 1, abandoned: 2)
+ Helicopters (10, of which destroyed: 7, damaged: 1, abandoned: 2)
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (220, of which destroyed: 99, damaged: 3, abandoned: 43, captured: 73)
+ Trucks, Vehicles and Jeeps (223, of which destroyed: 100, damaged: 6, abandoned: 39, captured: 76)
 
  
  
  ## Ukraine
  
- ### Ukraine - 224, of which: destroyed: 80, damaged: 4, abandoned: 44, captured: 96
+ ### Ukraine - 229, of which: destroyed: 83, damaged: 4, abandoned: 44, captured: 98
 
  
 
@@ -64,9 +64,9 @@
 
  Tanks (41, of which destroyed: 11, abandoned: 10, captured: 19)
 
- Armoured Fighting Vehicles (33, of which destroyed: 7, abandoned: 11, captured: 13)
+ Armoured Fighting Vehicles (34, of which destroyed: 8, abandoned: 11, captured: 13)
 
- Infantry Fighting Vehicles (31, of which destroyed 9, abandoned: 8, captured: 14)
+ Infantry Fighting Vehicles (32, of which destroyed 9, abandoned: 8, captured: 15)
 
  Armoured Personnel Carriers (17, of which destroyed: 3, abandoned: 2, captured: 11)
 
@@ -92,9 +92,9 @@
 
  Radars (5, of which destroyed: 3, damaged: 2)
 
- Aircraft (7, of which destroyed: 7)
+ Aircraft (8, of which destroyed: 8)
 
  Naval Ships (1, of which destroyed: 1)
 
- Trucks, Vehicles and Jeeps (54, of which destroyed: 22, damaged: 2, abandoned: 6, captured: 24)
+ Trucks, Vehicles and Jeeps (56, of which destroyed: 22, damaged: 2, abandoned: 6, captured: 26)
 

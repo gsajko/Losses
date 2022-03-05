@@ -7,7 +7,7 @@
 | Mine-Resistant Ambush Protected   |           2 |         0 |           0 |          2 |       4 |
 | Infantry Mobility Vehicles        |          15 |         1 |           2 |          9 |      27 |
 | Communications Stations           |           2 |         0 |           4 |          2 |       8 |
-| Engineering Vehicles              |          10 |         0 |           3 |         13 |      26 |
+| Engineering Vehicles              |          10 |         0 |           6 |         13 |      29 |
 | Anti-Tank Guided Missiles         |           0 |         0 |           0 |         27 |      27 |
 | Man-Portable Air Defence Systems  |           0 |         0 |           0 |          3 |       3 |
 | Heavy Mortars                     |           0 |         0 |           0 |          3 |       3 |
@@ -19,7 +19,7 @@
 | Jammers And Deception Systems     |           0 |         1 |           0 |          0 |       1 |
 | Aircraft                          |           9 |         0 |           0 |          0 |       9 |
 | Unmanned Aerial Vehicles          |           1 |         0 |           0 |          1 |       2 |
-| Helicopters                       |           8 |         1 |           2 |          0 |      11 |
+| Helicopters                       |           7 |         1 |           2 |          0 |      10 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |          99 |         3 |          43 |         73 |     218 |
-| total                             |         274 |         9 |         144 |        291 |     718 |
+| Trucks, Vehicles and Jeeps        |         100 |         6 |          39 |         76 |     221 |
+| total                             |         274 |        12 |         143 |        294 |     723 |
