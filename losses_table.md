@@ -12,7 +12,7 @@
 | Man-Portable Air Defence Systems  |           0 |         0 |           0 |          6 |       6 |
 | Heavy Mortars                     |           0 |         0 |           0 |          3 |       3 |
 | Towed Artillery                   |           4 |         0 |           3 |          2 |       9 |
-| Self-Propelled Artillery          |           3 |         0 |           9 |          5 |      17 |
+| Self-Propelled Artillery          |           3 |         0 |           9 |          6 |      18 |
 | Multiple Rocket Launchers         |           6 |         0 |           2 |          9 |      17 |
 | Self-propelled Anti-Aircraft Guns |           5 |         0 |           2 |          0 |       7 |
 | Surface-To-Air Missile Systems    |           9 |         1 |           3 |          8 |      21 |
@@ -22,5 +22,5 @@
 | Unmanned Aerial Vehicles          |           1 |         0 |           0 |          1 |       2 |
 | Helicopters                       |           7 |         1 |           2 |          0 |      10 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |         117 |         6 |          35 |         83 |     241 |
-| total                             |         310 |        12 |         149 |        360 |     831 |
+| Trucks, Vehicles and Jeeps        |         123 |         6 |          35 |         85 |     249 |
+| total                             |         316 |        12 |         149 |        363 |     840 |
