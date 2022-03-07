@@ -1,13 +1,13 @@
 | Russian Losses                    |   destroyed |   damaged |   abandoned |   captured |   total |
 |:----------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                             |          42 |         2 |          26 |         70 |     140 |
+| Tanks                             |          42 |         2 |          26 |         71 |     141 |
 | Armoured Fighting Vehicles        |          31 |         0 |          16 |         39 |      86 |
 | Infantry Fighting Vehicles        |          52 |         0 |          25 |         54 |     131 |
 | Armoured Personnel Carriers       |          16 |         0 |          10 |         28 |      54 |
 | Mine-Resistant Ambush Protected   |           2 |         0 |           0 |          2 |       4 |
 | Infantry Mobility Vehicles        |          18 |         1 |           2 |         11 |      32 |
 | Communications Stations           |           2 |         0 |           4 |          2 |       8 |
-| Engineering Vehicles              |          11 |         0 |          10 |         15 |      36 |
+| Engineering Vehicles              |          11 |         0 |          11 |         15 |      37 |
 | Anti-Tank Guided Missiles         |           0 |         0 |           0 |         47 |      47 |
 | Man-Portable Air Defence Systems  |           0 |         0 |           0 |         16 |      16 |
 | Heavy Mortars                     |           0 |         0 |           0 |          3 |       3 |
@@ -23,4 +23,4 @@
 | Helicopters                       |           8 |         1 |           2 |          0 |      11 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps        |         132 |         6 |          36 |        102 |     276 |
-| total                             |         360 |        12 |         150 |        432 |     954 |
+| total                             |         360 |        12 |         151 |        433 |     956 |
