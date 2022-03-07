@@ -2,19 +2,19 @@
  
  ## Russia
  
- ### Russia - 862, of which: destroyed: 345, damaged: 10, abandoned: 147, captured: 360
+ ### Russia - 868, of which: destroyed: 347, damaged: 10, abandoned: 147, captured: 364
 
  
 
  
 
- Tanks (135, of which destroyed: 40, damaged: 2, abandoned: 26, captured: 66)
+ Tanks (136, of which destroyed: 40, damaged: 2, abandoned: 26, captured: 67)
 
  Armoured Fighting Vehicles (86, of which destroyed: 30, abandoned: 16, captured: 39)
 
  Infantry Fighting Vehicles (129, of which destroyed: 49, abandoned: 25, captured: 52)
 
- Armoured Personnel Carriers (54, of which destroyed: 16, abandoned: 10, captured: 28)
+ Armoured Personnel Carriers (55, of which destroyed: 16, abandoned: 10, captured: 28)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (4, of which destroyed: 2, captured: 2)
 
@@ -32,13 +32,13 @@
 
  Towed Artillery (24, of which destroyed: 4, abandoned: 3, captured: 17)
 
- Self-Propelled Artillery (19, of which destroyed: 4, abandoned: 9, captured: 6)
+ Self-Propelled Artillery (20, of which destroyed: 4, abandoned: 9, captured: 7)
 
- Multiple Rocket Launchers (18, of which destroyed: 7, abandoned: 2, captured: 9)
+ Multiple Rocket Launchers (19, of which destroyed: 8, abandoned: 2, captured: 9)
 
  Self-propelled Anti-Aircraft Guns (7, of which destroyed: 5, abandoned: 2)
 
- Surface-To-Air Missile Systems (21, of which destroyed: 9, damaged: 1, abandoned: 3, captured: 8)
+ Surface-To-Air Missile Systems (23, of which destroyed: 10, damaged: 1, abandoned: 3, captured: 9)
 
  Radars (1, of which destroyed: 1)
 
@@ -52,13 +52,13 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (260, of which destroyed: 128, damaged: 6, abandoned: 35, captured: 91)
+ Trucks, Vehicles and Jeeps (261, of which destroyed: 128, damaged: 6, abandoned: 35, captured: 92)
 
  
  
  ## Ukraine
  
- ### Ukraine - 248, of which: destroyed: 93, damaged: 4, abandoned: 44, captured: 105
+ ### Ukraine - 249, of which: destroyed: 93, damaged: 4, abandoned: 44, captured: 105
 
  
 
