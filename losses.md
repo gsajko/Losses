@@ -2,13 +2,13 @@
  
  ## Russia
  
- ### Russia - 910, of which: destroyed: 363, damaged: 13, abandoned: 150, captured: 382
+ ### Russia - 916, of which: destroyed: 366, damaged: 13, abandoned: 150, captured: 385
 
  
 
  
 
- Tanks (140, of which destroyed: 42, damaged: 2, abandoned: 27, captured: 69)
+ Tanks (145, of which destroyed: 45, damaged: 2, abandoned: 27, captured: 71)
 
  Armoured Fighting Vehicles (90, of which destroyed: 31, abandoned: 16, captured: 42)
 
@@ -18,7 +18,7 @@
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (5, of which destroyed: 2, abandoned: 1, captured: 2)
 
- Infantry Mobility Vehicles (34, of which destroyed: 18, damaged: 1, abandoned: 2, captured: 11)
+ Infantry Mobility Vehicles (35, of which destroyed: 18, damaged: 1, abandoned: 2, captured: 12)
 
  Communications Stations (8, of which destroyed: 2, abandoned: 4, captured: 2)
 
@@ -52,7 +52,7 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (285, of which destroyed: 136, damaged: 9, abandoned: 36, captured: 103)
+ Trucks, Vehicles and Jeeps (286, of which destroyed: 136, damaged: 9, abandoned: 36, captured: 104)
 
  
  
