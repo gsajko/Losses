@@ -16,10 +16,24 @@ import pandas as pd
 import gspread
 # %%
 SERVICE_ACC = os.environ["SERVICE_ACC"]
-gc = gspread.service_account(SERVICE_ACC)
+print(type(SERVICE_ACC))
+# credentials = {
+#     "type": "service_account",
+#     "project_id": SERVICE_ACC,
+#     "private_key_id": SERVICE_ACC,
+#     "private_key": SERVICE_ACC,
+#     "client_email": SERVICE_ACC,
+#     "client_id": SERVICE_ACC,
+# }
+
+# gc = gspread.service_account(credentials)
 print("done❗️")
 # gc = gspread.service_account("config/auth.json")
 # %%
 # auth_path: str = "config/auth.json"
 # auth = json.load(open(auth_path))
 # TOKEN = auth["token"]
+
+
+
+# %%
