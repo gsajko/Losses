@@ -10,7 +10,7 @@ df = pd.read_table("losses_table.md", sep="|").iloc[1:]
 for col in df.columns:
     if "Unnamed" in col:
         df.drop(col, axis=1, inplace=True)
-df.to_csv("losses_table.csv")
+df.to_csv("losses_table.csv", index=False)
 # %%
 # send df to google sheet
 file_path = Path.home().joinpath("secrets/auth.json")
