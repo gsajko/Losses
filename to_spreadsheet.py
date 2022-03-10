@@ -1,6 +1,7 @@
 # %%
 import os
 import pandas as pd
+from pathlib import Path
 # %%
 # df = pd.read_table("losses_table.md", sep="|").iloc[1:]
 # # %%
@@ -23,15 +24,7 @@ import gspread
 #     "client_email": SERVICE_ACC,
 #     "client_id": SERVICE_ACC,
 # }
-gc = gspread.service_account("../secrets/auth.json")
+file_path = Path.home().joinpath("secrets/auth.json")
+gc = gspread.service_account(file_path)
 # gc = gspread.service_account(credentials)
 print("done❗️")
-
-# %%
-# auth_path: str = "config/auth.json"
-# auth = json.load(open(auth_path))
-# TOKEN = auth["token"]
-
-
-
-# %%
