@@ -1,9 +1,9 @@
 | Russian Losses                    |   destroyed |   damaged |   abandoned |   captured |   total |
 |:----------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                             |          57 |         2 |          30 |         75 |     164 |
+| Tanks                             |          59 |         2 |          30 |         76 |     167 |
 | Armoured Fighting Vehicles        |          34 |         0 |          19 |         48 |     101 |
 | Infantry Fighting Vehicles        |          63 |         0 |          25 |         63 |     151 |
-| Armoured Personnel Carriers       |          16 |         0 |          10 |         30 |      56 |
+| Armoured Personnel Carriers       |          16 |         0 |          10 |         31 |      57 |
 | Mine-Resistant Ambush Protected   |           2 |         0 |           1 |          3 |       6 |
 | Infantry Mobility Vehicles        |          18 |         1 |           2 |         13 |      34 |
 | Communications Stations           |           2 |         0 |           4 |          2 |       8 |
@@ -20,7 +20,7 @@
 | Jammers And Deception Systems     |           0 |         1 |           0 |          0 |       1 |
 | Aircraft                          |          12 |         0 |           0 |          0 |      12 |
 | Unmanned Aerial Vehicles          |           1 |         0 |           0 |          2 |       3 |
-| Helicopters                       |           8 |         1 |           2 |          0 |      11 |
+| Helicopters                       |           9 |         1 |           2 |          0 |      12 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |         142 |         9 |          37 |        114 |     302 |
-| total                             |         402 |        15 |         161 |        484 |    1062 |
+| Trucks, Vehicles and Jeeps        |         143 |         9 |          37 |        114 |     303 |
+| total                             |         406 |        15 |         161 |        486 |    1068 |
