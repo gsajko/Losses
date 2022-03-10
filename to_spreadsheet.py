@@ -23,23 +23,27 @@ file_path = Path.home().joinpath("secrets/auth.json")
 gc = gspread.service_account(file_path)
 sh = gc.open('Russian Losses')
 sheetId = 0
-body = {
-    "requests": [
-        {
-            "updateDimensionProperties": {
-                "range": {
-                    "sheetId": sheetId,
-                    "dimension": "COLUMNS",
-                    "startIndex": 0,
-                    "endIndex": 1
-                },
-                "properties": {
-                    "pixelSize": 500
-                },
-                "fields": "pixelSize"
+# %%
+ranges = [[0,1,500],[1,10, 100]]
+for columns in ranges:
+    body = {
+        "requests": [
+            {
+                "updateDimensionProperties": {
+                    "range": {
+                        "sheetId": sheetId,
+                        "dimension": "COLUMNS",
+                        "startIndex": columns[0],
+                        "endIndex": columns[1],
+                    },
+                    "properties": {
+                        "pixelSize": columns[2],
+                    },
+                    "fields": "pixelSize"
+                }
             }
-        }
-    ]
-}
-res = sh.batch_update(body)
+        ]
+    }
+    res = sh.batch_update(body)
+
 # %%
