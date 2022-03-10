@@ -23,7 +23,7 @@ import gspread
 #     "client_email": SERVICE_ACC,
 #     "client_id": SERVICE_ACC,
 # }
-gc = gspread.service_account("secrets/auth.json")
+gc = gspread.service_account("../secrets/auth.json")
 # gc = gspread.service_account(credentials)
 print("done❗️")
 
