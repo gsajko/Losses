@@ -15,16 +15,7 @@ from pathlib import Path
 
 # %%
 import gspread
-# %%
-# credentials = {
-#     "type": "service_account",
-#     "project_id": SERVICE_ACC,
-#     "private_key_id": SERVICE_ACC,
-#     "private_key": SERVICE_ACC,
-#     "client_email": SERVICE_ACC,
-#     "client_id": SERVICE_ACC,
-# }
+# gc = gspread.service_account("config/auth.json")
 file_path = Path.home().joinpath("secrets/auth.json")
 gc = gspread.service_account(file_path)
-# gc = gspread.service_account(credentials)
 print("done❗️")
