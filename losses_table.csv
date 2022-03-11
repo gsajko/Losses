@@ -1,10 +1,10 @@
  Russian Losses                    ,   destroyed ,   damaged ,   abandoned ,   captured ,   total 
  Tanks                             ,          63 ,         2 ,          33 ,         83 ,     181 
- Armoured Fighting Vehicles        ,          38 ,         0 ,          19 ,         48 ,     105 
- Infantry Fighting Vehicles        ,          68 ,         0 ,          25 ,         64 ,     157 
- Armoured Personnel Carriers       ,          20 ,         0 ,          10 ,         31 ,      61 
+ Armoured Fighting Vehicles        ,          39 ,         0 ,          19 ,         48 ,     106 
+ Infantry Fighting Vehicles        ,          69 ,         0 ,          25 ,         64 ,     158 
+ Armoured Personnel Carriers       ,          21 ,         0 ,          10 ,         31 ,      62 
  Mine-Resistant Ambush Protected   ,           2 ,         0 ,           1 ,          4 ,       7 
- Infantry Mobility Vehicles        ,          18 ,         1 ,           2 ,         13 ,      34 
+ Infantry Mobility Vehicles        ,          19 ,         1 ,           2 ,         13 ,      35 
  Communications Stations           ,           2 ,         0 ,           4 ,          2 ,       8 
  Engineering Vehicles              ,          11 ,         0 ,           7 ,         18 ,      36 
  Anti-Tank Guided Missiles         ,           0 ,         0 ,           0 ,         48 ,      48 
@@ -22,5 +22,5 @@
  Unmanned Aerial Vehicles          ,           1 ,         0 ,           0 ,          2 ,       3 
  Helicopters                       ,           9 ,         1 ,           2 ,          0 ,      12 
  Logistics Trains                  ,           2 ,         0 ,           0 ,          0 ,       2 
-" Trucks, Vehicles and Jeeps        ",         145 ,         9 ,          38 ,        122 ,     314 
- total                             ,         425 ,        15 ,         167 ,        505 ,    1112 
+" Trucks, Vehicles and Jeeps        ",         158 ,         9 ,          38 ,        126 ,     331 
+ total                             ,         442 ,        15 ,         167 ,        509 ,    1133 
