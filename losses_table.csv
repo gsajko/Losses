@@ -1,5 +1,5 @@
  Russian Losses                    ,   destroyed ,   damaged ,   abandoned ,   captured ,   total 
- Tanks                             ,          64 ,         2 ,          35 ,         83 ,     184 
+ Tanks                             ,          64 ,         2 ,          37 ,         83 ,     186 
  Armoured Fighting Vehicles        ,          39 ,         0 ,          19 ,         50 ,     108 
  Infantry Fighting Vehicles        ,          72 ,         0 ,          25 ,         64 ,     161 
  Armoured Personnel Carriers       ,          21 ,         0 ,          11 ,         31 ,      63 
@@ -11,7 +11,7 @@
  Man-Portable Air Defence Systems  ,           0 ,         0 ,           0 ,         16 ,      16 
  Heavy Mortars                     ,           0 ,         0 ,           0 ,          5 ,       5 
  Towed Artillery                   ,           4 ,         0 ,           4 ,         18 ,      26 
- Self-Propelled Artillery          ,           5 ,         0 ,          11 ,         10 ,      26 
+ Self-Propelled Artillery          ,           6 ,         0 ,          11 ,         10 ,      27 
  Multiple Rocket Launchers         ,           8 ,         0 ,           2 ,          9 ,      19 
  Anti-Aircraft Guns                ,           0 ,         0 ,           0 ,          1 ,       1 
  Self-Propelled Anti-Aircraft Guns ,           5 ,         0 ,           3 ,          0 ,       8 
@@ -22,5 +22,5 @@
  Unmanned Aerial Vehicles          ,           2 ,         0 ,           0 ,          2 ,       4 
  Helicopters                       ,          10 ,         1 ,           2 ,          0 ,      13 
  Logistics Trains                  ,           2 ,         0 ,           0 ,          0 ,       2 
-" Trucks, Vehicles and Jeeps        ",         158 ,         9 ,          38 ,        126 ,     331 
- total                             ,         448 ,        15 ,         170 ,        511 ,    1144 
+" Trucks, Vehicles and Jeeps        ",         158 ,         9 ,          38 ,        127 ,     332 
+ total                             ,         449 ,        15 ,         172 ,        512 ,    1148 
