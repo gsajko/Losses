@@ -1,14 +1,14 @@
  Russian Losses                    ,   destroyed ,   damaged ,   abandoned ,   captured ,   total 
- Tanks                             ,          72 ,         2 ,          39 ,         92 ,     205 
+ Tanks                             ,          71 ,         2 ,          39 ,         92 ,     204 
  Armoured Fighting Vehicles        ,          43 ,         0 ,          26 ,         57 ,     126 
  Infantry Fighting Vehicles        ,          81 ,         1 ,          25 ,         73 ,     180 
  Armoured Personnel Carriers       ,          21 ,         0 ,          12 ,         31 ,      64 
- Mine-Resistant Ambush Protected   ,           2 ,         0 ,           1 ,          4 ,       7 
+ Mine-Resistant Ambush Protected   ,           3 ,         0 ,           1 ,          5 ,       9 
  Infantry Mobility Vehicles        ,          20 ,         1 ,           2 ,         13 ,      36 
  Communications Stations           ,           2 ,         0 ,           4 ,          3 ,       9 
  Engineering Vehicles              ,          12 ,         0 ,           7 ,         21 ,      40 
  Anti-Tank Guided Missiles         ,           0 ,         0 ,           0 ,         48 ,      48 
- Man-Portable Air Defence Systems  ,           0 ,         0 ,           0 ,         14 ,      14 
+ Man-Portable Air Defence Systems  ,           0 ,         0 ,           0 ,         22 ,      22 
  Heavy Mortars                     ,           0 ,         0 ,           0 ,          5 ,       5 
  Towed Artillery                   ,           4 ,         0 ,           4 ,         18 ,      26 
  Self-Propelled Artillery          ,           8 ,         0 ,          11 ,         11 ,      30 
@@ -23,4 +23,4 @@
  Helicopters                       ,          12 ,         1 ,           2 ,          0 ,      15 
  Logistics Trains                  ,           2 ,         0 ,           0 ,          0 ,       2 
 " Trucks, Vehicles and Jeeps        ",         182 ,         9 ,          42 ,        135 ,     368 
- total                             ,         503 ,        17 ,         186 ,        550 ,    1256 
+ total                             ,         503 ,        17 ,         186 ,        559 ,    1265 

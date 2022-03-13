@@ -2,13 +2,13 @@
  
  ## Russia
  
- ### Russia - 1203, of which: destroyed: 508, damaged: 15, abandoned: 182, captured: 498
+ ### Russia - 1204, of which: destroyed: 508, damaged: 15, abandoned: 182, captured: 499
 
  
 
  
 
- Tanks (205, of which destroyed: 72, damaged: 2, abandoned: 39, captured: 92)
+ Tanks (204, of which destroyed: 71, damaged: 2, abandoned: 39, captured: 92)
 
  Armoured Fighting Vehicles (128, of which destroyed: 43, abandoned: 26, captured: 57)
 
@@ -16,7 +16,7 @@
 
  Armoured Personnel Carriers (64, of which destroyed: 21, abandoned: 12, captured: 31)
 
- Mine-Resistant Ambush Protected (MRAP) Vehicles (7, of which destroyed: 2, abandoned: 1, captured: 4)
+ Mine-Resistant Ambush Protected (MRAP) Vehicles (9, of which destroyed: 3, abandoned: 1, captured: 5)
 
  Infantry Mobility Vehicles (38, of which destroyed: 20, damaged: 1, abandoned: 2, captured: 13)
 
@@ -26,7 +26,7 @@
 
  Anti-Tank Guided Missiles (48, of which captured: 48)
 
- Man-Portable Air Defence Systems (14, of which captured: 14)
+ Man-Portable Air Defence Systems (22, of which captured: 22)
 
  Heavy Mortars (5, of which captured: 5)
 
@@ -60,17 +60,17 @@
  
  ## Ukraine
  
- ### Ukraine - 326, of which: destroyed: 123, damaged: 5, abandoned: 45, captured: 153
+ ### Ukraine - 332, of which: destroyed: 128, damaged: 5, abandoned: 45, captured: 154
 
  
 
  
 
- Tanks (62, of which destroyed: 19, abandoned: 10, captured: 31)
+ Tanks (63, of which destroyed: 20, abandoned: 10, captured: 31)
 
  Armoured Fighting Vehicles (46, of which destroyed: 9, abandoned: 11, captured: 24)
 
- Infantry Fighting Vehicles (38, of which destroyed: 12, abandoned: 8, captured: 18)
+ Infantry Fighting Vehicles (40, of which destroyed: 14, abandoned: 8, captured: 18)
 
  Armoured Personnel Carriers (20, of which destroyed: 4, abandoned: 2, captured: 13)
 
@@ -108,5 +108,5 @@
 
  Naval Ships (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (80, of which destroyed: 31, damaged: 2, abandoned: 8, captured: 39)
+ Trucks, Vehicles and Jeeps (83, of which destroyed: 33, damaged: 2, abandoned: 8, captured: 40)
 
