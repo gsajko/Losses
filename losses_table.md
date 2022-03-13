@@ -1,13 +1,13 @@
 | Russian Losses                    |   destroyed |   damaged |   abandoned |   captured |   total |
 |:----------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                             |          72 |         2 |          39 |         90 |     203 |
-| Armoured Fighting Vehicles        |          42 |         0 |          25 |         54 |     121 |
-| Infantry Fighting Vehicles        |          81 |         0 |          25 |         72 |     178 |
+| Tanks                             |          72 |         2 |          39 |         91 |     204 |
+| Armoured Fighting Vehicles        |          42 |         0 |          25 |         55 |     122 |
+| Infantry Fighting Vehicles        |          81 |         0 |          25 |         73 |     179 |
 | Armoured Personnel Carriers       |          21 |         0 |          12 |         31 |      64 |
 | Mine-Resistant Ambush Protected   |           2 |         0 |           1 |          4 |       7 |
 | Infantry Mobility Vehicles        |          19 |         1 |           2 |         13 |      35 |
 | Communications Stations           |           2 |         0 |           4 |          3 |       9 |
-| Engineering Vehicles              |          12 |         0 |           7 |         20 |      39 |
+| Engineering Vehicles              |          12 |         0 |           7 |         21 |      40 |
 | Anti-Tank Guided Missiles         |           0 |         0 |           0 |         48 |      48 |
 | Man-Portable Air Defence Systems  |           0 |         0 |           0 |         14 |      14 |
 | Heavy Mortars                     |           0 |         0 |           0 |          5 |       5 |
@@ -23,5 +23,5 @@
 | Unmanned Aerial Vehicles          |           3 |         0 |           0 |          3 |       6 |
 | Helicopters                       |          12 |         1 |           2 |          0 |      15 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |         182 |         9 |          40 |        133 |     364 |
-| total                             |         501 |        16 |         183 |        541 |    1241 |
+| Trucks, Vehicles and Jeeps        |         182 |         9 |          40 |        134 |     365 |
+| total                             |         501 |        16 |         183 |        546 |    1246 |
