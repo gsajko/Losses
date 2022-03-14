@@ -2,23 +2,23 @@
  
  ## Russia
  
- ### Russia - 1276, of which: destroyed: 546, damaged: 18, abandoned: 195, captured: 517
+ ### Russia - 1291, of which: destroyed: 550, damaged: 19, abandoned: 202, captured: 520
 
  
 
  
 
- Tanks (213, of which destroyed: 76, damaged: 2, abandoned: 39, captured: 96)
+ Tanks (214, of which destroyed: 76, damaged: 3, abandoned: 39, captured: 96)
 
- Armoured Fighting Vehicles (135, of which destroyed: 48, abandoned: 26, captured: 59)
+ Armoured Fighting Vehicles (138, of which destroyed: 49, abandoned: 28, captured: 59)
 
- Infantry Fighting Vehicles (188, of which destroyed: 85, damaged: 1, abandoned: 25, captured: 74)
+ Infantry Fighting Vehicles (194, of which destroyed: 87, damaged: 1, abandoned: 28, captured: 75)
 
- Armoured Personnel Carriers (65, of which destroyed: 21, abandoned: 12, captured: 32)
+ Armoured Personnel Carriers (66, of which destroyed: 21, abandoned: 12, captured: 33)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (9, of which destroyed: 3, abandoned: 1, captured: 5)
 
- Infantry Mobility Vehicles (39, of which destroyed: 20, damaged: 1, abandoned: 2, captured: 14)
+ Infantry Mobility Vehicles (40, of which destroyed: 21, damaged: 1, abandoned: 2, captured: 14)
 
  Communications Stations (9, of which destroyed: 2, abandoned: 4, captured: 3)
 
@@ -30,7 +30,7 @@
 
  Heavy Mortars (5, of which captured: 5)
 
- Towed Artillery (26, of which destroyed: 4, damaged: 2 abandoned: 3, captured: 17)
+ Towed Artillery (27, of which destroyed: 4, damaged: 2 abandoned: 4, captured: 17)
 
  Self-Propelled Artillery (31, of which destroyed: 8, abandoned: 11, captured: 12)
 
@@ -54,13 +54,13 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (411, of which destroyed: 208, damaged: 9, abandoned: 53, captured: 140)
+ Trucks, Vehicles and Jeeps (413, of which destroyed: 208, damaged: 9, abandoned: 54, captured: 141)
 
  
  
  ## Ukraine
  
- ### Ukraine - 339, of which: destroyed: 129, damaged: 5, abandoned: 46, captured: 159
+ ### Ukraine - 343, of which: destroyed: 132, damaged: 5, abandoned: 47, captured: 159
 
  
 
@@ -68,9 +68,9 @@
 
  Tanks (65, of which destroyed: 22, abandoned: 10, captured: 31)
 
- Armoured Fighting Vehicles (46, of which destroyed: 9, abandoned: 11, captured: 24)
+ Armoured Fighting Vehicles (47, of which destroyed: 10, abandoned: 11, captured: 24)
 
- Infantry Fighting Vehicles (41, of which destroyed: 14, abandoned: 8, captured: 19)
+ Infantry Fighting Vehicles (42, of which destroyed: 15, abandoned: 8, captured: 19)
 
  Armoured Personnel Carriers (20, of which destroyed: 4, abandoned: 2, captured: 13)
 
@@ -84,7 +84,7 @@
 
  Towed Artillery (15, of which destroyed: 1, abandoned: 3, captured: 11)
 
- Self-Propelled Artillery (8, of which destroyed: 4, abandoned: 1, captured: 3)
+ Self-Propelled Artillery (9, of which destroyed: 5, abandoned: 1, captured: 3)
 
  Multiple Rocket Launchers (3, of which captured: 3)
 
@@ -92,7 +92,7 @@
 
  Self-Propelled Anti-Aircraft Guns (1, of which captured: 1)
 
- Surface-To-Air Missile Systems (10, of which destroyed: 9, abandoned: 1)
+ Surface-To-Air Missile Systems (11, of which destroyed: 9, abandoned: 2)
 
  
 
