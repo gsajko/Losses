@@ -22,12 +22,12 @@ content = (
     .replace("Ukraine - ", "\n \n ## Ukraine\n \n ### Ukraine - ")
 )
 # %%
-with open("losses.md", "w") as f:
-    f.write(content)
+# with open("losses.md", "w") as f:
+#     f.write(content)
 
 
-with open("losses.html", "w") as f:
-    f.write(str(soup))
+# with open("losses.html", "w") as f:
+#     f.write(str(soup))
 
 # %%
 try:
@@ -44,9 +44,18 @@ try:
             losses[vehicle_type] = {}
             for i in ("destroyed: ", "damaged: ", "abandoned: ", "captured: "):
                 if i in line:
-                    losses[vehicle_type][i.replace(": ", "")] = int(
-                        line.split(i)[1].split(",")[0].replace(")", "").strip()
-                    )
+                    try:
+                        str_splits = (
+                            line.split(i)[1]
+                            .split(",")[0]
+                            .replace(")", "")
+                            .strip()
+                            .split(" ")[0]
+                        )
+                        losses[vehicle_type][i.replace(": ", "")] = int(str_splits)
+                    except ValueError as e:
+                        print(e)
+                        raise e
                 else:
                     losses[vehicle_type][i.replace(": ", "")] = 0
 
@@ -55,8 +64,9 @@ try:
     df.loc["total"] = df.sum()
     df.index.rename("Russian Losses", inplace=True)
 
-    with open("losses_table.md", "w") as f:
-        f.write(df.to_markdown())
+    # with open("losses_table.md", "w") as f:
+    #     f.write(df.to_markdown())
 except Exception as e:
     print("error", e)
-    pass
+
+# %%
