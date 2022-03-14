@@ -46,10 +46,11 @@ try:
                 if i in line:
                     try:
                         str_splits = (
-                            line.split(i)[1]
+                            line.split(i)[1]  # split on type
                             .split(",")[0]
                             .replace(")", "")
                             .strip()
+                            # if there are still strings after the number
                             .split(" ")[0]
                         )
                         losses[vehicle_type][i.replace(": ", "")] = int(str_splits)
