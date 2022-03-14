@@ -22,12 +22,12 @@ content = (
     .replace("Ukraine - ", "\n \n ## Ukraine\n \n ### Ukraine - ")
 )
 # %%
-# with open("losses.md", "w") as f:
-#     f.write(content)
+with open("losses.md", "w") as f:
+    f.write(content)
 
 
-# with open("losses.html", "w") as f:
-#     f.write(str(soup))
+with open("losses.html", "w") as f:
+    f.write(str(soup))
 
 # %%
 try:
@@ -64,8 +64,8 @@ try:
     df.loc["total"] = df.sum()
     df.index.rename("Russian Losses", inplace=True)
 
-    # with open("losses_table.md", "w") as f:
-    #     f.write(df.to_markdown())
+    with open("losses_table.md", "w") as f:
+        f.write(df.to_markdown())
 except Exception as e:
     print("error", e)
 
