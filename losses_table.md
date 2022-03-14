@@ -23,5 +23,5 @@
 | Unmanned Aerial Vehicles          |           3 |         0 |           0 |          4 |       7 |
 | Helicopters                       |          12 |         1 |           2 |          0 |      15 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |         203 |         9 |          53 |        140 |     405 |
-| total                             |         533 |        20 |         199 |        570 |    1322 |
+| Trucks, Vehicles and Jeeps        |         205 |         9 |          53 |        140 |     407 |
+| total                             |         535 |        20 |         199 |        570 |    1324 |
