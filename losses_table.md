@@ -1,9 +1,9 @@
 | Russian Losses                    |   destroyed |   damaged |   abandoned |   captured |   total |
 |:----------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                             |          73 |         2 |          39 |         95 |     209 |
-| Armoured Fighting Vehicles        |          45 |         0 |          26 |         57 |     128 |
-| Infantry Fighting Vehicles        |          84 |         1 |          25 |         74 |     184 |
-| Armoured Personnel Carriers       |          21 |         0 |          12 |         31 |      64 |
+| Tanks                             |          77 |         2 |          39 |         96 |     214 |
+| Armoured Fighting Vehicles        |          48 |         0 |          26 |         58 |     132 |
+| Infantry Fighting Vehicles        |          85 |         1 |          25 |         74 |     185 |
+| Armoured Personnel Carriers       |          21 |         0 |          12 |         32 |      65 |
 | Mine-Resistant Ambush Protected   |           3 |         0 |           1 |          5 |       9 |
 | Infantry Mobility Vehicles        |          20 |         1 |           2 |         14 |      37 |
 | Communications Stations           |           2 |         0 |           4 |          3 |       9 |
@@ -23,5 +23,5 @@
 | Unmanned Aerial Vehicles          |           4 |         0 |           0 |          4 |       8 |
 | Helicopters                       |          12 |         1 |           2 |          0 |      15 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |         205 |         9 |          53 |        140 |     407 |
-| total                             |         535 |        20 |         199 |        571 |    1325 |
+| Trucks, Vehicles and Jeeps        |         207 |         9 |          53 |        140 |     409 |
+| total                             |         545 |        20 |         199 |        574 |    1338 |
