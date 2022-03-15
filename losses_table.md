@@ -2,7 +2,7 @@
 |:----------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                             |          76 |         3 |          39 |         96 |     214 |
 | Armoured Fighting Vehicles        |          49 |         0 |          29 |         57 |     135 |
-| Infantry Fighting Vehicles        |          87 |         1 |          28 |         75 |     191 |
+| Infantry Fighting Vehicles        |          87 |         1 |          28 |         76 |     192 |
 | Armoured Personnel Carriers       |          21 |         0 |          13 |         33 |      67 |
 | Mine-Resistant Ambush Protected   |           3 |         0 |           1 |          5 |       9 |
 | Infantry Mobility Vehicles        |          21 |         1 |           2 |         14 |      38 |
@@ -13,7 +13,7 @@
 | Heavy Mortars                     |           0 |         0 |           0 |          5 |       5 |
 | Towed Artillery                   |           4 |         2 |           4 |         17 |      27 |
 | Self-Propelled Artillery          |           8 |         0 |          11 |         12 |      31 |
-| Multiple Rocket Launchers         |           9 |         0 |           4 |         10 |      23 |
+| Multiple Rocket Launchers         |           9 |         0 |           4 |         12 |      25 |
 | Anti-Aircraft Guns                |           0 |         0 |           0 |          2 |       2 |
 | Self-Propelled Anti-Aircraft Guns |           5 |         0 |           3 |          1 |       9 |
 | Surface-To-Air Missile Systems    |          13 |         1 |           7 |         10 |      31 |
@@ -24,4 +24,4 @@
 | Helicopters                       |          12 |         1 |           2 |          0 |      15 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps        |         208 |         9 |          54 |        141 |     412 |
-| total                             |         549 |        21 |         209 |        577 |    1356 |
+| total                             |         549 |        21 |         209 |        580 |    1359 |
