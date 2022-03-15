@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 1304, of which: destroyed: 552, damaged: 19, abandoned: 205, captured: 528
+ ### Russia - 1308, of which: destroyed: 554, damaged: 19, abandoned: 207, captured: 528
 
  
 
@@ -10,7 +10,7 @@
 
  Tanks (217, of which destroyed: 76, damaged: 3, abandoned: 39, captured: 99)
 
- Armoured Fighting Vehicles (137, of which destroyed: 49, abandoned: 29, captured: 57)
+ Armoured Fighting Vehicles (138, of which destroyed: 49, abandoned: 30, captured: 57)
 
  Infantry Fighting Vehicles (197, of which destroyed: 89, damaged: 1, abandoned: 28, captured: 76)
 
@@ -24,7 +24,7 @@
 
  Engineering Vehicles (41, of which destroyed: 12, abandoned: 8, captured: 21)
 
- Anti-Tank Guided Missiles (49, of which captured: 49)
+ Anti-Tank Guided Missiles (61, of which abandoned: 24, captured: 37)
 
  Man-Portable Air Defence Systems (24, of which captured: 24)
 
@@ -40,7 +40,7 @@
 
  Self-Propelled Anti-Aircraft Guns (9, of which destroyed: 5, abandoned: 3, captured: 1)
 
- Surface-To-Air Missile Systems (31, of which destroyed: 13, damaged: 1, abandoned: 7, captured: 10)
+ Surface-To-Air Missile Systems (32, of which destroyed: 14, damaged: 1, abandoned: 7, captured: 10)
 
  Radars (1, of which destroyed: 1)
 
@@ -54,13 +54,13 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (413, of which destroyed: 208, damaged: 9, abandoned: 54, captured: 141)
+ Trucks, Vehicles and Jeeps (415, of which destroyed: 209, damaged: 9, abandoned: 55, captured: 141)
 
  
  
  ## Ukraine
  
- ### Ukraine - 355, of which: destroyed: 133, damaged: 5, abandoned: 47, captured: 170
+ ### Ukraine - 356, of which: destroyed: 134, damaged: 5, abandoned: 47, captured: 170
 
  
 
@@ -74,7 +74,7 @@
 
  Armoured Personnel Carriers (20, of which destroyed: 4, abandoned: 2, captured: 13)
 
- Infantry Mobility Vehicles (22, of which destroyed: 3, damaged: 1, abandoned: 1, captured: 17)
+ Infantry Mobility Vehicles (23, of which destroyed: 4, damaged: 1, abandoned: 1, captured: 17)
 
  Engineering Vehicles (1, of which captured: 1)
 
