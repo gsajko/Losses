@@ -3,7 +3,7 @@
 | Tanks                             |          76 |         3 |          39 |         96 |     214 |
 | Armoured Fighting Vehicles        |          49 |         0 |          28 |         59 |     136 |
 | Infantry Fighting Vehicles        |          87 |         1 |          28 |         75 |     191 |
-| Armoured Personnel Carriers       |          21 |         0 |          12 |         33 |      66 |
+| Armoured Personnel Carriers       |          21 |         0 |          13 |         33 |      67 |
 | Mine-Resistant Ambush Protected   |           3 |         0 |           1 |          5 |       9 |
 | Infantry Mobility Vehicles        |          21 |         1 |           2 |         14 |      38 |
 | Communications Stations           |           2 |         0 |           4 |          3 |       9 |
@@ -24,4 +24,4 @@
 | Helicopters                       |          12 |         1 |           2 |          0 |      15 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps        |         208 |         9 |          54 |        141 |     412 |
-| total                             |         549 |        21 |         206 |        579 |    1355 |
+| total                             |         549 |        21 |         207 |        579 |    1356 |
