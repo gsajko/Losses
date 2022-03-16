@@ -2,17 +2,17 @@
  
  ## Russia
  
- ### Russia - 1362, of which: destroyed: 588, damaged: 20, abandoned: 211, captured: 543
+ ### Russia - 1371, of which: destroyed: 595, damaged: 20, abandoned: 211, captured: 545
 
  
 
  
 
- Tanks (229, of which destroyed: 85, damaged: 3, abandoned: 39, captured: 102)
+ Tanks (230, of which destroyed: 86, damaged: 3, abandoned: 39, captured: 102)
 
  Armoured Fighting Vehicles (143, of which destroyed: 52, abandoned: 30, captured: 61)
 
- Infantry Fighting Vehicles (205, of which destroyed: 95, damaged: 1, abandoned: 28, captured: 78)
+ Infantry Fighting Vehicles (207, of which destroyed: 96, damaged: 1, abandoned: 28, captured: 79)
 
  Armoured Personnel Carriers (68, of which destroyed: 21, abandoned: 13, captured: 34)
 
@@ -22,7 +22,7 @@
 
  Communications Stations (9, of which destroyed: 2, abandoned: 4, captured: 3)
 
- Engineering Vehicles (41, of which destroyed: 12, abandoned: 8, captured: 21)
+ Engineering Vehicles (43, of which destroyed: 13, abandoned: 8, captured: 22)
 
  Anti-Tank Guided Missiles (61, of which abandoned: 24, captured: 37)
 
@@ -44,7 +44,7 @@
 
  Radars (1, of which destroyed: 1)
 
- Jammers And Deception Systems (2, of which damaged: 2)
+ Jammers And Deception Systems (3, of which destroyed: 1, damaged: 2)
 
  Aircraft (13, of which destroyed: 12, damaged: 1)
 
@@ -54,19 +54,19 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (422, of which destroyed: 210, damaged: 9, abandoned: 57, captured: 145)
+ Trucks, Vehicles and Jeeps (425, of which destroyed: 213, damaged: 9, abandoned: 57, captured: 145)
 
  
  
  ## Ukraine
  
- ### Ukraine - 361, of which: destroyed: 135, damaged: 5, abandoned: 47, captured: 174
+ ### Ukraine - 362, of which: destroyed: 135, damaged: 5, abandoned: 48, captured: 174
 
  
 
  
 
- Tanks (65, of which destroyed: 22, abandoned: 10, captured: 31)
+ Tanks (66, of which destroyed: 22, abandoned: 11, captured: 31)
 
  Armoured Fighting Vehicles (47, of which destroyed: 10, abandoned: 11, captured: 24)
 
