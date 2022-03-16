@@ -1,8 +1,8 @@
 | Russian Losses                    |   destroyed |   damaged |   abandoned |   captured |   total |
 |:----------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                             |          83 |         3 |          39 |        101 |     226 |
+| Tanks                             |          85 |         3 |          39 |        101 |     228 |
 | Armoured Fighting Vehicles        |          50 |         0 |          30 |         58 |     138 |
-| Infantry Fighting Vehicles        |          96 |         1 |          28 |         77 |     202 |
+| Infantry Fighting Vehicles        |          95 |         1 |          28 |         77 |     201 |
 | Armoured Personnel Carriers       |          21 |         0 |          13 |         34 |      68 |
 | Mine-Resistant Ambush Protected   |           3 |         0 |           3 |          5 |      11 |
 | Infantry Mobility Vehicles        |          21 |         1 |           2 |         14 |      38 |
@@ -21,7 +21,7 @@
 | Jammers And Deception Systems     |           0 |         2 |           0 |          0 |       2 |
 | Aircraft                          |          12 |         1 |           0 |          0 |      13 |
 | Unmanned Aerial Vehicles          |           4 |         0 |           0 |          4 |       8 |
-| Helicopters                       |          16 |         5 |           2 |          0 |      23 |
+| Helicopters                       |          22 |         6 |           2 |          0 |      30 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |         210 |         9 |          55 |        141 |     415 |
-| total                             |         573 |        25 |         237 |        582 |    1417 |
+| Trucks, Vehicles and Jeeps        |         210 |         9 |          55 |        143 |     417 |
+| total                             |         580 |        26 |         237 |        584 |    1427 |
