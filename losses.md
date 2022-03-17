@@ -2,19 +2,19 @@
  
  ## Russia
  
- ### Russia - 1453, of which: destroyed: 657, damaged: 23, abandoned: 214, captured: 559
+ ### Russia - 1477, of which: destroyed: 672, damaged: 24, abandoned: 218, captured: 562
 
  
 
  
 
- Tanks (236, of which destroyed: 90, damaged: 3, abandoned: 39, captured: 104)
+ Tanks (238, of which destroyed: 90, damaged: 3, abandoned: 39, captured: 106)
 
- Armoured Fighting Vehicles (150, of which destroyed: 57, abandoned: 31, captured: 62)
+ Armoured Fighting Vehicles (151, of which destroyed: 57, abandoned: 32, captured: 62)
 
- Infantry Fighting Vehicles (213, of which destroyed: 99, damaged: 1, abandoned: 30, captured: 80)
+ Infantry Fighting Vehicles (218, of which destroyed: 104, damaged: 1, abandoned: 30, captured: 80)
 
- Armoured Personnel Carriers (69, of which destroyed: 21, abandoned: 13, captured: 35)
+ Armoured Personnel Carriers (70, of which destroyed: 21, abandoned: 14, captured: 35)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (11, of which destroyed: 3, abandoned: 3, captured: 5)
 
@@ -32,7 +32,7 @@
 
  Towed Artillery (33, of which destroyed: 4, damaged: 2 abandoned: 4, captured: 23)
 
- Self-Propelled Artillery (33, of which destroyed: 9, abandoned: 11, captured: 13)
+ Self-Propelled Artillery (35, of which destroyed: 9, abandoned: 12, captured: 14)
 
  Multiple Rocket Launchers (26, of which destroyed: 10, abandoned: 4, captured: 12)
 
@@ -54,13 +54,13 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (472, of which destroyed: 253, damaged: 11, abandoned: 57, captured: 150)
+ Trucks, Vehicles and Jeeps (485, of which destroyed: 263, damaged: 12, abandoned: 58, captured: 151)
 
  
  
  ## Ukraine
  
- ### Ukraine - 371, of which: destroyed: 142, damaged: 5, abandoned: 48, captured: 176
+ ### Ukraine - 373, of which: destroyed: 143, damaged: 5, abandoned: 48, captured: 177
 
  
 
@@ -98,9 +98,9 @@
 
  
 
- Radars (6, of which destroyed: 4, damaged: 2)
+ Radars (7, of which destroyed: 4, damaged: 2, captured: 1)
 
- Aircraft (9, of which destroyed: 9)
+ Aircraft (10, of which destroyed: 10)
 
  Unmanned Aerial Vehicles (7, of which destroyed: 5, captured: 2)
 
