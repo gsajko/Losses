@@ -2,17 +2,17 @@
  
  ## Russia
  
- ### Russia - 1529, of which: destroyed: 708, damaged: 26, abandoned: 222, captured: 572
+ ### Russia - 1534, of which: destroyed: 709, damaged: 27, abandoned: 222, captured: 575
 
  
 
  
 
- Tanks (244, of which destroyed: 93, damaged: 4, abandoned: 41, captured: 106)
+ Tanks (245, of which destroyed: 93, damaged: 4, abandoned: 41, captured: 107)
 
- Armoured Fighting Vehicles (162, of which destroyed: 65, abandoned: 33, captured: 64)
+ Armoured Fighting Vehicles (163, of which destroyed: 65, abandoned: 33, captured: 65)
 
- Infantry Fighting Vehicles (226, of which destroyed: 110, damaged: 1, abandoned: 32, captured: 80)
+ Infantry Fighting Vehicles (228, of which destroyed: 110, damaged: 2, abandoned: 32, captured: 81)
 
  Armoured Personnel Carriers (71, of which destroyed: 21, abandoned: 14, captured: 36)
 
@@ -32,7 +32,7 @@
 
  Towed Artillery (33, of which destroyed: 4, damaged: 2 abandoned: 4, captured: 23)
 
- Self-Propelled Artillery (37, of which destroyed: 9, abandoned: 12, captured: 15)
+ Self-Propelled Artillery (38, of which destroyed: 10, abandoned: 12, captured: 15)
 
  Multiple Rocket Launchers (27, of which destroyed: 11, abandoned: 4, captured: 12)
 
@@ -60,7 +60,7 @@
  
  ## Ukraine
  
- ### Ukraine - 379, of which: destroyed: 148, damaged: 5, abandoned: 49, captured: 177
+ ### Ukraine - 386, of which: destroyed: 151, damaged: 5, abandoned: 49, captured: 181
 
  
 
@@ -70,11 +70,11 @@
 
  Armoured Fighting Vehicles (49, of which destroyed: 12, abandoned: 11, captured: 24)
 
- Infantry Fighting Vehicles (44, of which destroyed: 15, abandoned: 9, captured: 20)
+ Infantry Fighting Vehicles (47, of which destroyed: 18, abandoned: 9, captured: 20)
 
- Armoured Personnel Carriers (23, of which destroyed: 5, abandoned: 2, captured: 15)
+ Armoured Personnel Carriers (25, of which destroyed: 5, abandoned: 2, captured: 17)
 
- Infantry Mobility Vehicles (25, of which destroyed: 5, damaged: 1, abandoned: 1, captured: 18)
+ Infantry Mobility Vehicles (27, of which destroyed: 5, damaged: 1, abandoned: 1, captured: 20)
 
  Engineering Vehicles (1, of which captured: 1)
 
