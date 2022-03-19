@@ -1,5 +1,5 @@
  Russian Losses                    ,   destroyed ,   damaged ,   abandoned ,   captured ,   total 
- Tanks                             ,          98 ,         4 ,          41 ,        106 ,     249 
+ Tanks                             ,         100 ,         4 ,          41 ,        106 ,     251 
  Armoured Fighting Vehicles        ,          67 ,         0 ,          34 ,         65 ,     166 
  Infantry Fighting Vehicles        ,         113 ,         2 ,          32 ,         84 ,     231 
  Armoured Personnel Carriers       ,          21 ,         0 ,          14 ,         36 ,      71 
@@ -12,7 +12,7 @@
  Heavy Mortars                     ,           0 ,         0 ,           0 ,          5 ,       5 
  Towed Artillery                   ,           4 ,         2 ,           5 ,         23 ,      34 
  Self-Propelled Artillery          ,          10 ,         0 ,          12 ,         15 ,      37 
- Multiple Rocket Launchers         ,          13 ,         0 ,           4 ,         12 ,      29 
+ Multiple Rocket Launchers         ,          14 ,         0 ,           4 ,         12 ,      30 
  Anti-Aircraft Guns                ,           0 ,         0 ,           0 ,          2 ,       2 
  Self-Propelled Anti-Aircraft Guns ,           5 ,         0 ,           3 ,          1 ,       9 
  Surface-To-Air Missile Systems    ,          16 ,         1 ,           7 ,         11 ,      35 
@@ -22,5 +22,5 @@
  Unmanned Aerial Vehicles          ,           5 ,         0 ,           0 ,          4 ,       9 
  Helicopters                       ,          29 ,         3 ,           2 ,          0 ,      34 
  Logistics Trains                  ,           2 ,         0 ,           0 ,          0 ,       2 
-" Trucks, Vehicles and Jeeps        ",         295 ,        12 ,          59 ,        152 ,     518 
- total                             ,         740 ,        29 ,         257 ,        626 ,    1652 
+" Trucks, Vehicles and Jeeps        ",         296 ,        12 ,          59 ,        152 ,     519 
+ total                             ,         744 ,        29 ,         257 ,        626 ,    1656 
