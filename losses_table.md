@@ -13,7 +13,7 @@
 | Heavy Mortars                     |           0 |         0 |           0 |          5 |       5 |
 | Towed Artillery                   |           4 |         2 |           5 |         23 |      34 |
 | Self-Propelled Artillery          |          10 |         0 |          12 |         15 |      37 |
-| Multiple Rocket Launchers         |          11 |         0 |           4 |         12 |      27 |
+| Multiple Rocket Launchers         |          13 |         0 |           4 |         12 |      29 |
 | Anti-Aircraft Guns                |           0 |         0 |           0 |          2 |       2 |
 | Self-Propelled Anti-Aircraft Guns |           5 |         0 |           3 |          1 |       9 |
 | Surface-To-Air Missile Systems    |          16 |         1 |           7 |         11 |      35 |
@@ -23,5 +23,5 @@
 | Unmanned Aerial Vehicles          |           5 |         0 |           0 |          4 |       9 |
 | Helicopters                       |          29 |         3 |           2 |          0 |      34 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps        |         283 |        12 |          58 |        152 |     505 |
-| total                             |         726 |        29 |         256 |        626 |    1637 |
+| Trucks, Vehicles and Jeeps        |         295 |        12 |          59 |        152 |     518 |
+| total                             |         740 |        29 |         257 |        626 |    1652 |
