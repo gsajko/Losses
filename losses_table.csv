@@ -2,7 +2,7 @@
  Tanks                             ,         100 ,         4 ,          41 ,        106 ,     251 
  Armoured Fighting Vehicles        ,          67 ,         0 ,          34 ,         64 ,     165 
  Infantry Fighting Vehicles        ,         114 ,         2 ,          32 ,         84 ,     232 
- Armoured Personnel Carriers       ,          21 ,         0 ,          14 ,         36 ,      71 
+ Armoured Personnel Carriers       ,          23 ,         0 ,          14 ,         38 ,      75 
  Mine-Resistant Ambush Protected   ,           4 ,         0 ,           3 ,          5 ,      12 
  Infantry Mobility Vehicles        ,          29 ,         2 ,           5 ,         16 ,      52 
  Communications Stations           ,           3 ,         0 ,           4 ,          4 ,      11 
@@ -19,8 +19,8 @@
  Radars                            ,           1 ,         0 ,           0 ,          1 ,       2 
  Jammers And Deception Systems     ,           1 ,         2 ,           0 ,          1 ,       4 
  Aircraft                          ,          12 ,         1 ,           0 ,          0 ,      13 
- Unmanned Aerial Vehicles          ,           5 ,         0 ,           0 ,          4 ,       9 
+ Unmanned Aerial Vehicles          ,           6 ,         0 ,           0 ,          4 ,      10 
  Helicopters                       ,          29 ,         3 ,           2 ,          0 ,      34 
  Logistics Trains                  ,           2 ,         0 ,           0 ,          0 ,       2 
 " Trucks, Vehicles and Jeeps        ",         296 ,        12 ,          59 ,        153 ,     520 
- total                             ,         746 ,        29 ,         257 ,        626 ,    1658 
+ total                             ,         749 ,        29 ,         257 ,        628 ,    1663 
