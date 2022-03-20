@@ -60,7 +60,7 @@
  
  ## Ukraine
  
- ### Ukraine - 389, of which: destroyed: 154, damaged: 5, abandoned: 49, captured: 181
+ ### Ukraine - 390, of which: destroyed: 155, damaged: 5, abandoned: 49, captured: 181
 
  
 
@@ -100,7 +100,7 @@
 
  Radars (7, of which destroyed: 4, damaged: 2, captured: 1)
 
- Aircraft (10, of which destroyed: 10)
+ Aircraft (11, of which destroyed: 11)
 
  Helicopters (1, of which destroyed: 1)
 
