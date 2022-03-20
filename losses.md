@@ -2,13 +2,13 @@
  
  ## Russia
  
- ### Russia - 1639, of which: destroyed: 787, damaged: 30, abandoned: 221, captured: 601
+ ### Russia - 1643, of which: destroyed: 788, damaged: 30, abandoned: 221, captured: 604
 
  
 
  
 
- Tanks (258, of which destroyed: 106, damaged: 4, abandoned: 39, captured: 109)
+ Tanks (259, of which destroyed: 107, damaged: 4, abandoned: 39, captured: 109)
 
  Armoured Fighting Vehicles (172, of which destroyed: 73, abandoned: 34, captured: 65)
 
@@ -30,9 +30,9 @@
 
  Heavy Mortars (5, of which captured: 5)
 
- Towed Artillery (35, of which destroyed: 4, damaged: 2 abandoned: 5, captured: 24)
+ Towed Artillery (36, of which destroyed: 4, damaged: 2 abandoned: 5, captured: 25)
 
- Self-Propelled Artillery (39, of which destroyed: 10, abandoned: 12, captured: 16)
+ Self-Propelled Artillery (40, of which destroyed: 10, abandoned: 12, captured: 17)
 
  Multiple Rocket Launchers (30, of which destroyed: 14, abandoned: 4, captured: 12)
 
@@ -54,13 +54,13 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (537, of which destroyed: 306, damaged: 15, abandoned: 59, captured: 156)
+ Trucks, Vehicles and Jeeps (538, of which destroyed: 306, damaged: 15, abandoned: 59, captured: 157)
 
  
  
  ## Ukraine
  
- ### Ukraine - 393, of which: destroyed: 156, damaged: 5, abandoned: 49, captured: 183
+ ### Ukraine - 397, of which: destroyed: 160, damaged: 5, abandoned: 49, captured: 183
 
  
 
@@ -70,11 +70,11 @@
 
  Armoured Fighting Vehicles (49, of which destroyed: 12, abandoned: 11, captured: 24)
 
- Infantry Fighting Vehicles (48, of which destroyed: 19, abandoned: 9, captured: 20)
+ Infantry Fighting Vehicles (51, of which destroyed: 22, abandoned: 9, captured: 20)
 
  Armoured Personnel Carriers (26, of which destroyed: 5, abandoned: 2, captured: 18)
 
- Infantry Mobility Vehicles (29, of which destroyed: 6, damaged: 1, abandoned: 1, captured: 21)
+ Infantry Mobility Vehicles (30, of which destroyed: 7, damaged: 1, abandoned: 1, captured: 21)
 
  Engineering Vehicles (1, of which captured: 1)
 
