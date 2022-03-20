@@ -2,10 +2,10 @@
 |:----------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                             |         103 |         4 |          41 |        106 |     254 |
 | Armoured Fighting Vehicles        |          71 |         0 |          34 |         65 |     170 |
-| Infantry Fighting Vehicles        |         114 |         2 |          32 |         84 |     232 |
+| Infantry Fighting Vehicles        |         117 |         2 |          32 |         84 |     235 |
 | Armoured Personnel Carriers       |          24 |         0 |          14 |         38 |      76 |
 | Mine-Resistant Ambush Protected   |           4 |         0 |           3 |          5 |      12 |
-| Infantry Mobility Vehicles        |          29 |         2 |           5 |         16 |      52 |
+| Infantry Mobility Vehicles        |          30 |         2 |           5 |         16 |      53 |
 | Communications Stations           |           3 |         0 |           4 |          4 |      11 |
 | Engineering Vehicles              |          13 |         0 |           8 |         22 |      43 |
 | Anti-Tank Guided Missiles         |           0 |         0 |          24 |         37 |      61 |
@@ -21,7 +21,7 @@
 | Jammers And Deception Systems     |           1 |         2 |           0 |          1 |       4 |
 | Aircraft                          |          14 |         1 |           0 |          0 |      15 |
 | Helicopters                       |          29 |         3 |           2 |          0 |      34 |
-| Unmanned Aerial Vehicles          |           6 |         0 |           0 |          4 |      10 |
+| Unmanned Aerial Vehicles          |           6 |         0 |           0 |          5 |      11 |
 | Logistics Trains                  |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps        |         305 |        15 |          59 |        154 |     533 |
-| total                             |         769 |        32 |         257 |        631 |    1689 |
+| total                             |         773 |        32 |         257 |        632 |    1694 |
