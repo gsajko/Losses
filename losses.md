@@ -60,7 +60,7 @@
  
  ## Ukraine
  
- ### Ukraine - 500, of which: destroyed: 184, damaged: 10, abandoned: 37, captured: 269
+ ### Ukraine - 500, of which: destroyed: 185, damaged: 10, abandoned: 37, captured: 268
 
  
 
@@ -92,7 +92,7 @@
 
  Self-Propelled Anti-Aircraft Guns (1, of which captured: 1)
 
- Surface-To-Air Missile Systems (18, of which destroyed: 13, abandoned: 2, captured: 3)
+ Surface-To-Air Missile Systems (18, of which destroyed: 14, abandoned: 2, captured: 2)
 
  
 
