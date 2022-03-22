@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 1706, of which: destroyed: 826, damaged: 32, abandoned: 221, captured: 627
+ ### Russia - 1709, of which: destroyed: 829, damaged: 32, abandoned: 221, captured: 627
 
  
 
@@ -40,7 +40,7 @@
 
  Self-Propelled Anti-Aircraft Guns (9, of which destroyed: 5, abandoned: 3, captured: 1)
 
- Surface-To-Air Missile Systems (39, of which destroyed: 19, damaged: 1, abandoned: 7, captured: 12)
+ Surface-To-Air Missile Systems (40, of which destroyed: 20, damaged: 1, abandoned: 7, captured: 12)
 
  Radars (2, of which destroyed: 1, captured: 1)
 
@@ -50,7 +50,7 @@
 
  Helicopters (35, of which destroyed: 30, damaged: 3, abandoned: 2)
 
- Unmanned Aerial Vehicles (13, of which destroyed: 8, captured: 5)
+ Unmanned Aerial Vehicles (15, of which destroyed: 10, captured: 5)
 
  Naval Ships (1, of which damaged: 1)
 
@@ -62,13 +62,13 @@
  
  ## Ukraine
  
- ### Ukraine - 502, of which: destroyed: 185, damaged: 10, abandoned: 37, captured: 270
+ ### Ukraine - 505, of which: destroyed: 186, damaged: 11, abandoned: 37, captured: 271
 
  
 
  
 
- Tanks (71, of which destroyed: 24, abandoned: 9, captured: 36)
+ Tanks (73, of which destroyed: 25, abandoned: 9, captured: 37)
 
  Armoured Fighting Vehicles (59, of which destroyed: 20, abandoned: 4, captured: 36)
 
@@ -102,7 +102,7 @@
 
  Radars (9, of which destroyed: 6, damaged: 2, captured: 1)
 
- Aircraft (11, of which destroyed: 11)
+ Aircraft (12, of which destroyed: 11, damaged: 1)
 
  Helicopters (1, of which destroyed: 1)
 
