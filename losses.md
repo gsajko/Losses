@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 1775, of which: destroyed: 868, damaged: 33, abandoned: 228, captured: 646
+ ### Russia - 1776, of which: destroyed: 868, damaged: 33, abandoned: 228, captured: 647
 
  
 
@@ -22,7 +22,7 @@
 
  Communications Stations (11, of which destroyed: 3, abandoned: 4, captured: 4)
 
- Engineering Vehicles (46, of which destroyed: 14, abandoned: 8, captured: 24)
+ Engineering Vehicles (47, of which destroyed: 14, abandoned: 8, captured: 25)
 
  Anti-Tank Guided Missiles (62, of which abandoned: 24, captured: 38)
 
