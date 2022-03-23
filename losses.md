@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 1767, of which: destroyed: 864, damaged: 32, abandoned: 228, captured: 643
+ ### Russia - 1775, of which: destroyed: 868, damaged: 33, abandoned: 228, captured: 646
 
  
 
@@ -10,7 +10,7 @@
 
  Tanks (278, of which destroyed: 116, damaged: 4, abandoned: 41, captured: 117)
 
- Armoured Fighting Vehicles (192, of which destroyed: 86, abandoned: 34, captured: 72)
+ Armoured Fighting Vehicles (195, of which destroyed: 87, abandoned: 34, captured: 74)
 
  Infantry Fighting Vehicles (264, of which destroyed: 135, damaged: 2, abandoned: 31, captured: 93)
 
@@ -32,7 +32,7 @@
 
  Towed Artillery (41, of which destroyed: 8, damaged: 2 abandoned: 5, captured: 26)
 
- Self-Propelled Artillery (50, of which destroyed: 12, damaged: 1, abandoned: 15, captured: 21)
+ Self-Propelled Artillery (52, of which destroyed: 12, damaged: 2, abandoned: 15, captured: 22)
 
  Multiple Rocket Launchers (33, of which destroyed: 15, abandoned: 5, captured: 14)
 
@@ -56,13 +56,13 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (576, of which destroyed: 334, damaged: 15, abandoned: 59, captured: 167)
+ Trucks, Vehicles and Jeeps (579, of which destroyed: 337, damaged: 15, abandoned: 59, captured: 167)
 
  
  
  ## Ukraine
  
- ### Ukraine - 517, of which: destroyed: 194, damaged: 11, abandoned: 37, captured: 275
+ ### Ukraine - 521, of which: destroyed: 197, damaged: 12, abandoned: 37, captured: 275
 
  
 
@@ -72,7 +72,7 @@
 
  Armoured Fighting Vehicles (60, of which destroyed: 21, abandoned: 4, captured: 36)
 
- Infantry Fighting Vehicles (54, of which destroyed: 22, damaged: 1, abandoned: 9, captured: 22)
+ Infantry Fighting Vehicles (57, of which destroyed: 25, damaged: 1, abandoned: 9, captured: 22)
 
  Armoured Personnel Carriers (27, of which destroyed: 5, abandoned: 2, captured: 19)
 
@@ -100,7 +100,7 @@
 
  
 
- Radars (9, of which destroyed: 6, damaged: 2, captured: 1)
+ Radars (10, of which destroyed: 6, damaged: 3, captured: 1)
 
  Aircraft (12, of which destroyed: 11, damaged: 1)
 
