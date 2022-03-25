@@ -40,7 +40,11 @@ try:
         if "Russia" in line:
             pass
         elif len(line) > 2:
-            vehicle_type = line.split("(")[0].strip()
+            line_split = line.split("(")
+            if len(line_split) > 2:
+                vehicle_type = line_split[0] + " (" + line_split[1]
+            else:
+                vehicle_type = line_split[0].strip()
             losses[vehicle_type] = {}
             for i in ("destroyed: ", "damaged: ", "abandoned: ", "captured: "):
                 if i in line:
@@ -59,7 +63,6 @@ try:
                         raise e
                 else:
                     losses[vehicle_type][i.replace(": ", "")] = 0
-
     df = pd.DataFrame(losses).T
     df["total"] = df.sum(axis=1)
     df.loc["total"] = df.sum()
