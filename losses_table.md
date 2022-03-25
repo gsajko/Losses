@@ -1,7 +1,7 @@
 | Russian Losses                     |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-----------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                              |         122 |         4 |          41 |        122 |     289 |
-| Armoured Fighting Vehicles         |          95 |         0 |          34 |         80 |     209 |
+| Armoured Fighting Vehicles         |          95 |         0 |          34 |         81 |     210 |
 | Infantry Fighting Vehicles         |         148 |         2 |          29 |        100 |     279 |
 | Armoured Personnel Carriers        |          19 |         0 |          17 |         40 |      76 |
 | Mine-Resistant Ambush Protected    |           4 |         0 |           3 |          5 |      12 |
@@ -19,10 +19,10 @@
 | Surface-To-Air Missile Systems     |          20 |         1 |           7 |         12 |      40 |
 | Radars                             |           1 |         0 |           0 |          1 |       2 |
 | Jammers And Deception Systems      |           2 |         2 |           0 |          2 |       6 |
-| Aircraft                           |          14 |         1 |           0 |          0 |      15 |
+| Aircraft                           |          15 |         1 |           0 |          0 |      16 |
 | Helicopters                        |          30 |         3 |           2 |          0 |      35 |
 | Unmanned Aerial Vehicles           |          11 |         0 |           0 |          5 |      16 |
 | Naval Ships                        |           1 |         2 |           0 |          0 |       3 |
 | Logistics Trains                   |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps         |         341 |        16 |          59 |        170 |     586 |
-| total                              |         908 |        37 |         261 |        718 |    1924 |
+| total                              |         909 |        37 |         261 |        719 |    1926 |
