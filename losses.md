@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 1885, of which: destroyed: 934, damaged: 35, abandoned: 229, captured: 687
+ ### Russia - 1887, of which: destroyed: 936, damaged: 35, abandoned: 229, captured: 687
 
  
 
@@ -12,7 +12,7 @@
 
  Armoured Fighting Vehicles (217, of which destroyed: 101, abandoned: 34, captured: 82)
 
- Infantry Fighting Vehicles (290, of which destroyed: 154, damaged: 2, abandoned: 29, captured: 102)
+ Infantry Fighting Vehicles (292, of which destroyed: 156, damaged: 2, abandoned: 29, captured: 102)
 
  Armoured Personnel Carriers (76, of which destroyed: 19, abandoned: 17, captured: 40)
 
