@@ -24,5 +24,5 @@
 | Unmanned Aerial Vehicles                         |          11 |         0 |           0 |          5 |      16 |
 | Naval Ships                                      |           1 |         2 |           0 |          0 |       3 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps                       |         360 |        16 |          59 |        172 |     607 |
-| total                                            |         953 |        37 |         262 |        735 |    1987 |
+| Trucks, Vehicles and Jeeps                       |         361 |        16 |          59 |        174 |     610 |
+| total                                            |         954 |        37 |         262 |        737 |    1990 |
