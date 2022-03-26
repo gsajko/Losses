@@ -2,13 +2,13 @@
  
  ## Russia
  
- ### Russia - 1881, of which: destroyed: 932, damaged: 35, abandoned: 229, captured: 685
+ ### Russia - 1885, of which: destroyed: 934, damaged: 35, abandoned: 229, captured: 687
 
  
 
  
 
- Tanks (297, of which destroyed: 126, damaged: 4, abandoned: 42, captured: 125)
+ Tanks (298, of which destroyed: 126, damaged: 4, abandoned: 42, captured: 126)
 
  Armoured Fighting Vehicles (217, of which destroyed: 101, abandoned: 34, captured: 82)
 
@@ -32,7 +32,7 @@
 
  Towed Artillery (41, of which destroyed: 8, damaged: 2 abandoned: 5, captured: 26)
 
- Self-Propelled Artillery (54, of which destroyed: 14, damaged: 2, abandoned: 15, captured: 22)
+ Self-Propelled Artillery (57, of which destroyed: 16, damaged: 2, abandoned: 15, captured: 23)
 
  Multiple Rocket Launchers (33, of which destroyed: 15, abandoned: 5, captured: 14)
 
@@ -62,21 +62,21 @@
  
  ## Ukraine
  
- ### Ukraine - 550, of which: destroyed: 209, damaged: 16, abandoned: 37, captured: 288
+ ### Ukraine - 557, of which: destroyed: 209, damaged: 16, abandoned: 37, captured: 295
 
  
 
  
 
- Tanks (77, of which destroyed: 26, abandoned: 9, captured: 40)
+ Tanks (79, of which destroyed: 26, abandoned: 9, captured: 42)
 
- Armoured Fighting Vehicles (58, of which destroyed: 21, abandoned: 4, captured: 34)
+ Armoured Fighting Vehicles (59, of which destroyed: 21, abandoned: 4, captured: 35)
 
  Infantry Fighting Vehicles (60, of which destroyed: 26, damaged: 2, abandoned: 9, captured: 23)
 
  Armoured Personnel Carriers (29, of which destroyed: 5, abandoned: 2, captured: 21)
 
- Infantry Mobility Vehicles (29, of which destroyed: 7, damaged: 1, abandoned: 1, captured: 20)
+ Infantry Mobility Vehicles (32, of which destroyed: 7, damaged: 1, abandoned: 1, captured: 23)
 
  Engineering Vehicles (6, of which destroyed: 1, captured: 5)
 
@@ -86,7 +86,7 @@
 
  Towed Artillery (21, of which destroyed: 4, damaged: 3, abandoned: 3, captured: 11)
 
- Self-Propelled Artillery (15, of which destroyed: 7, damaged: 1, abandoned: 1, captured: 6)
+ Self-Propelled Artillery (16, of which destroyed: 7, damaged: 1, abandoned: 1, captured: 7)
 
  Multiple Rocket Launchers (6, of which destroyed: 1, captured: 5)
 
