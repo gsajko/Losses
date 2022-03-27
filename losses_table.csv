@@ -6,7 +6,7 @@
  Mine-Resistant Ambush Protected  (MRAP) Vehicles ,           4 ,         0 ,           3 ,          5 ,      12 
  Infantry Mobility Vehicles                       ,          36 ,         2 ,           5 ,         20 ,      63 
  Communications Stations                          ,           3 ,         0 ,           4 ,          4 ,      11 
- Engineering Vehicles And Equipment               ,          18 ,         0 ,           8 ,         30 ,      56 
+ Engineering Vehicles And Equipment               ,          18 ,         0 ,          11 ,         31 ,      60 
  Anti-Tank Guided Missiles                        ,           0 ,         0 ,          24 ,         38 ,      62 
  Man-Portable Air Defence Systems                 ,           0 ,         0 ,           0 ,         24 ,      24 
  Heavy Mortars                                    ,           0 ,         0 ,           0 ,          5 ,       5 
@@ -24,4 +24,4 @@
  Naval Ships                                      ,           1 ,         2 ,           0 ,          0 ,       3 
  Logistics Trains                                 ,           2 ,         0 ,           0 ,          0 ,       2 
 " Trucks, Vehicles and Jeeps                       ",         361 ,        16 ,          59 ,        174 ,     610 
- total                                            ,         954 ,        37 ,         262 ,        737 ,    1990 
+ total                                            ,         954 ,        37 ,         265 ,        738 ,    1994 

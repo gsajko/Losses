@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 1920, of which: destroyed: 959, damaged: 35, abandoned: 229, captured: 697
+ ### Russia - 1924, of which: destroyed: 959, damaged: 35, abandoned: 232, captured: 698
 
  
 
@@ -22,7 +22,7 @@
 
  Communications Stations (11, of which destroyed: 3, abandoned: 4, captured: 4)
 
- Engineering Vehicles And Equipment (56, of which destroyed: 18, abandoned: 8, captured: 30)
+ Engineering Vehicles And Equipment (60, of which destroyed: 18, abandoned: 11, captured: 31)
 
  Anti-Tank Guided Missiles (62, of which abandoned: 24, captured: 38)
 
@@ -62,7 +62,7 @@
  
  ## Ukraine
  
- ### Ukraine - 557, of which: destroyed: 209, damaged: 16, abandoned: 37, captured: 295
+ ### Ukraine - 558, of which: destroyed: 209, damaged: 16, abandoned: 37, captured: 296
 
  
 
@@ -78,7 +78,7 @@
 
  Infantry Mobility Vehicles (32, of which destroyed: 7, damaged: 1, abandoned: 1, captured: 23)
 
- Engineering Vehicles (6, of which destroyed: 1, captured: 5)
+ Engineering Vehicles (7, of which destroyed: 1, captured: 6)
 
  Anti-tank Guided Missiles (50, of which captured: 50)
 
