@@ -2,17 +2,17 @@
  
  ## Russia
  
- ### Russia - 1987, of which: destroyed: 987, damaged: 37, abandoned: 232, captured: 731
+ ### Russia - 1986, of which: destroyed: 985, damaged: 37, abandoned: 232, captured: 732
 
  
 
  
 
- Tanks (312, of which destroyed: 133, damaged: 6, abandoned: 42, captured: 131)
+ Tanks (310, of which destroyed: 131, damaged: 6, abandoned: 42, captured: 131)
 
- Armoured Fighting Vehicles (228, of which destroyed: 108, abandoned: 34, captured: 86)
+ Armoured Fighting Vehicles (229, of which destroyed: 108, abandoned: 34, captured: 87)
 
- Infantry Fighting Vehicles (301, of which destroyed: 163, damaged: 2, abandoned: 29, captured: 107)
+ Infantry Fighting Vehicles (303, of which destroyed: 165, damaged: 2, abandoned: 29, captured: 107)
 
  Armoured Personnel Carriers (77, of which destroyed: 19, abandoned: 17, captured: 41)
 
@@ -56,13 +56,13 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (642, of which destroyed: 371, damaged: 16, abandoned: 59, captured: 185)
+ Trucks, Vehicles and Jeeps (640, of which destroyed: 369, damaged: 16, abandoned: 59, captured: 185)
 
  
  
  ## Ukraine
  
- ### Ukraine - 569, of which: destroyed: 220, damaged: 16, abandoned: 37, captured: 296
+ ### Ukraine - 574, of which: destroyed: 225, damaged: 16, abandoned: 37, captured: 296
 
  
 
