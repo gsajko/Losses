@@ -10,7 +10,7 @@
 | Engineering Vehicles And Equipment               |          18 |         0 |          11 |         31 |      60 |
 | Anti-Tank Guided Missiles                        |           0 |         0 |          24 |         39 |      63 |
 | Man-Portable Air Defence Systems                 |           0 |         0 |           0 |         24 |      24 |
-| Heavy Mortars                                    |           0 |         0 |           0 |          5 |       5 |
+| Heavy Mortars                                    |           0 |         0 |           0 |          8 |       8 |
 | Towed Artillery                                  |           8 |         2 |           5 |         27 |      42 |
 | Self-Propelled Artillery                         |          18 |         2 |          15 |         24 |      59 |
 | Multiple Rocket Launchers                        |          15 |         0 |           5 |         15 |      35 |
@@ -24,5 +24,5 @@
 | Unmanned Aerial Vehicles                         |          11 |         0 |           0 |          5 |      16 |
 | Naval Ships                                      |           1 |         2 |           0 |          0 |       3 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps                       |         368 |        16 |          59 |        185 |     628 |
-| total                                            |         981 |        39 |         265 |        770 |    2055 |
+| Trucks, Vehicles and Jeeps                       |         371 |        16 |          59 |        185 |     631 |
+| total                                            |         984 |        39 |         265 |        773 |    2061 |

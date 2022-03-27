@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 1981, of which: destroyed: 984, damaged: 37, abandoned: 232, captured: 728
+ ### Russia - 1987, of which: destroyed: 987, damaged: 37, abandoned: 232, captured: 731
 
  
 
@@ -28,7 +28,7 @@
 
  Man-Portable Air Defence Systems (24, of which captured: 24)
 
- Heavy Mortars (5, of which captured: 5)
+ Heavy Mortars (8, of which captured: 8)
 
  Towed Artillery (42, of which destroyed: 8, damaged: 2 abandoned: 5, captured: 27)
 
@@ -56,7 +56,7 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (639, of which destroyed: 368, damaged: 16, abandoned: 59, captured: 185)
+ Trucks, Vehicles and Jeeps (642, of which destroyed: 371, damaged: 16, abandoned: 59, captured: 185)
 
  
  
