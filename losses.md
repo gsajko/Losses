@@ -2,13 +2,13 @@
  
  ## Russia
  
- ### Russia - 1986, of which: destroyed: 985, damaged: 37, abandoned: 232, captured: 732
+ ### Russia - 1988, of which: destroyed: 985, damaged: 37, abandoned: 232, captured: 734
 
  
 
  
 
- Tanks (310, of which destroyed: 131, damaged: 6, abandoned: 42, captured: 131)
+ Tanks (312, of which destroyed: 131, damaged: 6, abandoned: 42, captured: 133)
 
  Armoured Fighting Vehicles (229, of which destroyed: 108, abandoned: 34, captured: 87)
 
@@ -22,7 +22,7 @@
 
  Communications Stations (12, of which destroyed: 3, abandoned: 4, captured: 5)
 
- Engineering Vehicles And Equipment (60, of which destroyed: 18, abandoned: 11, captured: 31)
+ Engineering Vehicles And Equipment (61, of which destroyed: 19, abandoned: 11, captured: 31)
 
  Anti-Tank Guided Missiles (63, of which abandoned: 24, captured: 39)
 
@@ -48,7 +48,7 @@
 
  Aircraft (16, of which destroyed: 15, damaged: 1)
 
- Helicopters (36, of which destroyed: 31, damaged: 3, abandoned: 2)
+ Helicopters (35, of which destroyed: 30, damaged: 3, abandoned: 2)
 
  Unmanned Aerial Vehicles (16, of which destroyed: 11, captured: 5)
 
