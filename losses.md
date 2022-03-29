@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 2059, of which: destroyed: 1026, damaged: 38, abandoned: 233, captured: 762
+ ### Russia - 2062, of which: destroyed: 1028, damaged: 38, abandoned: 233, captured: 763
 
  
 
@@ -28,7 +28,7 @@
 
  Man-Portable Air Defence Systems (24, of which captured: 24)
 
- Heavy Mortars (8, of which captured: 8)
+ Heavy Mortars (9, of which destroyed: 1, captured: 8)
 
  Towed Artillery (43, of which destroyed: 8, damaged: 2 abandoned: 5, captured: 28)
 
@@ -56,7 +56,7 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (659, of which destroyed: 378, damaged: 16, abandoned: 59, captured: 195)
+ Trucks, Vehicles and Jeeps (661, of which destroyed: 379, damaged: 16, abandoned: 59, captured: 196)
 
  
  
