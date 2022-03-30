@@ -2,23 +2,23 @@
  
  ## Russia
  
- ### Russia - 2093, of which: destroyed: 1049, damaged: 41, abandoned: 232, captured: 771
+ ### Russia - 2102, of which: destroyed: 1053, damaged: 41, abandoned: 232, captured: 776
 
  
 
  
 
- Tanks (342, of which destroyed: 153, damaged: 6, abandoned: 42, captured: 141)
+ Tanks (344, of which destroyed: 154, damaged: 6, abandoned: 42, captured: 142)
 
- Armoured Fighting Vehicles (240, of which destroyed: 115, abandoned: 32, captured: 93)
+ Armoured Fighting Vehicles (243, of which destroyed: 115, abandoned: 32, captured: 96)
 
  Infantry Fighting Vehicles (323, of which destroyed: 177, damaged: 2, abandoned: 30, captured: 114)
 
- Armoured Personnel Carriers (80, of which destroyed: 21, damaged: 1, abandoned: 17, captured: 41)
+ Armoured Personnel Carriers (81, of which destroyed: 21, damaged: 1, abandoned: 17, captured: 42)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (13, of which destroyed: 5, abandoned: 3, captured: 5)
 
- Infantry Mobility Vehicles (68, of which destroyed: 39, damaged: 2, abandoned: 5, captured: 20)
+ Infantry Mobility Vehicles (70, of which destroyed: 41, damaged: 2, abandoned: 5, captured: 20)
 
  Communications Stations (13, of which destroyed: 3, abandoned: 4, captured: 6)
 
@@ -48,7 +48,7 @@
 
  Aircraft (17, of which destroyed: 16, damaged: 1)
 
- Helicopters (35, of which destroyed: 30, damaged: 3, abandoned: 2)
+ Helicopters (36, of which destroyed: 31, damaged: 3, abandoned: 2)
 
  Unmanned Aerial Vehicles (18, of which destroyed: 12, captured: 6)
 
@@ -62,7 +62,7 @@
  
  ## Ukraine
  
- ### Ukraine - 601, of which: destroyed: 241, damaged: 16, abandoned: 37, captured: 307
+ ### Ukraine - 615, of which: destroyed: 255, damaged: 16, abandoned: 36, captured: 308
 
  
 
@@ -88,13 +88,13 @@
 
  Self-Propelled Artillery (16, of which destroyed: 7, damaged: 1, abandoned: 1, captured: 7)
 
- Multiple Rocket Launchers (8, of which destroyed: 3, captured: 5)
+ Multiple Rocket Launchers (10, of which destroyed: 5, captured: 5)
 
  Anti-Aircraft Guns (2, of which captured: 2)
 
  Self-Propelled Anti-Aircraft Guns (1, of which captured: 1)
 
- Surface-To-Air Missile Systems (21, of which destroyed: 15, abandoned: 2, captured: 4)
+ Surface-To-Air Missile Systems (33, of which destroyed: 27, abandoned: 1, captured: 5)
 
  
 
