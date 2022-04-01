@@ -2,35 +2,35 @@
  
  ## Russia
  
- ### Russia - 2257, of which: destroyed: 1150, damaged: 41, abandoned: 233, captured: 833
+ ### Russia - 2278, of which: destroyed: 1155, damaged: 41, abandoned: 233, captured: 849
 
  
 
  
 
- Tanks (382, of which destroyed: 177, damaged: 6, abandoned: 42, captured: 157)
+ Tanks (388, of which destroyed: 179, damaged: 6, abandoned: 42, captured: 161)
 
- Armoured Fighting Vehicles (262, of which destroyed: 123, abandoned: 32, captured: 107)
+ Armoured Fighting Vehicles (263, of which destroyed: 123, abandoned: 32, captured: 108)
 
- Infantry Fighting Vehicles (368, of which destroyed: 210, damaged: 2, abandoned: 31, captured: 124)
+ Infantry Fighting Vehicles (375, of which destroyed: 212, damaged: 2, abandoned: 31, captured: 129)
 
  Armoured Personnel Carriers (81, of which destroyed: 21, damaged: 1, abandoned: 17, captured: 42)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (17, of which destroyed: 9, abandoned: 3, captured: 5)
 
- Infantry Mobility Vehicles (72, of which destroyed: 42, damaged: 2, abandoned: 5, captured: 21)
+ Infantry Mobility Vehicles (74, of which destroyed: 43, damaged: 2, abandoned: 5, captured: 22)
 
- Communications Stations (13, of which destroyed: 4, abandoned: 4, captured: 5)
+ Communications Stations (14, of which destroyed: 4, abandoned: 4, captured: 6)
 
  Engineering Vehicles And Equipment (75, of which destroyed: 22, abandoned: 13, captured: 35)
 
- Anti-Tank Guided Missiles (66, of which abandoned: 24, captured: 52)
+ Anti-Tank Guided Missiles (76, of which abandoned: 24, captured: 52)
 
  Man-Portable Air Defence Systems (24, of which captured: 24)
 
  Heavy Mortars (11, of which destroyed: 3, captured: 8)
 
- Towed Artillery (46, of which destroyed: 9, damaged: 4, abandoned: 5, captured: 28)
+ Towed Artillery (47, of which destroyed: 9, damaged: 4, abandoned: 5, captured: 29)
 
  Self-Propelled Artillery (66, of which destroyed: 21, damaged: 3, abandoned: 15, captured: 26)
 
@@ -56,13 +56,13 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (676, of which destroyed: 387, damaged: 16, abandoned: 59, captured: 202)
+ Trucks, Vehicles and Jeeps (679, of which destroyed: 387, damaged: 16, abandoned: 59, captured: 205)
 
  
  
  ## Ukraine
  
- ### Ukraine - 657, of which: destroyed: 284, damaged: 18, abandoned: 37, captured: 318
+ ### Ukraine - 659, of which: destroyed: 285, damaged: 18, abandoned: 37, captured: 319
 
  
 
@@ -72,7 +72,7 @@
 
  Armoured Fighting Vehicles (64, of which destroyed: 26, abandoned: 4, captured: 35)
 
- Infantry Fighting Vehicles (70, of which destroyed: 32, damaged: 2, abandoned: 9, captured: 27)
+ Infantry Fighting Vehicles (72, of which destroyed: 33, damaged: 2, abandoned: 9, captured: 28)
 
  Armoured Personnel Carriers (31, of which destroyed: 5, damaged: 1, abandoned: 2, captured: 22)
 
