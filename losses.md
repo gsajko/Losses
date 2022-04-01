@@ -2,25 +2,25 @@
  
  ## Russia
  
- ### Russia - 2155, of which: destroyed: 1088, damaged: 41, abandoned: 233, captured: 793
+ ### Russia - 2170, of which: destroyed: 1096, damaged: 41, abandoned: 233, captured: 800
 
  
 
  
 
- Tanks (354, of which destroyed: 160, damaged: 6, abandoned: 42, captured: 146)
+ Tanks (358, of which destroyed: 164, damaged: 6, abandoned: 42, captured: 146)
 
- Armoured Fighting Vehicles (246, of which destroyed: 116, abandoned: 32, captured: 98)
+ Armoured Fighting Vehicles (248, of which destroyed: 117, abandoned: 32, captured: 99)
 
  Infantry Fighting Vehicles (347, of which destroyed: 197, damaged: 2, abandoned: 30, captured: 117)
 
  Armoured Personnel Carriers (81, of which destroyed: 21, damaged: 1, abandoned: 17, captured: 42)
 
- Mine-Resistant Ambush Protected (MRAP) Vehicles (14, of which destroyed: 6, abandoned: 3, captured: 5)
+ Mine-Resistant Ambush Protected (MRAP) Vehicles (15, of which destroyed: 7, abandoned: 3, captured: 5)
 
  Infantry Mobility Vehicles (72, of which destroyed: 42, damaged: 2, abandoned: 5, captured: 21)
 
- Communications Stations (13, of which destroyed: 3, abandoned: 4, captured: 6)
+ Communications Stations (14, of which destroyed: 4, abandoned: 4, captured: 6)
 
  Engineering Vehicles And Equipment (68, of which destroyed: 21, abandoned: 13, captured: 34)
 
@@ -34,21 +34,21 @@
 
  Self-Propelled Artillery (64, of which destroyed: 20, damaged: 3, abandoned: 15, captured: 25)
 
- Multiple Rocket Launchers (38, of which destroyed: 16, abandoned: 5, captured: 18)
+ Multiple Rocket Launchers (39, of which destroyed: 16, abandoned: 5, captured: 19)
 
  Anti-Aircraft Guns (3, of which captured: 3)
 
- Self-Propelled Anti-Aircraft Guns (10, of which destroyed: 5, abandoned: 3, captured: 2)
+ Self-Propelled Anti-Aircraft Guns (11, of which destroyed: 5, abandoned: 3, captured: 3)
 
  Surface-To-Air Missile Systems (41, of which destroyed: 21, damaged: 1, abandoned: 7, captured: 12)
 
- Radars (3, of which destroyed: 1, captured: 2)
+ Radars (4, of which destroyed: 1, captured: 3)
 
  Jammers And Deception Systems (6, of which destroyed: 2, damaged: 2, captured: 2)
 
  Aircraft (17, of which destroyed: 16, damaged: 1)
 
- Helicopters (37, of which destroyed: 32, damaged: 3, abandoned: 2)
+ Helicopters (38, of which destroyed: 33, damaged: 3, abandoned: 2)
 
  Unmanned Aerial Vehicles (18, of which destroyed: 12, captured: 6)
 
@@ -56,7 +56,7 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (664, of which destroyed: 381, damaged: 16, abandoned: 59, captured: 197)
+ Trucks, Vehicles and Jeeps (666, of which destroyed: 381, damaged: 16, abandoned: 59, captured: 199)
 
  
  
