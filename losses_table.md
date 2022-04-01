@@ -1,13 +1,13 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         172 |         6 |          42 |        151 |     371 |
-| Armoured Fighting Vehicles                       |         120 |         0 |          32 |        106 |     258 |
+| Tanks                                            |         174 |         6 |          42 |        152 |     374 |
+| Armoured Fighting Vehicles                       |         120 |         0 |          32 |        107 |     259 |
 | Infantry Fighting Vehicles                       |         204 |         2 |          31 |        122 |     359 |
 | Armoured Personnel Carriers                      |          21 |         1 |          17 |         42 |      81 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |           9 |         0 |           3 |          5 |      17 |
 | Infantry Mobility Vehicles                       |          42 |         2 |           5 |         21 |      70 |
 | Communications Stations                          |           4 |         0 |           4 |          5 |      13 |
-| Engineering Vehicles And Equipment               |          24 |         0 |          13 |         34 |      71 |
+| Engineering Vehicles And Equipment               |          25 |         0 |          13 |         34 |      72 |
 | Anti-Tank Guided Missiles                        |           0 |         0 |          24 |         52 |      76 |
 | Man-Portable Air Defence Systems                 |           0 |         0 |           0 |         24 |      24 |
 | Heavy Mortars                                    |           1 |         0 |           0 |          8 |       9 |
@@ -24,5 +24,5 @@
 | Unmanned Aerial Vehicles                         |          12 |         0 |           0 |          6 |      18 |
 | Naval Ships                                      |           1 |         2 |           0 |          0 |       3 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps                       |         384 |        16 |          59 |        200 |     659 |
-| total                                            |        1121 |        43 |         267 |        873 |    2304 |
+| Trucks, Vehicles and Jeeps                       |         385 |        16 |          59 |        200 |     660 |
+| total                                            |        1125 |        43 |         267 |        875 |    2310 |
