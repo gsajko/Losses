@@ -62,13 +62,13 @@
  
  ## Ukraine
  
- ### Ukraine - 656, of which: destroyed: 283, damaged: 18, abandoned: 37, captured: 318
+ ### Ukraine - 655, of which: destroyed: 282, damaged: 18, abandoned: 37, captured: 318
 
  
 
  
 
- Tanks (89, of which destroyed: 34, damaged: 1, abandoned: 9, captured: 43)
+ Tanks (88, of which destroyed: 33, damaged: 1, abandoned: 9, captured: 43)
 
  Armoured Fighting Vehicles (64, of which destroyed: 26, abandoned: 4, captured: 35)
 
