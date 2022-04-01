@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         167 |         6 |          42 |        146 |     361 |
-| Armoured Fighting Vehicles                       |         120 |         0 |          32 |        100 |     252 |
-| Infantry Fighting Vehicles                       |         198 |         2 |          30 |        118 |     348 |
+| Tanks                                            |         168 |         6 |          42 |        146 |     362 |
+| Armoured Fighting Vehicles                       |         120 |         0 |          32 |        101 |     253 |
+| Infantry Fighting Vehicles                       |         198 |         2 |          30 |        119 |     349 |
 | Armoured Personnel Carriers                      |          21 |         1 |          17 |         42 |      81 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |           7 |         0 |           3 |          5 |      15 |
 | Infantry Mobility Vehicles                       |          42 |         2 |           5 |         21 |      70 |
@@ -24,5 +24,5 @@
 | Unmanned Aerial Vehicles                         |          12 |         0 |           0 |          6 |      18 |
 | Naval Ships                                      |           1 |         2 |           0 |          0 |       3 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps                       |         382 |        16 |          59 |        199 |     656 |
-| total                                            |        1103 |        43 |         266 |        857 |    2269 |
+| Trucks, Vehicles and Jeeps                       |         383 |        16 |          59 |        200 |     658 |
+| total                                            |        1105 |        43 |         266 |        860 |    2274 |
