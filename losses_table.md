@@ -7,7 +7,7 @@
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |           9 |         0 |           3 |          7 |      19 |
 | Infantry Mobility Vehicles                       |          45 |         2 |           5 |         25 |      77 |
 | Communications Stations                          |           5 |         0 |           5 |          6 |      16 |
-| Engineering Vehicles And Equipment               |          26 |         0 |          14 |         37 |      77 |
+| Engineering Vehicles And Equipment               |          27 |         0 |          14 |         37 |      78 |
 | Heavy Mortars                                    |           3 |         0 |           0 |          8 |      11 |
 | Towed Artillery                                  |          10 |         4 |           5 |         30 |      49 |
 | Self-Propelled Artillery                         |          27 |         3 |          15 |         34 |      79 |
@@ -18,9 +18,9 @@
 | Radars                                           |           2 |         0 |           0 |          5 |       7 |
 | Jammers And Deception Systems                    |           2 |         2 |           0 |          2 |       6 |
 | Aircraft                                         |          19 |         1 |           0 |          0 |      20 |
-| Helicopters                                      |          33 |         3 |           1 |          1 |      38 |
+| Helicopters                                      |          34 |         2 |           1 |          1 |      38 |
 | Unmanned Aerial Vehicles                         |          14 |         0 |           0 |          7 |      21 |
 | Naval Ships                                      |           1 |         2 |           0 |          0 |       3 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps                       |         413 |        14 |          61 |        210 |     698 |
-| total                                            |        1241 |        41 |         246 |        901 |    2429 |
+| total                                            |        1243 |        40 |         246 |        901 |    2430 |
