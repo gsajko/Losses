@@ -58,7 +58,7 @@
  
  ## Ukraine
  
- ### Ukraine - 690, of which: destroyed: 304, damaged: 24, abandoned: 37, captured: 325
+ ### Ukraine - 692, of which: destroyed: 306, damaged: 24, abandoned: 37, captured: 325
 
  
 
@@ -80,7 +80,7 @@
 
  Self-Propelled Artillery (20, of which destroyed: 8, damaged: 4, abandoned: 1, captured: 7)
 
- Multiple Rocket Launchers (13, of which destroyed: 8, captured: 5)
+ Multiple Rocket Launchers (15, of which destroyed: 10, captured: 5)
 
  Anti-Aircraft Guns (2, of which captured: 2)
 
