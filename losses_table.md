@@ -12,7 +12,7 @@
 | Towed Artillery                                  |          10 |         4 |           5 |         33 |      52 |
 | Self-Propelled Artillery                         |          30 |         3 |          15 |         35 |      83 |
 | Multiple Rocket Launchers                        |          21 |         0 |           5 |         23 |      49 |
-| Anti-Aircraft Guns                               |           0 |         0 |           0 |          3 |       3 |
+| Anti-Aircraft Guns                               |           0 |         0 |           0 |          4 |       4 |
 | Self-Propelled Anti-Aircraft Guns                |           5 |         0 |           3 |          5 |      13 |
 | Surface-To-Air Missile Systems                   |          25 |         1 |           7 |         18 |      51 |
 | Radars                                           |           3 |         0 |           0 |          6 |       9 |
@@ -23,4 +23,4 @@
 | Naval Ships                                      |           1 |         2 |           0 |          0 |       3 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps                       |         430 |        14 |          61 |        223 |     728 |
-| total                                            |        1328 |        40 |         247 |        951 |    2566 |
+| total                                            |        1328 |        40 |         247 |        952 |    2567 |
