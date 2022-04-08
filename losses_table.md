@@ -7,7 +7,7 @@
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          11 |         0 |           3 |          7 |      21 |
 | Infantry Mobility Vehicles                       |          48 |         2 |           5 |         26 |      81 |
 | Communications Stations                          |           8 |         0 |           5 |          6 |      19 |
-| Engineering Vehicles And Equipment               |          28 |         0 |          15 |         43 |      86 |
+| Engineering Vehicles And Equipment               |          29 |         0 |          15 |         43 |      87 |
 | Heavy Mortars                                    |           3 |         0 |           0 |          8 |      11 |
 | Towed Artillery                                  |          10 |         4 |           5 |         33 |      52 |
 | Self-Propelled Artillery                         |          30 |         3 |          15 |         35 |      83 |
@@ -23,4 +23,4 @@
 | Naval Ships                                      |           1 |         2 |           0 |          0 |       3 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps                       |         451 |        14 |          61 |        224 |     750 |
-| total                                            |        1363 |        40 |         247 |        952 |    2602 |
+| total                                            |        1364 |        40 |         247 |        952 |    2603 |
