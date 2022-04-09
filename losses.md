@@ -2,17 +2,17 @@
  
  ## Russia
  
- ### Russia - 2694, of which: destroyed: 1413, damaged: 39, abandoned: 236, captured: 1006
+ ### Russia - 2697, of which: destroyed: 1415, damaged: 39, abandoned: 236, captured: 1007
 
  
 
  
 
- Tanks (454, of which destroyed: 221, damaged: 8, abandoned: 41, captured: 184)
+ Tanks (456, of which destroyed: 223, damaged: 8, abandoned: 41, captured: 184)
 
  Armoured Fighting Vehicles (289, of which destroyed: 138, abandoned: 32, captured: 119)
 
- Infantry Fighting Vehicles (481, of which destroyed: 284, damaged: 2, abandoned: 32, captured: 162)
+ Infantry Fighting Vehicles (482, of which destroyed: 284, damaged: 2, abandoned: 32, captured: 163)
 
  Armoured Personnel Carriers (95, of which destroyed: 30, damaged: 1, abandoned: 17, captured: 47)
 
@@ -58,7 +58,7 @@
  
  ## Ukraine
  
- ### Ukraine - 714, of which: destroyed: 322, damaged: 24, abandoned: 37, captured: 331
+ ### Ukraine - 717, of which: destroyed: 323, damaged: 24, abandoned: 37, captured: 333
 
  
 
@@ -66,11 +66,11 @@
 
  Tanks (98, of which destroyed: 39, damaged: 2, abandoned: 9, captured: 46)
 
- Armoured Fighting Vehicles (65, of which destroyed: 27, abandoned: 4, captured: 35)
+ Armoured Fighting Vehicles (67, of which destroyed: 28, abandoned: 4, captured: 36)
 
- Infantry Fighting Vehicles (78, of which destroyed: 35, damaged: 3, abandoned: 9, captured: 31)
+ Infantry Fighting Vehicles (79, of which destroyed: 35, damaged: 3, abandoned: 9, captured: 32)
 
- Armoured Personnel Carriers (34, of which destroyed: 6, damaged: 1, abandoned: 2, captured: 24)
+ Armoured Personnel Carriers (33, of which destroyed: 6, damaged: 1, abandoned: 2, captured: 23)
 
  Infantry Mobility Vehicles (50, of which destroyed: 16, damaged: 1, abandoned: 1, captured: 32)
 
@@ -84,7 +84,7 @@
 
  Anti-Aircraft Guns (2, of which captured: 2)
 
- Self-Propelled Anti-Aircraft Guns (1, of which captured: 1)
+ Self-Propelled Anti-Aircraft Guns (2, of which captured: 2)
 
  Surface-To-Air Missile Systems (38, of which destroyed: 32, abandoned: 1, captured: 5)
 
