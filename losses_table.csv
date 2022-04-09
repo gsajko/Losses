@@ -2,17 +2,17 @@
  Tanks                                            ,         221 ,         6 ,          41 ,        182 ,     450 
  Armoured Fighting Vehicles                       ,         135 ,         0 ,          32 ,        119 ,     286 
  Infantry Fighting Vehicles                       ,         284 ,         2 ,          32 ,        159 ,     477 
- Armoured Personnel Carriers                      ,          30 ,         1 ,          17 ,         45 ,      93 
+ Armoured Personnel Carriers                      ,          30 ,         1 ,          17 ,         46 ,      94 
  Mine-Resistant Ambush Protected  (MRAP) Vehicles ,          11 ,         0 ,           3 ,          7 ,      21 
  Infantry Mobility Vehicles                       ,          52 ,         2 ,           5 ,         27 ,      86 
  Communications Stations                          ,           8 ,         0 ,           5 ,          6 ,      19 
  Engineering Vehicles And Equipment               ,          29 ,         0 ,          15 ,         45 ,      89 
  Heavy Mortars                                    ,           3 ,         0 ,           0 ,          8 ,      11 
- Towed Artillery                                  ,          10 ,         4 ,           5 ,         33 ,      52 
- Self-Propelled Artillery                         ,          31 ,         3 ,          15 ,         35 ,      84 
+ Towed Artillery                                  ,          10 ,         4 ,           5 ,         34 ,      53 
+ Self-Propelled Artillery                         ,          31 ,         2 ,          15 ,         36 ,      84 
  Multiple Rocket Launchers                        ,          21 ,         0 ,           5 ,         23 ,      49 
  Anti-Aircraft Guns                               ,           0 ,         0 ,           0 ,          4 ,       4 
- Self-Propelled Anti-Aircraft Guns                ,           5 ,         0 ,           3 ,          5 ,      13 
+ Self-Propelled Anti-Aircraft Guns                ,           5 ,         0 ,           2 ,          6 ,      13 
  Surface-To-Air Missile Systems                   ,          25 ,         1 ,           7 ,         18 ,      51 
  Radars                                           ,           3 ,         0 ,           0 ,          6 ,       9 
  Jammers And Deception Systems                    ,           3 ,         2 ,           0 ,          2 ,       7 
@@ -22,4 +22,4 @@
  Naval Ships                                      ,           1 ,         2 ,           0 ,          0 ,       3 
  Logistics Trains                                 ,           2 ,         0 ,           0 ,          0 ,       2 
 " Trucks, Vehicles and Jeeps                       ",         476 ,        14 ,          61 ,        225 ,     776 
- total                                            ,        1413 ,        40 ,         247 ,        959 ,    2659 
+ total                                            ,        1413 ,        39 ,         246 ,        963 ,    2661 
