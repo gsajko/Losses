@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 2724, of which: destroyed: 1431, damaged: 39, abandoned: 236, captured: 1018
+ ### Russia - 2726, of which: destroyed: 1432, damaged: 39, abandoned: 235, captured: 1020
 
  
 
@@ -22,7 +22,7 @@
 
  Communications Stations (20, of which destroyed: 8, abandoned: 5, captured: 7)
 
- Engineering Vehicles And Equipment (99, of which destroyed: 30, abandoned: 15, captured: 49)
+ Engineering Vehicles And Equipment (101, of which destroyed: 31, abandoned: 14, captured: 51)
 
  Heavy Mortars (11, of which destroyed: 3, captured: 8)
 
