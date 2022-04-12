@@ -2,23 +2,23 @@
  
  ## Russia
  
- ### Russia - 2771, of which: destroyed: 1456, damaged: 39, abandoned: 234, captured: 1042
+ ### Russia - 2770, of which: destroyed: 1455, damaged: 39, abandoned: 234, captured: 1042
 
  
 
  
 
- Tanks (476, of which destroyed: 236, damaged: 8, abandoned: 40, captured: 192)
+ Tanks (479, of which destroyed: 239, damaged: 8, abandoned: 40, captured: 192)
 
- Armoured Fighting Vehicles (256, of which destroyed: 122, abandoned: 28, captured: 106)
+ Armoured Fighting Vehicles (257, of which destroyed: 123, abandoned: 28, captured: 106)
 
- Infantry Fighting Vehicles (497, of which destroyed: 291, damaged: 2, abandoned: 32, captured: 172)
+ Infantry Fighting Vehicles (496, of which destroyed: 290, damaged: 2, abandoned: 32, captured: 172)
 
  Armoured Personnel Carriers (96, of which destroyed: 31, damaged: 1, abandoned: 17, captured: 47)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (21, of which destroyed: 11, abandoned: 3, captured: 7)
 
- Infantry Mobility Vehicles (91, of which destroyed: 56, damaged: 2, abandoned: 5, captured: 28)
+ Infantry Mobility Vehicles (90, of which destroyed: 55, damaged: 2, abandoned: 5, captured: 28)
 
  Command Posts And Communications Stations (61, of which destroyed: 29, abandoned: 8, captured: 24)
 
@@ -52,13 +52,13 @@
 
  Logistics Trains (2, of which destroyed: 2)
 
- Trucks, Vehicles and Jeeps (787, of which destroyed: 484, damaged: 14, abandoned: 61, captured: 228)
+ Trucks, Vehicles and Jeeps (784, of which destroyed: 481, damaged: 14, abandoned: 61, captured: 228)
 
  
  
  ## Ukraine
  
- ### Ukraine - 740, of which: destroyed: 340, damaged: 23, abandoned: 35, captured: 342
+ ### Ukraine - 741, of which: destroyed: 341, damaged: 23, abandoned: 35, captured: 342
 
  
 
@@ -98,7 +98,7 @@
 
  Helicopters (3, of which destroyed: 2, captured: 1)
 
- Unmanned Aerial Vehicles (13, of which destroyed: 11, captured: 2)
+ Unmanned Aerial Vehicles (14, of which destroyed: 12, captured: 2)
 
  Naval Ships (15, of which destroyed: 2, damaged: 1, captured: 12)
 
