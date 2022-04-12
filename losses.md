@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 2770, of which: destroyed: 1456, damaged: 39, abandoned: 234, captured: 1041
+ ### Russia - 2771, of which: destroyed: 1456, damaged: 39, abandoned: 234, captured: 1042
 
  
 
@@ -30,7 +30,7 @@
 
  Self-Propelled Artillery (96, of which destroyed: 41, damaged: 2, abandoned: 15, captured: 37)
 
- Multiple Rocket Launchers (49, of which destroyed: 21, abandoned: 5, captured: 22)
+ Multiple Rocket Launchers (50, of which destroyed: 21, abandoned: 5, captured: 23)
 
  Anti-Aircraft Guns (4, of which captured: 4)
 
