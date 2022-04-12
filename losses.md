@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 2771, of which: destroyed: 1456, damaged: 39, abandoned: 234, captured: 1042
+ ### Russia - 2774, of which: destroyed: 1458, damaged: 39, abandoned: 234, captured: 1043
 
  
 
@@ -10,7 +10,7 @@
 
  Tanks (480, of which destroyed: 240, damaged: 8, abandoned: 40, captured: 192)
 
- Armoured Fighting Vehicles (257, of which destroyed: 123, abandoned: 28, captured: 106)
+ Armoured Fighting Vehicles (258, of which destroyed: 124, abandoned: 28, captured: 106)
 
  Infantry Fighting Vehicles (496, of which destroyed: 290, damaged: 2, abandoned: 32, captured: 172)
 
@@ -30,7 +30,7 @@
 
  Self-Propelled Artillery (96, of which destroyed: 41, damaged: 2, abandoned: 15, captured: 37)
 
- Multiple Rocket Launchers (50, of which destroyed: 21, abandoned: 5, captured: 23)
+ Multiple Rocket Launchers (51, of which destroyed: 21, abandoned: 5, captured: 24)
 
  Anti-Aircraft Guns (4, of which captured: 4)
 
@@ -38,7 +38,7 @@
 
  Surface-To-Air Missile Systems (51, of which destroyed: 25, damaged: 1, abandoned: 7, captured: 18)
 
- Radars (9, of which destroyed: 3, captured: 6)
+ Radars (10, of which destroyed: 4, captured: 6)
 
  Jammers And Deception Systems (7, of which destroyed: 3, damaged: 2, captured: 2)
 
@@ -58,13 +58,13 @@
  
  ## Ukraine
  
- ### Ukraine - 747, of which: destroyed: 342, damaged: 23, abandoned: 35, captured: 347
+ ### Ukraine - 748, of which: destroyed: 342, damaged: 23, abandoned: 35, captured: 348
 
  
 
  
 
- Tanks (103, of which destroyed: 42, damaged: 1, abandoned: 9, captured: 51)
+ Tanks (105, of which destroyed: 42, damaged: 1, abandoned: 9, captured: 53)
 
  Armoured Fighting Vehicles (71, of which destroyed: 28, abandoned: 4, captured: 40)
 
@@ -100,7 +100,7 @@
 
  Unmanned Aerial Vehicles (14, of which destroyed: 12, captured: 2)
 
- Naval Ships (15, of which destroyed: 2, damaged: 1, captured: 12)
+ Naval Ships (14, of which destroyed: 2, damaged: 1, captured: 11)
 
  Trucks, Vehicles and Jeeps (224, of which destroyed: 97, damaged: 5, abandoned: 5, captured: 117)
 
