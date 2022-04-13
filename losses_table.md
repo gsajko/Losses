@@ -1,7 +1,7 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         254 |         9 |          40 |        200 |     503 |
-| Armoured Fighting Vehicles                       |         126 |         0 |          29 |        106 |     261 |
+| Tanks                                            |         256 |         9 |          40 |        200 |     505 |
+| Armoured Fighting Vehicles                       |         128 |         0 |          29 |        106 |     263 |
 | Infantry Fighting Vehicles                       |         308 |         2 |          32 |        176 |     518 |
 | Armoured Personnel Carriers                      |          32 |         2 |          17 |         46 |      97 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          12 |         0 |           3 |          7 |      22 |
@@ -14,7 +14,7 @@
 | Multiple Rocket Launchers                        |          25 |         0 |           5 |         24 |      54 |
 | Anti-Aircraft Guns                               |           0 |         0 |           0 |          4 |       4 |
 | Self-Propelled Anti-Aircraft Guns                |           5 |         0 |           2 |          7 |      14 |
-| Surface-To-Air Missile Systems                   |          25 |         1 |           7 |         18 |      51 |
+| Surface-To-Air Missile Systems                   |          26 |         1 |           7 |         18 |      52 |
 | Radars                                           |           4 |         0 |           0 |          6 |      10 |
 | Jammers And Deception Systems                    |           3 |         2 |           0 |          2 |       7 |
 | Aircraft                                         |          19 |         1 |           0 |          0 |      20 |
@@ -22,5 +22,5 @@
 | Unmanned Aerial Vehicles                         |          18 |         0 |           0 |         10 |      28 |
 | Naval Ships                                      |           1 |         2 |           0 |          0 |       3 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps                       |         510 |        17 |          61 |        232 |     820 |
-| total                                            |        1543 |        46 |         245 |       1031 |    2865 |
+| Trucks, Vehicles and Jeeps                       |         513 |        17 |          61 |        232 |     823 |
+| total                                            |        1551 |        46 |         245 |       1031 |    2873 |
