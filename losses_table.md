@@ -9,7 +9,7 @@
 | Command Posts And Communications Stations        |          30 |         0 |           8 |         25 |      63 |
 | Engineering Vehicles And Equipment               |          32 |         0 |          15 |         58 |     105 |
 | Heavy Mortars                                    |           4 |         0 |           0 |          8 |      12 |
-| Towed Artillery                                  |          10 |         4 |           5 |         35 |      54 |
+| Towed Artillery                                  |          10 |         4 |           5 |         36 |      55 |
 | Self-Propelled Artillery                         |          41 |         2 |          15 |         39 |      97 |
 | Multiple Rocket Launchers                        |          25 |         0 |           5 |         24 |      54 |
 | Anti-Aircraft Guns                               |           0 |         0 |           0 |          4 |       4 |
@@ -23,4 +23,4 @@
 | Naval Ships                                      |           1 |         3 |           0 |          0 |       4 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps                       |         512 |        17 |          63 |        232 |     824 |
-| total                                            |        1553 |        47 |         247 |       1035 |    2882 |
+| total                                            |        1553 |        47 |         247 |       1036 |    2883 |
