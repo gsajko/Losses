@@ -58,7 +58,7 @@
  
  ## Ukraine
  
- ### Ukraine - 789, of which: destroyed: 365, damaged: 23, abandoned: 35, captured: 366
+ ### Ukraine - 790, of which: destroyed: 365, damaged: 23, abandoned: 35, captured: 367
 
  
 
@@ -100,7 +100,7 @@
 
  Unmanned Aerial Vehicles (14, of which destroyed: 12, captured: 2)
 
- Naval Ships (14, of which destroyed: 2, damaged: 1, captured: 11)
+ Naval Ships (15, of which destroyed: 2, damaged: 1, captured: 12)
 
  Trucks, Vehicles and Jeeps (231, of which destroyed: 104, damaged: 5, abandoned: 5, captured: 117)
 
