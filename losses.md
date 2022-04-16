@@ -58,25 +58,25 @@
  
  ## Ukraine
  
- ### Ukraine - 790, of which: destroyed: 365, damaged: 23, abandoned: 35, captured: 367
+ ### Ukraine - 797, of which: destroyed: 370, damaged: 22, abandoned: 35, captured: 370
 
  
 
  
 
- Tanks (112, of which destroyed: 44, damaged: 1, abandoned: 9, captured: 58)
+ Tanks (116, of which destroyed: 48, damaged: 1, abandoned: 9, captured: 58)
 
  Armoured Fighting Vehicles (74, of which destroyed: 28, abandoned: 4, captured: 43)
 
  Infantry Fighting Vehicles (85, of which destroyed: 39, damaged: 3, abandoned: 9, captured: 34)
 
- Armoured Personnel Carriers (41, of which destroyed: 10, damaged: 1, abandoned: 2, captured: 27)
+ Armoured Personnel Carriers (40, of which destroyed: 10, damaged: 1, abandoned: 2, captured: 27)
 
- Infantry Mobility Vehicles (59, of which destroyed: 20, damaged: 1, abandoned: 1, captured: 37)
+ Infantry Mobility Vehicles (61, of which destroyed: 20, damaged: 1, abandoned: 1, captured: 39)
 
- Engineering Vehicles (11, of which destroyed: 2, captured: 9)
+ Engineering Vehicles (12, of which destroyed: 2, captured: 10)
 
- Towed Artillery (25, of which destroyed: 8, damaged: 3, abandoned: 3, captured: 11)
+ Towed Artillery (26, of which destroyed: 8, damaged: 3, abandoned: 3, captured: 12)
 
  Self-Propelled Artillery (22, of which destroyed: 9, damaged: 4, abandoned: 1, captured: 8)
 
@@ -100,7 +100,7 @@
 
  Unmanned Aerial Vehicles (14, of which destroyed: 12, captured: 2)
 
- Naval Ships (15, of which destroyed: 2, damaged: 1, captured: 12)
+ Naval Ships (15, of which destroyed: 3, captured: 12)
 
  Trucks, Vehicles and Jeeps (231, of which destroyed: 104, damaged: 5, abandoned: 5, captured: 117)
 
