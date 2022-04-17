@@ -2,15 +2,15 @@
  
  ## Russia
  
- ### Russia - 2920, of which: destroyed: 1552, damaged: 44, abandoned: 238, captured: 1086
+ ### Russia - 2923, of which: destroyed: 1554, damaged: 44, abandoned: 238, captured: 1087
 
  
 
  
 
- Tanks (505, of which destroyed: 256, damaged: 9, abandoned: 39, captured: 201)
+ Tanks (506, of which destroyed: 257, damaged: 9, abandoned: 39, captured: 201)
 
- Armoured Fighting Vehicles (278, of which destroyed: 132, abandoned: 31, captured: 115)
+ Armoured Fighting Vehicles (279, of which destroyed: 132, abandoned: 31, captured: 116)
 
  Infantry Fighting Vehicles (521, of which destroyed: 308, damaged: 2, abandoned: 32, captured: 179)
 
@@ -22,7 +22,7 @@
 
  Command Posts And Communications Stations (63, of which destroyed: 30, abandoned: 8, captured: 25)
 
- Engineering Vehicles And Equipment (111, of which destroyed: 32, abandoned: 15, captured: 59)
+ Engineering Vehicles And Equipment (112, of which destroyed: 33, abandoned: 15, captured: 59)
 
  Heavy Mortars (12, of which destroyed: 4, captured: 8)
 
@@ -58,17 +58,17 @@
  
  ## Ukraine
  
- ### Ukraine - 814, of which: destroyed: 377, damaged: 22, abandoned: 35, captured: 380
+ ### Ukraine - 817, of which: destroyed: 378, damaged: 22, abandoned: 35, captured: 382
 
  
 
  
 
- Tanks (123, of which destroyed: 49, damaged: 1, abandoned: 9, captured: 64)
+ Tanks (124, of which destroyed: 49, damaged: 1, abandoned: 9, captured: 65)
 
- Armoured Fighting Vehicles (74, of which destroyed: 28, abandoned: 4, captured: 43)
+ Armoured Fighting Vehicles (75, of which destroyed: 28, abandoned: 4, captured: 44)
 
- Infantry Fighting Vehicles (87, of which destroyed: 41, damaged: 3, abandoned: 9, captured: 34)
+ Infantry Fighting Vehicles (88, of which destroyed: 42, damaged: 3, abandoned: 9, captured: 34)
 
  Armoured Personnel Carriers (46, of which destroyed: 12, damaged: 1, abandoned: 2, captured: 31)
 
