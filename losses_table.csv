@@ -4,7 +4,7 @@
  Infantry Fighting Vehicles                       ,         311 ,         2 ,          38 ,        181 ,     532 
  Armoured Personnel Carriers                      ,          33 ,         2 ,          14 ,         52 ,     101 
  Mine-Resistant Ambush Protected  (MRAP) Vehicles ,          13 ,         0 ,           3 ,          7 ,      23 
- Infantry Mobility Vehicles                       ,          58 ,         2 ,           5 ,         31 ,      96 
+ Infantry Mobility Vehicles                       ,          58 ,         2 ,           5 ,         30 ,      95 
  Command Posts And Communications Stations        ,          30 ,         0 ,           8 ,         25 ,      63 
  Engineering Vehicles And Equipment               ,          34 ,         0 ,          15 ,         60 ,     109 
  Heavy Mortars                                    ,           4 ,         0 ,           0 ,          8 ,      12 
@@ -18,8 +18,8 @@
  Jammers And Deception Systems                    ,           3 ,         2 ,           0 ,          2 ,       7 
  Aircraft                                         ,          21 ,         1 ,           0 ,          0 ,      22 
  Helicopters                                      ,          31 ,         2 ,           1 ,          1 ,      35 
- Unmanned Aerial Vehicles                         ,          24 ,         0 ,           0 ,         13 ,      37 
+ Unmanned Aerial Vehicles                         ,          26 ,         0 ,           0 ,         13 ,      39 
  Naval Ships                                      ,           2 ,         2 ,           0 ,          0 ,       4 
  Logistics Trains                                 ,           2 ,         0 ,           0 ,          0 ,       2 
 " Trucks, Vehicles and Jeeps                       ",         517 ,        18 ,          63 ,        236 ,     834 
- total                                            ,        1601 ,        48 ,         254 ,       1087 ,    2990 
+ total                                            ,        1603 ,        48 ,         254 ,       1086 ,    2991 
