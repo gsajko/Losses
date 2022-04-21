@@ -10,6 +10,8 @@ I find it a good source, because:
 
 Check out `losses.md` for the most recent scrape.
 
+UPDATE: Since 20/04/2022 `losses.md` contains only Russian losses. See [@oryxspioenkop](https://twitter.com/oryxspioenkop) [tweet](https://twitter.com/oryxspioenkop/status/1516826828173975552).
+
 In `losses_table.md` I present russian losses in a tabular form.
 
 There is also google spreadsheet version:
