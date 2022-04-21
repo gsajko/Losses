@@ -43,6 +43,7 @@ try:
             line_split = line.split("(")
             if len(line_split) > 2:
                 vehicle_type = line_split[0] + " (" + line_split[1]
+                vehicle_type = vehicle_type.strip()
             else:
                 vehicle_type = line_split[0].strip()
             losses[vehicle_type] = {}
@@ -58,6 +59,7 @@ try:
                             .split(" ")[0]
                         )
                         losses[vehicle_type][i.replace(": ", "")] = int(str_splits)
+                        
                     except ValueError as e:
                         print(e)
                         raise e
