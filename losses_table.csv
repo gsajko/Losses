@@ -4,12 +4,12 @@
  Infantry Fighting Vehicles                       ,         331 ,         2 ,          38 ,        190 ,     561 
  Armoured Personnel Carriers                      ,          33 ,         2 ,          14 ,         52 ,     101 
  Mine-Resistant Ambush Protected  (MRAP) Vehicles ,          13 ,         1 ,           3 ,          7 ,      24 
- Infantry Mobility Vehicles                       ,          58 ,         2 ,           5 ,         30 ,      95 
- Command Posts And Communications Stations        ,          30 ,         0 ,           8 ,         25 ,      63 
+ Infantry Mobility Vehicles                       ,          60 ,         2 ,           5 ,         30 ,      97 
+ Command Posts And Communications Stations        ,          31 ,         0 ,           8 ,         25 ,      64 
  Engineering Vehicles And Equipment               ,          34 ,         0 ,          14 ,         63 ,     111 
  Heavy Mortars                                    ,           4 ,         0 ,           0 ,          8 ,      12 
  Towed Artillery                                  ,          10 ,         4 ,           5 ,         37 ,      56 
- Self-Propelled Artillery                         ,          41 ,         2 ,          15 ,         39 ,      97 
+ Self-Propelled Artillery                         ,          41 ,         2 ,          15 ,         40 ,      98 
  Multiple Rocket Launchers                        ,          26 ,         0 ,           5 ,         27 ,      58 
  Anti-Aircraft Guns                               ,           0 ,         0 ,           0 ,          4 ,       4 
  Self-Propelled Anti-Aircraft Guns                ,           5 ,         0 ,           2 ,          7 ,      14 
@@ -17,9 +17,9 @@
  Radars                                           ,           4 ,         0 ,           0 ,          6 ,      10 
  Jammers And Deception Systems                    ,           3 ,         2 ,           0 ,          2 ,       7 
  Aircraft                                         ,          23 ,         1 ,           0 ,          0 ,      24 
- Helicopters                                      ,          34 ,         1 ,           1 ,          1 ,      37 
- Unmanned Aerial Vehicles                         ,          27 ,         0 ,           0 ,         14 ,      41 
+ Helicopters                                      ,          33 ,         1 ,           1 ,          1 ,      36 
+ Unmanned Aerial Vehicles                         ,          27 ,         0 ,           0 ,         15 ,      42 
  Naval Ships                                      ,           2 ,         2 ,           0 ,          0 ,       4 
  Logistics Trains                                 ,           2 ,         0 ,           0 ,          0 ,       2 
-" Trucks, Vehicles and Jeeps                       ",         527 ,        18 ,          63 ,        248 ,     856 
- total                                            ,        1651 ,        49 ,         253 ,       1122 ,    3075 
+" Trucks, Vehicles and Jeeps                       ",         527 ,        18 ,          63 ,        249 ,     857 
+ total                                            ,        1653 ,        49 ,         253 ,       1125 ,    3080 
