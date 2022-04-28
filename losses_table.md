@@ -19,8 +19,8 @@
 | Jammers And Deception Systems                    |           4 |         2 |           0 |          2 |       8 |
 | Aircraft                                         |          25 |         1 |           0 |          0 |      26 |
 | Helicopters                                      |          35 |         1 |           1 |          1 |      38 |
-| Unmanned Aerial Vehicles                         |          30 |         0 |           0 |         18 |      48 |
+| Unmanned Aerial Vehicles                         |          31 |         0 |           0 |         18 |      49 |
 | Naval Ships                                      |           2 |         2 |           0 |          0 |       4 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps                       |         533 |        18 |          63 |        253 |     867 |
-| total                                            |        1744 |        58 |         272 |       1162 |    3236 |
+| total                                            |        1745 |        58 |         272 |       1162 |    3237 |
