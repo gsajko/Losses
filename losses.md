@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 3243, of which: destroyed: 1729, damaged: 56, abandoned: 262, captured: 1194
+ ### Russia - 3244, of which: destroyed: 1729, damaged: 56, abandoned: 262, captured: 1195
 
  
 
@@ -46,7 +46,7 @@
 
  Helicopters (38, of which destroyed: 35, damaged: 1, abandoned: 1, captured: 1)
 
- Unmanned Aerial Vehicles (47, of which destroyed: 30, captured: 17)
+ Unmanned Aerial Vehicles (48, of which destroyed: 30, captured: 18)
 
  Naval Ships (4, of which destroyed: 2, damaged: 2)
 
