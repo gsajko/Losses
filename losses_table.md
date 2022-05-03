@@ -2,12 +2,12 @@
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |         313 |        17 |          49 |        221 |     600 |
 | Armoured Fighting Vehicles                       |         161 |         1 |          37 |        130 |     329 |
-| Infantry Fighting Vehicles                       |         394 |         6 |          46 |        209 |     655 |
+| Infantry Fighting Vehicles                       |         395 |         6 |          46 |        209 |     656 |
 | Armoured Personnel Carriers                      |          37 |         2 |          14 |         52 |     105 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          13 |         1 |           3 |          8 |      25 |
 | Infantry Mobility Vehicles                       |          63 |         2 |           5 |         32 |     102 |
 | Command Posts And Communications Stations        |          33 |         0 |           8 |         31 |      72 |
-| Engineering Vehicles And Equipment               |          40 |         0 |          15 |         66 |     121 |
+| Engineering Vehicles And Equipment               |          40 |         0 |          15 |         67 |     122 |
 | Heavy Mortars                                    |           4 |         0 |           0 |          8 |      12 |
 | Towed Artillery                                  |          12 |         4 |           5 |         38 |      59 |
 | Self-Propelled Artillery                         |          43 |         2 |          16 |         41 |     102 |
@@ -23,4 +23,4 @@
 | Naval Ships                                      |           4 |         2 |           0 |          0 |       6 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps                       |         546 |        18 |          63 |        258 |     885 |
-| total                                            |        1832 |        61 |         276 |       1183 |    3352 |
+| total                                            |        1833 |        61 |         276 |       1184 |    3354 |
