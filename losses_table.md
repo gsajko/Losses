@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         315 |        19 |          49 |        222 |     605 |
-| Armoured Fighting Vehicles                       |         173 |         1 |          38 |        129 |     341 |
-| Infantry Fighting Vehicles                       |         399 |         8 |          46 |        214 |     667 |
+| Tanks                                            |         316 |        19 |          49 |        222 |     606 |
+| Armoured Fighting Vehicles                       |         178 |         1 |          38 |        129 |     346 |
+| Infantry Fighting Vehicles                       |         401 |         8 |          46 |        215 |     670 |
 | Armoured Personnel Carriers                      |          38 |         2 |          14 |         54 |     108 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          13 |         1 |           3 |          8 |      25 |
 | Infantry Mobility Vehicles                       |          63 |         2 |           5 |         32 |     102 |
@@ -22,5 +22,5 @@
 | Unmanned Aerial Vehicles                         |          35 |         0 |           0 |         21 |      56 |
 | Naval Ships                                      |           4 |         2 |           0 |          0 |       6 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps                       |         562 |        18 |          63 |        264 |     907 |
-| total                                            |        1873 |        65 |         276 |       1197 |    3411 |
+| Trucks, Vehicles and Jeeps                       |         562 |        18 |          63 |        265 |     908 |
+| total                                            |        1881 |        65 |         276 |       1199 |    3421 |
