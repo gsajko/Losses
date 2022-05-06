@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         331 |        19 |          47 |        227 |     624 |
-| Armoured Fighting Vehicles                       |         182 |         2 |          38 |        127 |     349 |
-| Infantry Fighting Vehicles                       |         411 |        10 |          46 |        217 |     684 |
+| Tanks                                            |         332 |        19 |          47 |        227 |     625 |
+| Armoured Fighting Vehicles                       |         184 |         2 |          38 |        127 |     351 |
+| Infantry Fighting Vehicles                       |         413 |        10 |          46 |        217 |     686 |
 | Armoured Personnel Carriers                      |          38 |         2 |          14 |         54 |     108 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          13 |         1 |           3 |          8 |      25 |
 | Infantry Mobility Vehicles                       |          63 |         2 |           5 |         32 |     102 |
@@ -22,5 +22,5 @@
 | Unmanned Aerial Vehicles                         |          30 |         0 |           0 |         21 |      51 |
 | Naval Ships                                      |           4 |         2 |           0 |          0 |       6 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps                       |         568 |        18 |          63 |        266 |     915 |
-| total                                            |        1914 |        68 |         274 |       1205 |    3461 |
+| Trucks, Vehicles and Jeeps                       |         569 |        18 |          63 |        266 |     916 |
+| total                                            |        1920 |        68 |         274 |       1205 |    3467 |
