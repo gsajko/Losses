@@ -1,6 +1,6 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         337 |        19 |          45 |        232 |     633 |
+| Tanks                                            |         337 |        20 |          45 |        233 |     635 |
 | Armoured Fighting Vehicles                       |         181 |         2 |          35 |        124 |     342 |
 | Infantry Fighting Vehicles                       |         413 |        10 |          49 |        222 |     694 |
 | Armoured Personnel Carriers                      |          38 |         2 |          14 |         54 |     108 |
@@ -12,10 +12,10 @@
 | Heavy Mortars                                    |           5 |         0 |           0 |          8 |      13 |
 | Towed Artillery                                  |          12 |         4 |           5 |         38 |      59 |
 | Self-Propelled Artillery                         |          46 |         2 |          16 |         41 |     105 |
-| Multiple Rocket Launchers                        |          29 |         1 |           3 |         29 |      62 |
+| Multiple Rocket Launchers                        |          29 |         1 |           3 |         30 |      63 |
 | Anti-Aircraft Guns                               |           2 |         0 |           0 |          4 |       6 |
 | Self-Propelled Anti-Aircraft Guns                |           6 |         0 |           2 |          7 |      15 |
-| Surface-To-Air Missile Systems                   |          30 |         1 |           7 |         20 |      58 |
+| Surface-To-Air Missile Systems                   |          30 |         1 |           7 |         21 |      59 |
 | Radars                                           |           4 |         0 |           0 |          6 |      10 |
 | Jammers And Deception Systems                    |           4 |         2 |           0 |          2 |       8 |
 | Aircraft                                         |          25 |         1 |           0 |          0 |      26 |
@@ -24,4 +24,4 @@
 | Naval Ships                                      |           7 |         2 |           0 |          0 |       9 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps                       |         569 |        20 |          64 |        266 |     919 |
-| total                                            |        1938 |        70 |         282 |       1218 |    3508 |
+| total                                            |        1938 |        71 |         282 |       1221 |    3512 |
