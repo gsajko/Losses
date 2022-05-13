@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         358 |        21 |          45 |        238 |     662 |
-| Armoured Fighting Vehicles                       |         191 |         2 |          35 |        128 |     356 |
-| Infantry Fighting Vehicles                       |         420 |        12 |          49 |        224 |     705 |
+| Tanks                                            |         359 |        21 |          45 |        238 |     663 |
+| Armoured Fighting Vehicles                       |         190 |         2 |          35 |        129 |     356 |
+| Infantry Fighting Vehicles                       |         421 |        12 |          49 |        224 |     706 |
 | Armoured Personnel Carriers                      |          38 |         2 |          14 |         54 |     108 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          13 |         1 |           3 |          8 |      25 |
 | Infantry Mobility Vehicles                       |          69 |         2 |           5 |         32 |     108 |
@@ -23,5 +23,5 @@
 | Unmanned Aerial Vehicles                         |          33 |         0 |           0 |         25 |      58 |
 | Naval Ships                                      |           7 |         2 |           0 |          0 |       9 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps                       |         592 |        20 |          64 |        272 |     948 |
-| total                                            |        2015 |        74 |         283 |       1243 |    3615 |
+| Trucks, Vehicles and Jeeps                       |         591 |        20 |          64 |        273 |     948 |
+| total                                            |        2015 |        74 |         283 |       1245 |    3617 |
