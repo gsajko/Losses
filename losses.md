@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 3705, of which: destroyed: 2052, damaged: 74, abandoned: 290, captured: 1289
+ ### Russia - 3707, of which: destroyed: 2054, damaged: 74, abandoned: 290, captured: 1289
 
  
 
@@ -38,7 +38,7 @@
 
  Self-Propelled Anti-Aircraft Guns (15, of which destroyed: 6, abandoned: 2, captured: 7)
 
- Surface-To-Air Missile Systems (60, of which destroyed: 31, damaged: 1, abandoned: 7, captured: 21)
+ Surface-To-Air Missile Systems (62, of which destroyed: 33, damaged: 1, abandoned: 7, captured: 21)
 
  Radars (10, of which destroyed: 4, captured: 6)
 
