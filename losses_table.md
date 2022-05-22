@@ -1,7 +1,7 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |         371 |        21 |          52 |        242 |     686 |
-| Armoured Fighting Vehicles                       |         199 |         3 |          35 |        132 |     369 |
+| Armoured Fighting Vehicles                       |         200 |         3 |          35 |        132 |     370 |
 | Infantry Fighting Vehicles                       |         443 |        12 |          55 |        228 |     738 |
 | Armoured Personnel Carriers                      |          39 |         2 |          14 |         55 |     110 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          14 |         1 |           3 |          8 |      26 |
@@ -20,8 +20,8 @@
 | Jammers And Deception Systems                    |           5 |         2 |           0 |          2 |       9 |
 | Aircraft                                         |          25 |         1 |           0 |          0 |      26 |
 | Helicopters                                      |          39 |         1 |           1 |          1 |      42 |
-| Unmanned Aerial Vehicles                         |          38 |         0 |           0 |         28 |      66 |
+| Unmanned Aerial Vehicles                         |          38 |         0 |           0 |         29 |      67 |
 | Naval Ships                                      |           7 |         2 |           0 |          0 |       9 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps                       |         600 |        22 |          65 |        273 |     960 |
-| total                                            |        2084 |        77 |         300 |       1267 |    3728 |
+| total                                            |        2085 |        77 |         300 |       1268 |    3730 |
