@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |         374 |        22 |          52 |        243 |     691 |
-| Armoured Fighting Vehicles                       |         207 |         3 |          35 |        133 |     378 |
-| Infantry Fighting Vehicles                       |         450 |        12 |          55 |        231 |     748 |
+| Armoured Fighting Vehicles                       |         208 |         3 |          35 |        133 |     379 |
+| Infantry Fighting Vehicles                       |         452 |        12 |          55 |        231 |     750 |
 | Armoured Personnel Carriers                      |          39 |         2 |          14 |         55 |     110 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          14 |         1 |           3 |          8 |      26 |
 | Infantry Mobility Vehicles                       |          69 |         2 |           5 |         33 |     109 |
@@ -20,8 +20,8 @@
 | Jammers And Deception Systems                    |           5 |         2 |           0 |          2 |       9 |
 | Aircraft                                         |          25 |         1 |           0 |          0 |      26 |
 | Helicopters                                      |          39 |         1 |           1 |          1 |      42 |
-| Unmanned Aerial Vehicles                         |          40 |         0 |           0 |         33 |      73 |
+| Unmanned Aerial Vehicles                         |          40 |         0 |           0 |         34 |      74 |
 | Naval Ships                                      |           7 |         2 |           0 |          0 |       9 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps                       |         608 |        22 |          67 |        273 |     970 |
-| total                                            |        2114 |        78 |         302 |       1278 |    3772 |
+| Trucks, Vehicles and Jeeps                       |         609 |        22 |          67 |        273 |     971 |
+| total                                            |        2118 |        78 |         302 |       1279 |    3777 |
