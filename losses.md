@@ -2,13 +2,13 @@
  
  ## Russia
  
- ### Russia - 4022, of which: destroyed: 2320, damaged: 75, abandoned: 294, captured: 1332
+ ### Russia - 4024, of which: destroyed: 2321, damaged: 75, abandoned: 295, captured: 1332
 
  
 
  
 
- Tanks (696, of which destroyed: 377, damaged: 22, abandoned: 52, captured: 242)
+ Tanks (698, of which destroyed: 378, damaged: 22, abandoned: 53, captured: 242)
 
  Armoured Fighting Vehicles (393, of which destroyed: 221, damaged: 3, abandoned: 35, captured: 134)
 
