@@ -2,7 +2,7 @@
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |         413 |        22 |          55 |        251 |     741 |
 | Armoured Fighting Vehicles                       |         237 |         3 |          36 |        135 |     411 |
-| Infantry Fighting Vehicles                       |         502 |        13 |          64 |        239 |     818 |
+| Infantry Fighting Vehicles                       |         503 |        13 |          64 |        239 |     819 |
 | Armoured Personnel Carriers                      |          41 |         2 |          14 |         55 |     112 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          14 |         1 |           3 |          8 |      26 |
 | Infantry Mobility Vehicles                       |          70 |         2 |           5 |         33 |     110 |
@@ -20,8 +20,8 @@
 | Jammers And Deception Systems                    |           5 |         2 |           0 |          2 |       9 |
 | Aircraft                                         |          29 |         0 |           0 |          0 |      29 |
 | Helicopters                                      |          40 |         1 |           1 |          1 |      43 |
-| Unmanned Aerial Vehicles                         |          41 |         0 |           0 |         34 |      75 |
+| Unmanned Aerial Vehicles                         |          42 |         0 |           0 |         34 |      76 |
 | Naval Ships                                      |           7 |         2 |           0 |          0 |       9 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps                       |         800 |        22 |          67 |        296 |    1185 |
-| total                                            |        2447 |        78 |         329 |       1329 |    4183 |
+| total                                            |        2449 |        78 |         329 |       1329 |    4185 |
