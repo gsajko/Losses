@@ -1,10 +1,10 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |         428 |        20 |          54 |        259 |     761 |
-| Armoured Fighting Vehicles                       |         243 |         3 |          36 |        135 |     417 |
-| Infantry Fighting Vehicles                       |         512 |        13 |          65 |        242 |     832 |
+| Armoured Fighting Vehicles                       |         245 |         3 |          36 |        135 |     419 |
+| Infantry Fighting Vehicles                       |         514 |        13 |          65 |        242 |     834 |
 | Armoured Personnel Carriers                      |          42 |         3 |          14 |         56 |     115 |
-| Mine-Resistant Ambush Protected  (MRAP) Vehicles |          14 |         1 |           3 |          8 |      26 |
+| Mine-Resistant Ambush Protected  (MRAP) Vehicles |          14 |         2 |           3 |          8 |      27 |
 | Infantry Mobility Vehicles                       |          70 |         2 |           5 |         33 |     110 |
 | Command Posts And Communications Stations        |          37 |         0 |           7 |         36 |      80 |
 | Engineering Vehicles And Equipment               |          50 |         0 |          40 |         69 |     159 |
@@ -24,4 +24,4 @@
 | Naval Ships                                      |           7 |         2 |           0 |          0 |       9 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps                       |         806 |        22 |          67 |        296 |    1191 |
-| total                                            |        2492 |        77 |         329 |       1345 |    4243 |
+| total                                            |        2496 |        78 |         329 |       1345 |    4248 |
