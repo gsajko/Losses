@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 4271, of which: destroyed: 2506, damaged: 78, abandoned: 316, captured: 1370
+ ### Russia - 4273, of which: destroyed: 2507, damaged: 78, abandoned: 316, captured: 1371
 
  
 
@@ -24,11 +24,11 @@
 
  Engineering Vehicles And Equipment (163, of which destroyed: 50, abandoned: 40, captured: 68)
 
- Self-Propelled Anti-Tank Missile Systems (19, of which destroyed: 7, abandoned: 5, captured: 7)
+ Self-Propelled Anti-Tank Missile Systems (20, of which destroyed: 7, abandoned: 5, captured: 8)
 
  Heavy Mortars (13, of which destroyed: 5, captured: 8)
 
- Towed Artillery (62, of which destroyed: 14, damaged: 4, abandoned: 5, captured: 39)
+ Towed Artillery (63, of which destroyed: 15, damaged: 4, abandoned: 5, captured: 39)
 
  Self-Propelled Artillery (120, of which destroyed: 54, damaged: 2, abandoned: 15, captured: 48)
 
