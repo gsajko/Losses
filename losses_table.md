@@ -6,8 +6,8 @@
 | Armoured Personnel Carriers                      |          43 |         3 |          14 |         56 |     116 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          14 |         2 |           3 |          8 |      27 |
 | Infantry Mobility Vehicles                       |          69 |         2 |           4 |         33 |     108 |
-| Command Posts And Communications Stations        |          37 |         0 |           7 |         36 |      80 |
-| Engineering Vehicles And Equipment               |          49 |         0 |          40 |         68 |     157 |
+| Command Posts And Communications Stations        |          43 |         0 |           7 |         36 |      86 |
+| Engineering Vehicles And Equipment               |          61 |         0 |          40 |         68 |     169 |
 | Self-Propelled Anti-Tank Missile Systems         |           8 |         0 |           5 |          8 |      21 |
 | Heavy Mortars                                    |           5 |         0 |           0 |          8 |      13 |
 | Towed Artillery                                  |          16 |         4 |           5 |         39 |      64 |
@@ -23,5 +23,5 @@
 | Unmanned Aerial Vehicles                         |          46 |         0 |           0 |         40 |      86 |
 | Naval Ships                                      |           7 |         2 |           0 |          0 |       9 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps                       |         821 |        21 |          63 |        295 |    1200 |
-| total                                            |        2580 |        83 |         326 |       1349 |    4338 |
+| Trucks, Vehicles and Jeeps                       |         809 |        21 |          57 |        294 |    1181 |
+| total                                            |        2586 |        83 |         320 |       1348 |    4337 |
