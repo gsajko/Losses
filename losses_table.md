@@ -2,7 +2,7 @@
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |         443 |        22 |          49 |        252 |     766 |
 | Armoured Fighting Vehicles                       |         262 |         3 |          36 |        133 |     434 |
-| Infantry Fighting Vehicles                       |         537 |        16 |          70 |        239 |     862 |
+| Infantry Fighting Vehicles                       |         537 |        16 |          70 |        240 |     863 |
 | Armoured Personnel Carriers                      |          43 |         3 |          13 |         58 |     117 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          14 |         2 |           3 |          8 |      27 |
 | Infantry Mobility Vehicles                       |          68 |         2 |           4 |         34 |     108 |
@@ -10,8 +10,8 @@
 | Engineering Vehicles And Equipment               |          55 |         1 |          41 |         69 |     166 |
 | Self-Propelled Anti-Tank Missile Systems         |           8 |         0 |           5 |          8 |      21 |
 | Heavy Mortars                                    |           6 |         0 |           0 |          8 |      14 |
-| Towed Artillery                                  |          16 |         4 |           6 |         38 |      64 |
-| Self-Propelled Artillery                         |          56 |         2 |          19 |         45 |     122 |
+| Towed Artillery                                  |          17 |         4 |           6 |         38 |      65 |
+| Self-Propelled Artillery                         |          58 |         2 |          19 |         45 |     124 |
 | Multiple Rocket Launchers                        |          48 |         0 |           2 |         29 |      79 |
 | Anti-Aircraft Guns                               |           2 |         0 |           0 |          5 |       7 |
 | Self-Propelled Anti-Aircraft Guns                |           7 |         0 |           2 |          6 |      15 |
@@ -21,7 +21,7 @@
 | Aircraft                                         |          32 |         1 |           0 |          0 |      33 |
 | Helicopters                                      |          46 |         1 |           1 |          1 |      49 |
 | Unmanned Aerial Vehicles                         |          46 |         0 |           0 |         41 |      87 |
-| Naval Ships                                      |           7 |         2 |           0 |          0 |       9 |
+| Naval Ships                                      |           8 |         2 |           0 |          0 |      10 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
 | Trucks, Vehicles and Jeeps                       |         811 |        21 |          57 |        294 |    1183 |
-| total                                            |        2594 |        82 |         322 |       1335 |    4333 |
+| total                                            |        2598 |        82 |         322 |       1336 |    4338 |
