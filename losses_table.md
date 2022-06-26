@@ -7,12 +7,12 @@
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          14 |         2 |           3 |          8 |      27 |
 | Infantry Mobility Vehicles                       |          68 |         2 |           4 |         34 |     108 |
 | Command Posts And Communications Stations        |          41 |         0 |           7 |         37 |      85 |
-| Engineering Vehicles And Equipment               |          55 |         1 |          41 |         69 |     166 |
+| Engineering Vehicles And Equipment               |          55 |         2 |          41 |         69 |     167 |
 | Self-Propelled Anti-Tank Missile Systems         |           8 |         0 |           5 |          8 |      21 |
 | Heavy Mortars                                    |           6 |         0 |           0 |          8 |      14 |
 | Towed Artillery                                  |          17 |         4 |           6 |         38 |      65 |
 | Self-Propelled Artillery                         |          58 |         2 |          19 |         45 |     124 |
-| Multiple Rocket Launchers                        |          48 |         0 |           2 |         29 |      79 |
+| Multiple Rocket Launchers                        |          51 |         0 |           2 |         29 |      82 |
 | Anti-Aircraft Guns                               |           2 |         0 |           0 |          5 |       7 |
 | Self-Propelled Anti-Aircraft Guns                |           7 |         0 |           2 |          6 |      15 |
 | Surface-To-Air Missile Systems                   |          34 |         1 |           7 |         21 |      63 |
@@ -23,5 +23,5 @@
 | Unmanned Aerial Vehicles                         |          47 |         0 |           0 |         41 |      88 |
 | Naval Ships                                      |           8 |         2 |           0 |          0 |      10 |
 | Logistics Trains                                 |           2 |         0 |           0 |          0 |       2 |
-| Trucks, Vehicles and Jeeps                       |         811 |        22 |          57 |        294 |    1184 |
-| total                                            |        2614 |        84 |         323 |       1336 |    4357 |
+| Trucks, Vehicles and Jeeps                       |         818 |        22 |          57 |        294 |    1191 |
+| total                                            |        2624 |        85 |         323 |       1336 |    4368 |
