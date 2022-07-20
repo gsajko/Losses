@@ -2,27 +2,27 @@
  
  ## Russia
  
- ### Russia - 4754, of which: destroyed: 2946, damaged: 103, abandoned: 331, captured: 1374
+ ### Russia - 4763, of which: destroyed: 2955, damaged: 103, abandoned: 331, captured: 1374
 
  
 
  
 
- Tanks (871, of which destroyed: 516 damaged: 31, abandoned: 54, captured: 270)
+ Tanks (874, of which destroyed: 518 damaged: 31, abandoned: 54, captured: 271)
 
  Armoured Fighting Vehicles (496, of which destroyed: 327, damaged: 5, abandoned: 36, captured: 131)
 
- Infantry Fighting Vehicles (952, of which destroyed: 593, damaged: 19, abandoned: 72, captured: 267)
+ Infantry Fighting Vehicles (954, of which destroyed: 595, damaged: 19, abandoned: 72, captured: 267)
 
- Armoured Personnel Carriers (125, of which destroyed: 55, damaged: 3, abandoned: 13, captured: 56)
+ Armoured Personnel Carriers (126, of which destroyed: 56, damaged: 3, abandoned: 13, captured: 56)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (30, of which destroyed: 16, damaged: 3, abandoned: 3, captured: 8)
 
- Infantry Mobility Vehicles (113, of which destroyed: 72, damaged: 2, abandoned: 4, captured: 35)
+ Infantry Mobility Vehicles (114, of which destroyed: 73, damaged: 2, abandoned: 4, captured: 35)
 
- Command Posts And Communications Stations (94, of which destroyed: 50, abandoned: 7, captured: 37)
+ Command Posts And Communications Stations (95, of which destroyed: 51, abandoned: 7, captured: 37)
 
- Engineering Vehicles And Equipment (173, of which destroyed: 62, damaged: 2, abandoned: 42, captured: 69)
+ Engineering Vehicles And Equipment (174, of which destroyed: 63, damaged: 2, abandoned: 42, captured: 69)
 
  Self-Propelled Anti-Tank Missile Systems (21, of which destroyed: 8, abandoned: 5, captured: 8)
 
@@ -30,7 +30,7 @@
 
  Towed Artillery (72, of which destroyed: 23, damaged: 4, abandoned: 6, captured: 39)
 
- Self-Propelled Artillery (139, of which destroyed: 72, damaged: 2, abandoned: 20, captured: 45)
+ Self-Propelled Artillery (140, of which destroyed: 73, damaged: 2, abandoned: 20, captured: 45)
 
  Multiple Rocket Launchers (92, of which destroyed: 61, abandoned: 2, captured: 29)
 
