@@ -9,7 +9,7 @@
  Engineering Vehicles And Equipment               ,          62 ,         2 ,          42 ,         69 ,     175 
  Self-Propelled Anti-Tank Missile Systems         ,           8 ,         0 ,           5 ,          8 ,      21 
  Heavy Mortars                                    ,           6 ,         0 ,           0 ,          8 ,      14 
- Towed Artillery                                  ,          22 ,         4 ,           6 ,         39 ,      71 
+ Towed Artillery                                  ,          23 ,         4 ,           6 ,         39 ,      72 
  Self-Propelled Artillery                         ,          72 ,         2 ,          20 ,         45 ,     139 
  Multiple Rocket Launchers                        ,          61 ,         0 ,           2 ,         29 ,      92 
  Anti-Aircraft Guns                               ,           2 ,         0 ,           0 ,          5 ,       7 
@@ -23,4 +23,4 @@
  Naval Ships                                      ,           7 ,         3 ,           0 ,          0 ,      10 
  Logistics Trains                                 ,           2 ,         0 ,           0 ,          0 ,       2 
 " Trucks, Vehicles and Jeeps                       ",         889 ,        21 ,          58 ,        286 ,    1254 
- total                                            ,        2948 ,        99 ,         332 ,       1377 ,    4756 
+ total                                            ,        2949 ,        99 ,         332 ,       1377 ,    4757 
