@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 4864, of which: destroyed: 3064, damaged: 102, abandoned: 319, captured: 1379
+ ### Russia - 4865, of which: destroyed: 3065, damaged: 102, abandoned: 319, captured: 1379
 
  
 
@@ -16,7 +16,7 @@
 
  Armoured Personnel Carriers (137, of which destroyed: 68, damaged: 3, abandoned: 11, captured: 55)
 
- Mine-Resistant Ambush Protected (MRAP) Vehicles (30, of which destroyed: 16, damaged: 3, abandoned: 3, captured: 8)
+ Mine-Resistant Ambush Protected (MRAP) Vehicles (31, of which destroyed: 17, damaged: 3, abandoned: 3, captured: 8)
 
  Infantry Mobility Vehicles (114, of which destroyed: 73, damaged: 2, abandoned: 4, captured: 35)
 
