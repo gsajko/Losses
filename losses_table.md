@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         546 |        34 |          49 |        274 |     903 |
-| Armoured Fighting Vehicles                       |         335 |         5 |          36 |        131 |     507 |
-| Infantry Fighting Vehicles                       |         640 |        19 |          70 |        254 |     983 |
+| Tanks                                            |         552 |        34 |          49 |        275 |     910 |
+| Armoured Fighting Vehicles                       |         334 |         5 |          36 |        131 |     506 |
+| Infantry Fighting Vehicles                       |         642 |        19 |          70 |        254 |     985 |
 | Armoured Personnel Carriers                      |          68 |         3 |          11 |         55 |     137 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          17 |         3 |           3 |          8 |      31 |
 | Infantry Mobility Vehicles                       |          73 |         2 |           4 |         35 |     114 |
@@ -23,5 +23,5 @@
 | Unmanned Aerial Vehicles                         |          52 |         0 |           0 |         49 |     101 |
 | Naval Ships                                      |           8 |         3 |           0 |          0 |      11 |
 | Logistics Trains                                 |           3 |         0 |           0 |          0 |       3 |
-| Trucks, Vehicles and Jeeps                       |         995 |        21 |          60 |        293 |    1369 |
-| total                                            |        3175 |       104 |         321 |       1384 |    4984 |
+| Trucks, Vehicles and Jeeps                       |         997 |        21 |          60 |        293 |    1371 |
+| total                                            |        3184 |       104 |         321 |       1385 |    4994 |
