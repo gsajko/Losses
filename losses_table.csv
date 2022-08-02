@@ -1,8 +1,8 @@
  Russian Losses                                   ,   destroyed ,   damaged ,   abandoned ,   captured ,   total 
- Tanks                                            ,         560 ,        34 ,          49 ,        279 ,     922 
- Armoured Fighting Vehicles                       ,         335 ,         5 ,          36 ,        133 ,     509 
- Infantry Fighting Vehicles                       ,         647 ,        19 ,          71 ,        255 ,     992 
- Armoured Personnel Carriers                      ,          68 ,         3 ,          11 ,         55 ,     137 
+ Tanks                                            ,         560 ,        34 ,          49 ,        280 ,     923 
+ Armoured Fighting Vehicles                       ,         337 ,         5 ,          36 ,        134 ,     512 
+ Infantry Fighting Vehicles                       ,         648 ,        19 ,          71 ,        255 ,     993 
+ Armoured Personnel Carriers                      ,          68 ,         3 ,          11 ,         56 ,     138 
  Mine-Resistant Ambush Protected  (MRAP) Vehicles ,          17 ,         3 ,           4 ,          8 ,      32 
  Infantry Mobility Vehicles                       ,          73 ,         2 ,           4 ,         35 ,     114 
  Command Posts And Communications Stations        ,          56 ,         0 ,           6 ,         39 ,     101 
@@ -14,7 +14,7 @@
  Multiple Rocket Launchers                        ,          62 ,         1 ,           2 ,         29 ,      94 
  Anti-Aircraft Guns                               ,           2 ,         0 ,           0 ,          5 ,       7 
  Self-Propelled Anti-Aircraft Guns                ,           8 ,         0 ,           2 ,          6 ,      16 
- Surface-To-Air Missile Systems                   ,          37 ,         1 ,           8 ,         21 ,      67 
+ Surface-To-Air Missile Systems                   ,          38 ,         1 ,           8 ,         21 ,      68 
  Radars                                           ,           6 ,         0 ,           0 ,          6 ,      12 
  Jammers And Deception Systems                    ,           7 ,         1 ,           0 ,          3 ,      11 
  Aircraft                                         ,          37 ,         1 ,           0 ,          0 ,      38 
@@ -23,4 +23,4 @@
  Naval Ships                                      ,           8 ,         3 ,           0 ,          0 ,      11 
  Logistics Trains                                 ,           3 ,         0 ,           0 ,          0 ,       3 
 " Trucks, Vehicles and Jeeps                       ",        1003 ,        21 ,          60 ,        294 ,    1378 
- total                                            ,        3211 ,       105 ,         322 ,       1396 ,    5034 
+ total                                            ,        3215 ,       105 ,         322 ,       1399 ,    5041 
