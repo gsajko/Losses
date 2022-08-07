@@ -32,7 +32,7 @@
 
  Self-Propelled Artillery (152, of which destroyed: 82, damaged: 3, abandoned: 17, captured: 50)
 
- Multiple Rocket Launchers (96, of which destroyed: 63, damaged: 1, abandoned: 2, captured: 30)
+ Multiple Rocket Launchers (95, of which destroyed: 63, damaged: 1, abandoned: 2, captured: 29)
 
  Anti-Aircraft Guns (7, of which destroyed: 2, captured: 5)
 
@@ -54,5 +54,5 @@
 
  Logistics Trains (3, of which destroyed: 3)
 
- Trucks, Vehicles and Jeeps (1386, of which destroyed: 1007, damaged: 23, abandoned: 61, captured: 295)
+ Trucks, Vehicles and Jeeps (1387, of which destroyed: 1007, damaged: 23, abandoned: 61, captured: 296)
 
