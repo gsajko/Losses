@@ -1,6 +1,6 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         578 |        37 |          50 |        281 |     946 |
+| Tanks                                            |         579 |        37 |          50 |        281 |     947 |
 | Armoured Fighting Vehicles                       |         346 |         6 |          32 |        121 |     505 |
 | Infantry Fighting Vehicles                       |         671 |        21 |          71 |        264 |    1027 |
 | Armoured Personnel Carriers                      |          71 |         3 |          10 |         58 |     142 |
@@ -20,9 +20,9 @@
 | Radars                                           |           6 |         0 |           0 |          7 |      13 |
 | Jammers And Deception Systems                    |           8 |         1 |           0 |          3 |      12 |
 | Aircraft                                         |          49 |         2 |           0 |          0 |      51 |
-| Helicopters                                      |          47 |         1 |           0 |          1 |      49 |
+| Helicopters                                      |          49 |         1 |           0 |          1 |      51 |
 | Unmanned Aerial Vehicles                         |          58 |         0 |           0 |         51 |     109 |
 | Naval Ships                                      |           8 |         3 |           0 |          0 |      11 |
 | Logistics Trains                                 |           3 |         0 |           0 |          0 |       3 |
 | Trucks, Vehicles and Jeeps                       |        1005 |        26 |          60 |        292 |    1383 |
-| total                                            |        3323 |       120 |         319 |       1426 |    5188 |
+| total                                            |        3326 |       120 |         319 |       1426 |    5191 |
