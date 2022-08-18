@@ -28,7 +28,7 @@
 
  Heavy Mortars (15, of which destroyed: 7, captured: 8)
 
- Artillery Support Vehicles And Equipment (56, of which destroyed: 30, abandoned: 2, captured: 23)
+ Artillery Support Vehicles And Equipment (54, of which destroyed: 28, abandoned: 2, captured: 23)
 
  Towed Artillery (75, of which destroyed: 24, damaged: 5, abandoned: 5, captured: 41)
 
@@ -56,5 +56,5 @@
 
  Logistics Trains (3, of which destroyed: 3)
 
- Trucks, Vehicles and Jeeps (1387, of which destroyed: 1007, damaged: 28, abandoned: 60, captured: 292)
+ Trucks, Vehicles and Jeeps (1389, of which destroyed: 1009, damaged: 28, abandoned: 60, captured: 292)
 
