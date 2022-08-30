@@ -2,7 +2,7 @@
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |         610 |        40 |          51 |        289 |     990 |
 | Armoured Fighting Vehicles                       |         352 |         6 |          29 |        124 |     511 |
-| Infantry Fighting Vehicles                       |         701 |        24 |          72 |        267 |    1064 |
+| Infantry Fighting Vehicles                       |         702 |        24 |          72 |        267 |    1065 |
 | Armoured Personnel Carriers                      |          74 |         3 |          10 |         56 |     143 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          15 |         4 |           2 |          9 |      30 |
 | Infantry Mobility Vehicles                       |          80 |         2 |           1 |         31 |     114 |
@@ -11,7 +11,7 @@
 | Self-Propelled Anti-Tank Missile Systems         |           8 |         0 |           5 |          9 |      22 |
 | Heavy Mortars                                    |           7 |         0 |           0 |          8 |      15 |
 | Artillery Support Vehicles And Equipment         |          28 |         0 |           2 |         23 |      53 |
-| Towed Artillery                                  |          26 |         5 |           5 |         42 |      78 |
+| Towed Artillery                                  |          26 |         6 |           5 |         42 |      79 |
 | Self-Propelled Artillery                         |          92 |         7 |          13 |         51 |     163 |
 | Multiple Rocket Launchers                        |          60 |         1 |           2 |         27 |      90 |
 | Anti-Aircraft Guns                               |           2 |         0 |           0 |          5 |       7 |
@@ -25,4 +25,4 @@
 | Naval Ships                                      |           8 |         3 |           0 |          0 |      11 |
 | Logistics Trains                                 |           3 |         0 |           0 |          0 |       3 |
 | Trucks, Vehicles and Jeeps                       |        1067 |        28 |          53 |        304 |    1452 |
-| total                                            |        3490 |       131 |         302 |       1452 |    5375 |
+| total                                            |        3491 |       132 |         302 |       1452 |    5377 |
