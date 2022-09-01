@@ -1,18 +1,18 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |         614 |        40 |          51 |        289 |     994 |
-| Armoured Fighting Vehicles                       |         351 |         6 |          29 |        125 |     511 |
-| Infantry Fighting Vehicles                       |         707 |        24 |          72 |        268 |    1071 |
+| Armoured Fighting Vehicles                       |         352 |         6 |          29 |        125 |     512 |
+| Infantry Fighting Vehicles                       |         708 |        24 |          72 |        268 |    1072 |
 | Armoured Personnel Carriers                      |          74 |         3 |          10 |         56 |     143 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          15 |         4 |           2 |          9 |      30 |
 | Infantry Mobility Vehicles                       |          80 |         2 |           1 |         31 |     114 |
 | Command Posts And Communications Stations        |          63 |         0 |           8 |         42 |     113 |
 | Engineering Vehicles And Equipment               |          73 |         3 |          38 |         70 |     184 |
 | Self-Propelled Anti-Tank Missile Systems         |           9 |         0 |           5 |          9 |      23 |
-| Heavy Mortars                                    |           7 |         0 |           0 |          8 |      15 |
+| Heavy Mortars                                    |           8 |         0 |           0 |          8 |      16 |
 | Artillery Support Vehicles And Equipment         |          28 |         0 |           2 |         23 |      53 |
 | Towed Artillery                                  |          26 |         5 |           5 |         42 |      78 |
-| Self-Propelled Artillery                         |          93 |         7 |          13 |         51 |     164 |
+| Self-Propelled Artillery                         |          94 |         7 |          13 |         51 |     165 |
 | Multiple Rocket Launchers                        |          60 |         1 |           2 |         27 |      90 |
 | Anti-Aircraft Guns                               |           2 |         0 |           0 |          5 |       7 |
 | Self-Propelled Anti-Aircraft Guns                |           9 |         0 |           3 |          5 |      17 |
@@ -24,5 +24,5 @@
 | Unmanned Aerial Vehicles                         |          63 |         0 |           0 |         58 |     121 |
 | Naval Ships                                      |           8 |         3 |           0 |          0 |      11 |
 | Logistics Trains                                 |           3 |         0 |           0 |          0 |       3 |
-| Trucks, Vehicles and Jeeps                       |        1069 |        28 |          53 |        304 |    1454 |
-| total                                            |        3504 |       131 |         302 |       1454 |    5391 |
+| Trucks, Vehicles and Jeeps                       |        1070 |        28 |          53 |        304 |    1455 |
+| total                                            |        3509 |       131 |         302 |       1454 |    5396 |
