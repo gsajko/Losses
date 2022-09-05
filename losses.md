@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 5471, of which: destroyed: 3560, damaged: 134, abandoned: 301, captured: 1476
+ ### Russia - 5472, of which: destroyed: 3561, damaged: 134, abandoned: 301, captured: 1476
 
  
 
@@ -56,5 +56,5 @@
 
  Logistics Trains (3, of which destroyed: 3)
 
- Trucks, Vehicles and Jeeps (1459, of which destroyed: 1073, damaged: 28, abandoned: 53, captured: 305)
+ Trucks, Vehicles and Jeeps (1460, of which destroyed: 1074, damaged: 28, abandoned: 53, captured: 305)
 
