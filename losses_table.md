@@ -1,17 +1,17 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         627 |        42 |          51 |        292 |    1012 |
+| Tanks                                            |         631 |        42 |          52 |        296 |    1021 |
 | Armoured Fighting Vehicles                       |         362 |         7 |          29 |        125 |     523 |
-| Infantry Fighting Vehicles                       |         722 |        25 |          72 |        279 |    1098 |
-| Armoured Personnel Carriers                      |          76 |         3 |          10 |         57 |     146 |
-| Mine-Resistant Ambush Protected  (MRAP) Vehicles |          15 |         4 |           2 |          9 |      30 |
-| Infantry Mobility Vehicles                       |          80 |         2 |           1 |         31 |     114 |
+| Infantry Fighting Vehicles                       |         729 |        25 |          72 |        282 |    1108 |
+| Armoured Personnel Carriers                      |          76 |         3 |          10 |         59 |     148 |
+| Mine-Resistant Ambush Protected  (MRAP) Vehicles |          16 |         4 |           2 |          9 |      31 |
+| Infantry Mobility Vehicles                       |          80 |         2 |           1 |         32 |     115 |
 | Command Posts And Communications Stations        |          63 |         0 |           8 |         43 |     114 |
 | Engineering Vehicles And Equipment               |          74 |         3 |          38 |         70 |     185 |
 | Self-Propelled Anti-Tank Missile Systems         |           9 |         0 |           5 |          9 |      23 |
 | Heavy Mortars                                    |           8 |         0 |           0 |          8 |      16 |
 | Artillery Support Vehicles And Equipment         |          28 |         0 |           2 |         23 |      53 |
-| Towed Artillery                                  |          27 |         5 |           5 |         42 |      79 |
+| Towed Artillery                                  |          27 |         5 |           5 |         43 |      80 |
 | Self-Propelled Artillery                         |          95 |         7 |          13 |         51 |     166 |
 | Multiple Rocket Launchers                        |          60 |         1 |           2 |         27 |      90 |
 | Anti-Aircraft Guns                               |           2 |         0 |           0 |          5 |       7 |
@@ -19,10 +19,10 @@
 | Surface-To-Air Missile Systems                   |          40 |         2 |           8 |         21 |      71 |
 | Radars                                           |           7 |         0 |           0 |          7 |      14 |
 | Jammers And Deception Systems                    |           9 |         1 |           0 |          4 |      14 |
-| Aircraft                                         |          50 |         2 |           0 |          0 |      52 |
+| Aircraft                                         |          51 |         2 |           0 |          0 |      53 |
 | Helicopters                                      |          48 |         0 |           0 |          1 |      49 |
 | Unmanned Aerial Vehicles                         |          63 |         0 |           0 |         61 |     124 |
 | Naval Ships                                      |           8 |         3 |           0 |          0 |      11 |
 | Logistics Trains                                 |           3 |         0 |           0 |          0 |       3 |
-| Trucks, Vehicles and Jeeps                       |        1075 |        28 |          53 |        305 |    1461 |
-| total                                            |        3560 |       135 |         302 |       1475 |    5472 |
+| Trucks, Vehicles and Jeeps                       |        1075 |        28 |          53 |        306 |    1462 |
+| total                                            |        3573 |       135 |         303 |       1487 |    5498 |
