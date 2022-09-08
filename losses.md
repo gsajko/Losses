@@ -2,17 +2,17 @@
  
  ## Russia
  
- ### Russia - 5540, of which: destroyed: 3614, damaged: 134, abandoned: 301, captured: 1500
+ ### Russia - 5560, of which: destroyed: 3624, damaged: 135, abandoned: 301, captured: 1509
 
  
 
  
 
- Tanks (1023, of which destroyed: 633, damaged: 42, abandoned: 51, captured: 297)
+ Tanks (1028, of which destroyed: 638, damaged: 42, abandoned: 51, captured: 297)
 
- Armoured Fighting Vehicles (526, of which destroyed: 365, damaged: 7, abandoned: 29, captured: 125)
+ Armoured Fighting Vehicles (527, of which destroyed: 366, damaged: 7, abandoned: 29, captured: 125)
 
- Infantry Fighting Vehicles (1117, of which destroyed: 735, damaged: 25, abandoned: 72, captured: 285)
+ Infantry Fighting Vehicles (1120, of which destroyed: 737, damaged: 25, abandoned: 72, captured: 286)
 
  Armoured Personnel Carriers (150, of which destroyed: 79, damaged: 2, abandoned: 9, captured: 60)
 
@@ -30,13 +30,13 @@
 
  Artillery Support Vehicles And Equipment (53, of which destroyed: 28, abandoned: 2, captured: 23)
 
- Towed Artillery (83, of which destroyed: 29, damaged: 5, abandoned: 5, captured: 44)
+ Towed Artillery (84, of which destroyed: 29, damaged: 5, abandoned: 5, captured: 45)
 
- Self-Propelled Artillery (170, of which destroyed: 99, damaged: 7, abandoned: 13, captured: 51)
+ Self-Propelled Artillery (171, of which destroyed: 99, damaged: 7, abandoned: 13, captured: 52)
 
- Multiple Rocket Launchers (93, of which destroyed: 62, damaged: 1, abandoned: 2, captured: 28)
+ Multiple Rocket Launchers (94, of which destroyed: 62, damaged: 1, abandoned: 2, captured: 29)
 
- Anti-Aircraft Guns (10, of which destroyed: 2, captured: 8)
+ Anti-Aircraft Guns (12, of which destroyed: 2, captured: 10)
 
  Self-Propelled Anti-Aircraft Guns (17, of which destroyed: 9, abandoned: 3, captured: 5)
 
@@ -56,5 +56,5 @@
 
  Logistics Trains (3, of which destroyed: 3)
 
- Trucks, Vehicles and Jeeps (1472, of which destroyed: 1085, damaged: 28, abandoned: 53, captured: 306)
+ Trucks, Vehicles and Jeeps (1476, of which destroyed: 1087, damaged: 28, abandoned: 53, captured: 308)
 
