@@ -12,17 +12,17 @@
 | Heavy Mortars                                    |           8 |         0 |           0 |          8 |      16 |
 | Artillery Support Vehicles And Equipment         |          28 |         0 |           2 |         23 |      53 |
 | Towed Artillery                                  |          29 |         5 |           5 |         47 |      86 |
-| Self-Propelled Artillery                         |          99 |         7 |          13 |         55 |     174 |
+| Self-Propelled Artillery                         |          99 |         7 |          13 |         59 |     178 |
 | Multiple Rocket Launchers                        |          62 |         1 |           2 |         31 |      96 |
 | Anti-Aircraft Guns                               |           2 |         0 |           0 |          9 |      11 |
 | Self-Propelled Anti-Aircraft Guns                |          10 |         0 |           3 |          5 |      18 |
 | Surface-To-Air Missile Systems                   |          40 |         2 |           8 |         22 |      72 |
 | Radars                                           |           7 |         0 |           0 |          8 |      15 |
 | Jammers And Deception Systems                    |           9 |         1 |           0 |          4 |      14 |
-| Aircraft                                         |          51 |         2 |           0 |          0 |      53 |
+| Aircraft                                         |          52 |         2 |           0 |          0 |      54 |
 | Helicopters                                      |          47 |         0 |           0 |          1 |      48 |
 | Unmanned Aerial Vehicles                         |          63 |         0 |           0 |         61 |     124 |
 | Naval Ships                                      |           8 |         3 |           0 |          0 |      11 |
 | Logistics Trains                                 |           3 |         0 |           0 |          0 |       3 |
 | Trucks, Vehicles and Jeeps                       |        1107 |        28 |          53 |        325 |    1513 |
-| total                                            |        3663 |       136 |         302 |       1591 |    5692 |
+| total                                            |        3664 |       136 |         302 |       1595 |    5697 |
