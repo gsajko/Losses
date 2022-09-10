@@ -20,7 +20,7 @@
 
  Infantry Mobility Vehicles (115, of which destroyed: 80, damaged: 2, abandoned: 1, captured: 32)
 
- Command Posts And Communications Stations (116, of which destroyed: 63, abandoned: 8, captured: 45)
+ Command Posts And Communications Stations (117, of which destroyed: 63, abandoned: 8, captured: 46)
 
  Engineering Vehicles And Equipment (187, of which destroyed: 75, damaged: 3, abandoned: 38, captured: 71)
 
@@ -34,7 +34,7 @@
 
  Self-Propelled Artillery (173, of which destroyed: 99, damaged: 7, abandoned: 13, captured: 54)
 
- Multiple Rocket Launchers (95, of which destroyed: 62, damaged: 1, abandoned: 2, captured: 30)
+ Multiple Rocket Launchers (96, of which destroyed: 62, damaged: 1, abandoned: 2, captured: 31)
 
  Anti-Aircraft Guns (9, of which destroyed: 2, captured: 9)
 
@@ -56,5 +56,5 @@
 
  Logistics Trains (3, of which destroyed: 3)
 
- Trucks, Vehicles and Jeeps (1496, of which destroyed: 1096, damaged: 28, abandoned: 53, captured: 319)
+ Trucks, Vehicles and Jeeps (1498, of which destroyed: 1096, damaged: 28, abandoned: 53, captured: 321)
 
