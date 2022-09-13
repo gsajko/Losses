@@ -56,5 +56,5 @@
 
  Logistics Trains (3, of which destroyed: 3)
 
- Trucks, Vehicles and Jeeps (1554, of which destroyed: 1115, damaged: 28, abandoned: 53, captured: 358)
+ Trucks, Vehicles and Jeeps (1553, of which destroyed: 1115, damaged: 28, abandoned: 53, captured: 357)
 
