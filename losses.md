@@ -14,13 +14,13 @@
 
  Infantry Fighting Vehicles (1232, of which destroyed: 765, damaged: 25, abandoned: 73, captured: 369)
 
- Armoured Personnel Carriers (158, of which destroyed: 81, damaged: 2, abandoned: 9, captured: 66)
+ Armoured Personnel Carriers (157, of which destroyed: 80, damaged: 2, abandoned: 9, captured: 66)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (33, of which destroyed: 17, damaged: 4, abandoned: 2, captured: 10)
 
  Infantry Mobility Vehicles (122, of which destroyed: 85, damaged: 2, abandoned: 1, captured: 34)
 
- Command Posts And Communications Stations (133, of which destroyed: 70, abandoned: 8, captured: 55)
+ Command Posts And Communications Stations (134, of which destroyed: 71, abandoned: 8, captured: 55)
 
  Engineering Vehicles And Equipment (200, of which destroyed: 80, damaged: 3, abandoned: 38, captured: 79)
 
