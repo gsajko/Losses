@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         672 |        44 |          51 |        361 |    1128 |
-| Armoured Fighting Vehicles                       |         386 |         9 |          29 |        159 |     583 |
-| Infantry Fighting Vehicles                       |         779 |        25 |          73 |        382 |    1259 |
+| Tanks                                            |         672 |        44 |          51 |        360 |    1127 |
+| Armoured Fighting Vehicles                       |         387 |         9 |          29 |        164 |     589 |
+| Infantry Fighting Vehicles                       |         782 |        25 |          73 |        385 |    1265 |
 | Armoured Personnel Carriers                      |          80 |         2 |           9 |         73 |     164 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          17 |         4 |           2 |         10 |      33 |
 | Infantry Mobility Vehicles                       |          86 |         2 |           1 |         38 |     127 |
@@ -24,5 +24,5 @@
 | Unmanned Aerial Vehicles                         |          64 |         0 |           0 |         63 |     127 |
 | Naval Ships                                      |           8 |         3 |           0 |          0 |      11 |
 | Logistics Trains                                 |           3 |         0 |           0 |          0 |       3 |
-| Trucks, Vehicles and Jeeps                       |        1125 |        29 |          53 |        365 |    1572 |
-| total                                            |        3786 |       140 |         303 |       1859 |    6088 |
+| Trucks, Vehicles and Jeeps                       |        1125 |        29 |          53 |        366 |    1573 |
+| total                                            |        3790 |       140 |         303 |       1867 |    6100 |
