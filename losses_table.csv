@@ -1,11 +1,11 @@
  Russian Losses                                   ,   destroyed ,   damaged ,   abandoned ,   captured ,   total 
  Tanks                                            ,         672 ,        44 ,          51 ,        361 ,    1128 
  Armoured Fighting Vehicles                       ,         386 ,         9 ,          29 ,        159 ,     583 
- Infantry Fighting Vehicles                       ,         782 ,        25 ,          73 ,        384 ,    1264 
+ Infantry Fighting Vehicles                       ,         779 ,        25 ,          73 ,        382 ,    1259 
  Armoured Personnel Carriers                      ,          80 ,         2 ,           9 ,         73 ,     164 
  Mine-Resistant Ambush Protected  (MRAP) Vehicles ,          17 ,         4 ,           2 ,         10 ,      33 
  Infantry Mobility Vehicles                       ,          86 ,         2 ,           1 ,         38 ,     127 
- Command Posts And Communications Stations        ,          72 ,         0 ,           8 ,         62 ,     142 
+ Command Posts And Communications Stations        ,          72 ,         0 ,           8 ,         61 ,     141 
  Engineering Vehicles And Equipment               ,          80 ,         3 ,          39 ,         81 ,     203 
  Self-Propelled Anti-Tank Missile Systems         ,           9 ,         0 ,           5 ,         11 ,      25 
  Heavy Mortars                                    ,           9 ,         0 ,           0 ,          9 ,      18 
@@ -24,4 +24,4 @@
  Naval Ships                                      ,           8 ,         3 ,           0 ,          0 ,      11 
  Logistics Trains                                 ,           3 ,         0 ,           0 ,          0 ,       3 
 " Trucks, Vehicles and Jeeps                       ",        1125 ,        29 ,          53 ,        365 ,    1572 
- total                                            ,        3789 ,       140 ,         303 ,       1862 ,    6094 
+ total                                            ,        3786 ,       140 ,         303 ,       1859 ,    6088 
