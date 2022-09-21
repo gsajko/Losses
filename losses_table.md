@@ -1,18 +1,18 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         679 |        45 |          51 |        382 |    1157 |
-| Armoured Fighting Vehicles                       |         390 |         9 |          29 |        169 |     597 |
-| Infantry Fighting Vehicles                       |         787 |        27 |          73 |        394 |    1281 |
-| Armoured Personnel Carriers                      |          80 |         2 |           9 |         71 |     162 |
-| Mine-Resistant Ambush Protected  (MRAP) Vehicles |          17 |         4 |           2 |         10 |      33 |
-| Infantry Mobility Vehicles                       |          86 |         2 |           1 |         38 |     127 |
-| Command Posts And Communications Stations        |          74 |         0 |           7 |         59 |     140 |
+| Tanks                                            |         680 |        45 |          51 |        386 |    1162 |
+| Armoured Fighting Vehicles                       |         393 |         9 |          29 |        169 |     600 |
+| Infantry Fighting Vehicles                       |         788 |        28 |          73 |        399 |    1288 |
+| Armoured Personnel Carriers                      |          80 |         2 |           9 |         73 |     164 |
+| Mine-Resistant Ambush Protected  (MRAP) Vehicles |          19 |         4 |           2 |         10 |      35 |
+| Infantry Mobility Vehicles                       |          87 |         2 |           1 |         39 |     129 |
+| Command Posts And Communications Stations        |          77 |         0 |           7 |         61 |     145 |
 | Engineering Vehicles And Equipment               |          81 |         3 |          39 |         81 |     204 |
 | Self-Propelled Anti-Tank Missile Systems         |           9 |         0 |           5 |         11 |      25 |
-| Heavy Mortars                                    |           9 |         0 |           0 |         11 |      20 |
+| Heavy Mortars                                    |           9 |         0 |           0 |         12 |      21 |
 | Artillery Support Vehicles And Equipment         |          29 |         0 |           2 |         29 |      60 |
-| Towed Artillery                                  |          30 |         5 |           5 |         51 |      91 |
-| Self-Propelled Artillery                         |         103 |         8 |          13 |         82 |     206 |
+| Towed Artillery                                  |          30 |         5 |           5 |         52 |      92 |
+| Self-Propelled Artillery                         |         105 |         8 |          13 |         84 |     210 |
 | Multiple Rocket Launchers                        |          65 |         1 |           2 |         41 |     109 |
 | Anti-Aircraft Guns                               |           2 |         0 |           0 |          8 |      10 |
 | Self-Propelled Anti-Aircraft Guns                |          10 |         0 |           3 |          5 |      18 |
@@ -24,5 +24,5 @@
 | Unmanned Aerial Vehicles                         |          65 |         0 |           0 |         63 |     128 |
 | Naval Ships                                      |           8 |         3 |           0 |          0 |      11 |
 | Logistics Trains                                 |           3 |         0 |           0 |          0 |       3 |
-| Trucks, Vehicles and Jeeps                       |        1156 |        29 |          53 |        372 |    1610 |
-| total                                            |        3841 |       143 |         302 |       1913 |    6199 |
+| Trucks, Vehicles and Jeeps                       |        1177 |        29 |          53 |        381 |    1640 |
+| total                                            |        3875 |       144 |         302 |       1940 |    6261 |
