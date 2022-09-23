@@ -8,11 +8,11 @@
 
  
 
- Tanks (1183, of which destroyed: 697, damaged: 44, abandoned: 53, captured: 389)
+ Tanks (1185, of which destroyed: 698, damaged: 44, abandoned: 54, captured: 389)
 
- Armoured Fighting Vehicles (605, of which destroyed: 394, damaged: 9, abandoned: 29, captured: 173)
+ Armoured Fighting Vehicles (608, of which destroyed: 394, damaged: 9, abandoned: 29, captured: 176)
 
- Infantry Fighting Vehicles (1304, of which destroyed: 787, damaged: 29, abandoned: 73, captured: 415)
+ Infantry Fighting Vehicles (1307, of which destroyed: 789, damaged: 29, abandoned: 73, captured: 416)
 
  Armoured Personnel Carriers (164, of which destroyed: 80, damaged: 2, abandoned: 9, captured: 73)
 
@@ -22,7 +22,7 @@
 
  Command Posts And Communications Stations (155, of which destroyed: 79, abandoned: 7, captured: 69)
 
- Engineering Vehicles And Equipment (206, of which destroyed: 82, damaged: 3, abandoned: 39, captured: 82)
+ Engineering Vehicles And Equipment (207, of which destroyed: 82, damaged: 3, abandoned: 39, captured: 83)
 
  Self-Propelled Anti-Tank Missile Systems (25, of which destroyed: 9, abandoned: 5, captured: 11)
 
@@ -32,7 +32,7 @@
 
  Towed Artillery (92, of which destroyed: 30, damaged: 5, abandoned: 5, captured: 52)
 
- Self-Propelled Artillery (211, of which destroyed: 104, damaged: 8, abandoned: 13, captured: 86)
+ Self-Propelled Artillery (212, of which destroyed: 104, damaged: 8, abandoned: 13, captured: 87)
 
  Multiple Rocket Launchers (109, of which destroyed: 65, damaged: 1, abandoned: 2, captured: 41)
 
@@ -50,11 +50,11 @@
 
  Helicopters (50, of which destroyed: 49, captured: 1)
 
- Unmanned Aerial Vehicles (128, of which destroyed: 65, captured: 63)
+ Unmanned Aerial Vehicles (131, of which destroyed: 66, captured: 65)
 
  Naval Ships (11, of which destroyed: 8, damaged: 3)
 
  Logistics Trains (3, of which destroyed: 3)
 
- Trucks, Vehicles and Jeeps (1658, of which destroyed: 1184, damaged: 29, abandoned: 53, captured: 392)
+ Trucks, Vehicles and Jeeps (16676, of which destroyed: 1188, damaged: 29, abandoned: 53, captured: 397)
 
