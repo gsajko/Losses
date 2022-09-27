@@ -1,11 +1,11 @@
  Russian Losses                                   ,   destroyed ,   damaged ,   abandoned ,   captured ,   total 
  Tanks                                            ,         692 ,        48 ,          54 ,        386 ,    1180 
  Armoured Fighting Vehicles                       ,         402 ,         9 ,          29 ,        179 ,     619 
- Infantry Fighting Vehicles                       ,         797 ,        29 ,          73 ,        422 ,    1321 
+ Infantry Fighting Vehicles                       ,         798 ,        29 ,          73 ,        421 ,    1321 
  Armoured Personnel Carriers                      ,          80 ,         2 ,           9 ,         72 ,     163 
  Mine-Resistant Ambush Protected  (MRAP) Vehicles ,          19 ,         4 ,           2 ,         10 ,      35 
  Infantry Mobility Vehicles                       ,          87 ,         2 ,           1 ,         39 ,     129 
- Command Posts And Communications Stations        ,          79 ,         0 ,           7 ,         72 ,     158 
+ Command Posts And Communications Stations        ,          76 ,         0 ,           7 ,         70 ,     153 
  Engineering Vehicles And Equipment               ,          83 ,         3 ,          39 ,         84 ,     209 
  Self-Propelled Anti-Tank Missile Systems         ,           9 ,         0 ,           5 ,         11 ,      25 
  Heavy Mortars                                    ,           9 ,         0 ,           0 ,         12 ,      21 
@@ -24,4 +24,4 @@
  Naval Ships                                      ,           8 ,         3 ,           0 ,          0 ,      11 
  Logistics Trains                                 ,           3 ,         0 ,           0 ,          0 ,       3 
 " Trucks, Vehicles and Jeeps                       ",        1193 ,        31 ,          53 ,        399 ,    1676 
- total                                            ,        3930 ,       150 ,         305 ,       2014 ,    6399 
+ total                                            ,        3928 ,       150 ,         305 ,       2011 ,    6394 
