@@ -1,11 +1,11 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         698 |        48 |          54 |        395 |    1195 |
+| Tanks                                            |         699 |        48 |          54 |        395 |    1196 |
 | Armoured Fighting Vehicles                       |         365 |         8 |          26 |        184 |     583 |
 | Infantry Fighting Vehicles                       |         811 |        29 |          72 |        423 |    1335 |
 | Armoured Personnel Carriers                      |         116 |         5 |          12 |         72 |     205 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          19 |         4 |           2 |         11 |      36 |
-| Infantry Mobility Vehicles                       |          88 |         2 |           1 |         40 |     131 |
+| Infantry Mobility Vehicles                       |          88 |         2 |           1 |         41 |     132 |
 | Command Posts And Communications Stations        |          78 |         0 |           7 |         71 |     156 |
 | Engineering Vehicles And Equipment               |          85 |         3 |          39 |         86 |     213 |
 | Self-Propelled Anti-Tank Missile Systems         |           9 |         0 |           5 |         11 |      25 |
@@ -25,4 +25,4 @@
 | Naval Ships                                      |           8 |         3 |           0 |          0 |      11 |
 | Logistics Trains                                 |           3 |         0 |           0 |          0 |       3 |
 | Trucks, Vehicles and Jeeps                       |        1221 |        31 |          54 |        399 |    1705 |
-| total                                            |        3983 |       153 |         305 |       2041 |    6482 |
+| total                                            |        3984 |       153 |         305 |       2042 |    6484 |
