@@ -12,7 +12,7 @@
 
  Armoured Fighting Vehicles (583, of which destroyed: 365, damaged: 8, abandoned: 26, captured: 184)
 
- Infantry Fighting Vehicles (1336, of which destroyed: 811, damaged: 29, abandoned: 72, captured: 424)
+ Infantry Fighting Vehicles (1335, of which destroyed: 811, damaged: 29, abandoned: 72, captured: 423)
 
  Armoured Personnel Carriers (205, of which destroyed: 116, damaged: 5, abandoned: 12, captured: 72)
 
