@@ -8,11 +8,11 @@
 
  
 
- Tanks (1196, of which destroyed: 699, damaged: 48, abandoned: 54, captured: 395)
+ Tanks (11201, of which destroyed: 703, damaged: 49, abandoned: 54, captured: 395)
 
- Armoured Fighting Vehicles (583, of which destroyed: 365, damaged: 8, abandoned: 26, captured: 184)
+ Armoured Fighting Vehicles (585, of which destroyed: 366, damaged: 8, abandoned: 26, captured: 185)
 
- Infantry Fighting Vehicles (1335, of which destroyed: 811, damaged: 29, abandoned: 72, captured: 423)
+ Infantry Fighting Vehicles (1339, of which destroyed: 813, damaged: 29, abandoned: 72, captured: 425)
 
  Armoured Personnel Carriers (205, of which destroyed: 116, damaged: 5, abandoned: 12, captured: 72)
 
@@ -22,7 +22,7 @@
 
  Command Posts And Communications Stations (156, of which destroyed: 78, abandoned: 7, captured: 71)
 
- Engineering Vehicles And Equipment (213, of which destroyed: 85, damaged: 3, abandoned: 39, captured: 86)
+ Engineering Vehicles And Equipment (214, of which destroyed: 86, damaged: 3, abandoned: 39, captured: 86)
 
  Self-Propelled Anti-Tank Missile Systems (25, of which destroyed: 9, abandoned: 5, captured: 11)
 
@@ -32,7 +32,7 @@
 
  Towed Artillery (99, of which destroyed: 34, damaged: 5, abandoned: 5, captured: 55)
 
- Self-Propelled Artillery (213, of which destroyed: 104, damaged: 6, abandoned: 13, captured: 90)
+ Self-Propelled Artillery (215, of which destroyed: 105, damaged: 6, abandoned: 13, captured: 91)
 
  Multiple Rocket Launchers (114, of which destroyed: 66, damaged: 4, abandoned: 2, captured: 42)
 
@@ -50,11 +50,11 @@
 
  Helicopters (50, of which destroyed: 49, captured: 1)
 
- Unmanned Aerial Vehicles (132, of which destroyed: 65, captured: 67)
+ Unmanned Aerial Vehicles (133, of which destroyed: 66, captured: 67)
 
  Naval Ships (11, of which destroyed: 8, damaged: 3)
 
  Logistics Trains (3, of which destroyed: 3)
 
- Trucks, Vehicles and Jeeps (1703, of which destroyed: 1221, damaged: 31, abandoned: 54, captured: 399)
+ Trucks, Vehicles and Jeeps (1709, of which destroyed: 1222, damaged: 31, abandoned: 54, captured: 402)
 
