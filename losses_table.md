@@ -2,7 +2,7 @@
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |         725 |        50 |          53 |        420 |    1248 |
 | Armoured Fighting Vehicles                       |         372 |         8 |          26 |        192 |     598 |
-| Infantry Fighting Vehicles                       |         832 |        31 |          72 |        448 |    1383 |
+| Infantry Fighting Vehicles                       |         832 |        31 |          72 |        445 |    1380 |
 | Armoured Personnel Carriers                      |         115 |         5 |          12 |         76 |     208 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          20 |         4 |           2 |         11 |      37 |
 | Infantry Mobility Vehicles                       |          94 |         2 |           1 |         44 |     141 |
@@ -19,10 +19,10 @@
 | Surface-To-Air Missile Systems                   |          41 |         2 |           8 |         22 |      73 |
 | Radars                                           |           7 |         0 |           0 |          9 |      16 |
 | Jammers And Deception Systems                    |          10 |         1 |           0 |          5 |      16 |
-| Aircraft                                         |          57 |         2 |           0 |          0 |      59 |
+| Aircraft                                         |          58 |         2 |           0 |          0 |      60 |
 | Helicopters                                      |          51 |         0 |           0 |          1 |      52 |
 | Unmanned Aerial Vehicles                         |          66 |         0 |           0 |         69 |     135 |
 | Naval Ships                                      |           8 |         3 |           0 |          0 |      11 |
 | Logistics Trains                                 |           3 |         0 |           0 |          0 |       3 |
 | Trucks, Vehicles and Jeeps                       |        1241 |        31 |          54 |        416 |    1742 |
-| total                                            |        4079 |       158 |         304 |       2143 |    6684 |
+| total                                            |        4080 |       158 |         304 |       2140 |    6682 |
