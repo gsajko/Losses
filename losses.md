@@ -28,13 +28,13 @@
 
  Heavy Mortars (23, of which destroyed: 10, captured: 13)
 
- Artillery Support Vehicles And Equipment (65, of which destroyed: 31, abandoned: 2, captured: 32)
+ Artillery Support Vehicles And Equipment (64, of which destroyed: 30, abandoned: 2, captured: 32)
 
  Towed Artillery (105, of which destroyed: 36, damaged: 6, abandoned: 5, captured: 58)
 
  Self-Propelled Artillery (219, of which destroyed: 108, damaged: 6, abandoned: 13, captured: 92)
 
- Multiple Rocket Launchers (124, of which destroyed: 72, damaged: 4, abandoned: 2, captured: 46)
+ Multiple Rocket Launchers (125, of which destroyed: 73, damaged: 4, abandoned: 2, captured: 46)
 
  Anti-Aircraft Guns (13, of which destroyed: 2, captured: 11)
 
