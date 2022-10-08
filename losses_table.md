@@ -1,6 +1,6 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         740 |        50 |          53 |        456 |    1299 |
+| Tanks                                            |         740 |        50 |          53 |        457 |    1300 |
 | Armoured Fighting Vehicles                       |         382 |         8 |          26 |        204 |     620 |
 | Infantry Fighting Vehicles                       |         851 |        30 |          75 |        473 |    1429 |
 | Armoured Personnel Carriers                      |         118 |         5 |          12 |         83 |     218 |
@@ -25,4 +25,4 @@
 | Naval Ships                                      |           8 |         3 |           0 |          0 |      11 |
 | Logistics Trains                                 |           4 |         0 |           0 |          0 |       4 |
 | Trucks, Vehicles and Jeeps                       |        1259 |        32 |          54 |        428 |    1773 |
-| total                                            |        4168 |       158 |         307 |       2248 |    6881 |
+| total                                            |        4168 |       158 |         307 |       2249 |    6882 |
