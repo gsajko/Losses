@@ -8,7 +8,7 @@
 
  
 
- Tanks (1311, of which destroyed: 746, damaged: 50, abandoned: 53, captured: 462)
+ Tanks (1312, of which destroyed: 747, damaged: 50, abandoned: 53, captured: 462)
 
  Armoured Fighting Vehicles (630, of which destroyed: 385, damaged: 8, abandoned: 25, captured: 212)
 
@@ -56,5 +56,5 @@
 
  Logistics Trains (4, of which destroyed: 4)
 
- Trucks, Vehicles and Jeeps (1787, of which destroyed: 1262, damaged: 32, abandoned: 54, captured: 438)
+ Trucks, Vehicles and Jeeps (1788, of which destroyed: 1263, damaged: 32, abandoned: 54, captured: 438)
 
