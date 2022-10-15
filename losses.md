@@ -2,17 +2,17 @@
  
  ## Russia
  
- ### Russia - 7016, of which: destroyed: 4240, damaged: 161, abandoned: 306, captured: 2309
+ ### Russia - 7085, of which: destroyed: 4282, damaged: 162, abandoned: 306, captured: 2335
 
  
 
  
 
- Tanks (1343, of which destroyed: 766, damaged: 51, abandoned: 53, captured: 474)
+ Tanks (1337, of which destroyed: 762, damaged: 51, abandoned: 53, captured: 471)
 
  Armoured Fighting Vehicles (643, of which destroyed: 390, damaged: 9, abandoned: 25, captured: 219)
 
- Infantry Fighting Vehicles (1478, of which destroyed: 873, damaged: 32, abandoned: 76, captured: 487)
+ Infantry Fighting Vehicles (1476, of which destroyed: 873, damaged: 32, abandoned: 76, captured: 485)
 
  Armoured Personnel Carriers (229, of which destroyed: 125, damaged: 5, abandoned: 12, captured: 87)
 
@@ -20,7 +20,7 @@
 
  Infantry Mobility Vehicles (150, of which destroyed: 97, damaged: 2, abandoned: 1, captured: 50)
 
- Command Posts And Communications Stations (166, of which destroyed: 83, abandoned: 7, captured: 76)
+ Command Posts And Communications Stations (168, of which destroyed: 83, abandoned: 7, captured: 78)
 
  Engineering Vehicles And Equipment (223, of which destroyed: 88, damaged: 2, abandoned: 39, captured: 94)
 
@@ -30,11 +30,11 @@
 
  Artillery Support Vehicles And Equipment (65, of which destroyed: 30, abandoned: 2, captured: 33)
 
- Towed Artillery (111, of which destroyed: 39, damaged: 7, abandoned: 5, captured: 60)
+ Towed Artillery (113, of which destroyed: 40, damaged: 7, abandoned: 5, captured: 61)
 
- Self-Propelled Artillery (232, of which destroyed: 118, damaged: 7, abandoned: 13, captured: 94)
+ Self-Propelled Artillery (235, of which destroyed: 119, damaged: 7, abandoned: 13, captured: 96)
 
- Multiple Rocket Launchers (135, of which destroyed: 84, damaged: 1, abandoned: 2, captured: 48)
+ Multiple Rocket Launchers (137, of which destroyed: 85, damaged: 1, abandoned: 2, captured: 49)
 
  Anti-Aircraft Guns (15, of which destroyed: 3, captured: 12)
 
@@ -56,5 +56,5 @@
 
  Logistics Trains (4, of which destroyed: 4)
 
- Trucks, Vehicles and Jeeps (1803, of which destroyed: 1272, damaged: 32, abandoned: 54, captured: 444)
+ Trucks, Vehicles and Jeeps (1811, of which destroyed: 1278, damaged: 32, abandoned: 54, captured: 446)
 
