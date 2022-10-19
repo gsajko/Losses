@@ -3,14 +3,14 @@
 | Tanks                                            |         801 |        53 |          55 |        483 |    1392 |
 | Armoured Fighting Vehicles                       |         419 |         9 |          25 |        224 |     677 |
 | Infantry Fighting Vehicles                       |         972 |        33 |          76 |        497 |    1578 |
-| Armoured Personnel Carriers                      |         135 |         5 |          12 |         90 |     242 |
+| Armoured Personnel Carriers                      |         135 |         5 |          12 |         91 |     243 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          24 |         4 |           1 |         10 |      39 |
-| Infantry Mobility Vehicles                       |         103 |         2 |           1 |         51 |     157 |
+| Infantry Mobility Vehicles                       |         103 |         2 |           1 |         52 |     158 |
 | Command Posts And Communications Stations        |          88 |         0 |           7 |         82 |     177 |
 | Engineering Vehicles And Equipment               |          94 |         2 |          39 |         97 |     232 |
 | Self-Propelled Anti-Tank Missile Systems         |           9 |         0 |           5 |         13 |      27 |
 | Heavy Mortars                                    |          10 |         0 |           0 |         13 |      23 |
-| Artillery Support Vehicles And Equipment         |          33 |         0 |           2 |         35 |      70 |
+| Artillery Support Vehicles And Equipment         |          33 |         0 |           2 |         36 |      71 |
 | Towed Artillery                                  |          43 |         7 |           5 |         64 |     119 |
 | Self-Propelled Artillery                         |         130 |         6 |          13 |         98 |     247 |
 | Multiple Rocket Launchers                        |          91 |         1 |           2 |         50 |     144 |
@@ -25,4 +25,4 @@
 | Naval Ships                                      |           8 |         3 |           0 |          0 |      11 |
 | Logistics Trains                                 |           4 |         0 |           0 |          0 |       4 |
 | Trucks, Vehicles and Jeeps                       |        1332 |        32 |          54 |        468 |    1886 |
-| total                                            |        4552 |       162 |         308 |       2403 |    7425 |
+| total                                            |        4552 |       162 |         308 |       2406 |    7428 |
