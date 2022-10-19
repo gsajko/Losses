@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 7420, of which: destroyed: 4547, damaged: 164, abandoned: 306, captured: 2405
+ ### Russia - 7420, of which: destroyed: 4546, damaged: 164, abandoned: 306, captured: 2406
 
  
 
@@ -20,7 +20,7 @@
 
  Infantry Mobility Vehicles (158, of which destroyed: 103, damaged: 2, abandoned: 1, captured: 52)
 
- Command Posts And Communications Stations (177, of which destroyed: 88, abandoned: 7, captured: 82)
+ Command Posts And Communications Stations (178, of which destroyed: 88, abandoned: 7, captured: 83)
 
  Engineering Vehicles And Equipment (232, of which destroyed: 94, damaged: 2, abandoned: 39, captured: 97)
 
@@ -34,7 +34,7 @@
 
  Self-Propelled Artillery (247, of which destroyed: 130, damaged: 6, abandoned: 13, captured: 98)
 
- Multiple Rocket Launchers (144, of which destroyed: 91, damaged: 1, abandoned: 2, captured: 50)
+ Multiple Rocket Launchers (143, of which destroyed: 90, damaged: 1, abandoned: 2, captured: 50)
 
  Anti-Aircraft Guns (15, of which destroyed: 3, captured: 12)
 
