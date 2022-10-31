@@ -2,25 +2,25 @@
  
  ## Russia
  
- ### Russia - 7552, of which: destroyed: 4625, damaged: 172, abandoned: 297, captured: 2458
+ ### Russia - 7593, of which: destroyed: 4654, damaged: 173, abandoned: 298, captured: 2468
 
  
 
  
 
- Tanks (1422, of which destroyed: 819, damaged: 58, abandoned: 54, captured: 491)
+ Tanks (1427, of which destroyed: 821, damaged: 58, abandoned: 55, captured: 493)
 
- Armoured Fighting Vehicles (685, of which destroyed: 423, damaged: 9, abandoned: 25, captured: 227)
+ Armoured Fighting Vehicles (686, of which destroyed: 424, damaged: 9, abandoned: 25, captured: 227)
 
- Infantry Fighting Vehicles (1624, of which destroyed: 1003, damaged: 33, abandoned: 77, captured: 511)
+ Infantry Fighting Vehicles (1631, of which destroyed: 1008, damaged: 33, abandoned: 77, captured: 513)
 
  Armoured Personnel Carriers (250, of which destroyed: 143, damaged: 5, abandoned: 12, captured: 90)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (41, of which destroyed: 26, damaged: 4, abandoned: 1, captured: 10)
 
- Infantry Mobility Vehicles (163, of which destroyed: 107, damaged: 2, abandoned: 1, captured: 53)
+ Infantry Mobility Vehicles (165, of which destroyed: 108, damaged: 2, abandoned: 1, captured: 54)
 
- Command Posts And Communications Stations (181, of which destroyed: 92, abandoned: 6, captured: 83)
+ Command Posts And Communications Stations (183, of which destroyed: 92, abandoned: 6, captured: 85)
 
  Engineering Vehicles And Equipment (235, of which destroyed: 98, damaged: 2, abandoned: 38, captured: 97)
 
@@ -28,11 +28,11 @@
 
  Heavy Mortars (25, of which destroyed: 11, captured: 14)
 
- Artillery Support Vehicles And Equipment (74, of which destroyed: 33, abandoned: 2, captured: 39)
+ Artillery Support Vehicles And Equipment (75, of which destroyed: 33, abandoned: 2, captured: 40)
 
- Towed Artillery (123, of which destroyed: 45, damaged: 7, abandoned: 5, captured: 66)
+ Towed Artillery (124, of which destroyed: 45, damaged: 7, abandoned: 5, captured: 67)
 
- Self-Propelled Artillery (257, of which destroyed: 139, damaged: 6, abandoned: 12, captured: 100)
+ Self-Propelled Artillery (258, of which destroyed: 140, damaged: 6, abandoned: 12, captured: 100)
 
  Multiple Rocket Launchers (148, of which destroyed: 95, damaged: 1, abandoned: 2, captured: 50)
 
@@ -56,5 +56,5 @@
 
  Logistics Trains (6, of which destroyed: 6)
 
- Trucks, Vehicles and Jeeps (1895, of which destroyed: 1326, damaged: 33, abandoned: 54, captured: 482)
+ Trucks, Vehicles and Jeeps (1903, of which destroyed: 1330, damaged: 33, abandoned: 54, captured: 486)
 
