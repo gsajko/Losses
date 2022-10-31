@@ -1,6 +1,6 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         821 |        58 |          55 |        493 |    1427 |
+| Tanks                                            |         823 |        58 |          55 |        493 |    1429 |
 | Armoured Fighting Vehicles                       |         424 |         9 |          25 |        227 |     685 |
 | Infantry Fighting Vehicles                       |        1010 |        33 |          77 |        513 |    1633 |
 | Armoured Personnel Carriers                      |         143 |         5 |          12 |         90 |     250 |
@@ -20,9 +20,9 @@
 | Radars                                           |           7 |         0 |           0 |          9 |      16 |
 | Jammers And Deception Systems                    |          10 |         2 |           0 |          5 |      17 |
 | Aircraft                                         |          61 |         2 |           0 |          0 |      63 |
-| Helicopters                                      |          54 |         0 |           0 |          1 |      55 |
+| Helicopters                                      |          54 |         2 |           0 |          1 |      57 |
 | Unmanned Aerial Vehicles                         |          68 |         0 |           0 |         73 |     141 |
 | Naval Ships                                      |           8 |         5 |           0 |          0 |      13 |
 | Logistics Trains                                 |           6 |         0 |           0 |          0 |       6 |
 | Trucks, Vehicles and Jeeps                       |        1330 |        33 |          54 |        486 |    1903 |
-| total                                            |        4658 |       171 |         302 |       2470 |    7601 |
+| total                                            |        4660 |       173 |         302 |       2470 |    7605 |
