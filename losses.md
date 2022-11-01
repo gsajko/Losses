@@ -48,7 +48,7 @@
 
  Aircraft (63, of which destroyed: 61, damaged: 2)
 
- Helicopters (57, of which destroyed: 54, damaged: 2, captured: 1)
+ Helicopters (57, of which destroyed: 56, captured: 1)
 
  Unmanned Aerial Vehicles (141, of which destroyed: 68, captured: 73)
 
