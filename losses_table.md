@@ -2,7 +2,7 @@
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |         812 |        61 |          53 |        491 |    1417 |
 | Armoured Fighting Vehicles                       |         421 |         9 |          24 |        228 |     682 |
-| Infantry Fighting Vehicles                       |        1000 |        33 |          76 |        509 |    1618 |
+| Infantry Fighting Vehicles                       |        1004 |        33 |          76 |        509 |    1622 |
 | Armoured Personnel Carriers                      |         144 |         5 |          12 |         90 |     251 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          26 |         4 |           1 |         10 |      41 |
 | Infantry Mobility Vehicles                       |         105 |         2 |           1 |         53 |     161 |
@@ -16,13 +16,13 @@
 | Multiple Rocket Launchers                        |          95 |         1 |           2 |         48 |     146 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         12 |      15 |
 | Self-Propelled Anti-Aircraft Guns                |          10 |         0 |           3 |          7 |      20 |
-| Surface-To-Air Missile Systems                   |          45 |         2 |           3 |         23 |      73 |
+| Surface-To-Air Missile Systems                   |          46 |         2 |           3 |         23 |      74 |
 | Radars                                           |           7 |         0 |           0 |          9 |      16 |
 | Jammers And Deception Systems                    |          10 |         2 |           0 |          5 |      17 |
 | Aircraft                                         |          61 |         2 |           0 |          0 |      63 |
 | Helicopters                                      |          56 |         0 |           0 |          1 |      57 |
-| Unmanned Aerial Vehicles                         |          68 |         0 |           0 |         73 |     141 |
+| Unmanned Aerial Vehicles                         |          69 |         0 |           0 |         73 |     142 |
 | Naval Ships                                      |           8 |         5 |           0 |          0 |      13 |
 | Logistics Trains                                 |           6 |         0 |           0 |          0 |       6 |
-| Trucks, Vehicles and Jeeps                       |        1330 |        33 |          54 |        476 |    1893 |
-| total                                            |        4635 |       173 |         296 |       2454 |    7558 |
+| Trucks, Vehicles and Jeeps                       |        1329 |        33 |          54 |        476 |    1892 |
+| total                                            |        4640 |       173 |         296 |       2454 |    7563 |
