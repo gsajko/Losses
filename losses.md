@@ -8,19 +8,19 @@
 
  
 
- Tanks (1460, of which destroyed: 841, damaged: 62, abandoned: 54, captured: 503)
+ Tanks (1465, of which destroyed: 845, damaged: 62, abandoned: 54, captured: 504)
 
- Armoured Fighting Vehicles (690, of which destroyed: 425, damaged: 10, abandoned: 24, captured: 227)
+ Armoured Fighting Vehicles (695, of which destroyed: 427, damaged: 11, abandoned: 24, captured: 229)
 
- Infantry Fighting Vehicles (1669, of which destroyed: 1029, damaged: 37, abandoned: 79, captured: 524)
+ Infantry Fighting Vehicles (1671, of which destroyed: 1031, damaged: 37, abandoned: 79, captured: 524)
 
- Armoured Personnel Carriers (260, of which destroyed: 151, damaged: 5, abandoned: 12, captured: 92)
+ Armoured Personnel Carriers (259, of which destroyed: 150, damaged: 5, abandoned: 12, captured: 92)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (42, of which destroyed: 27, damaged: 4, abandoned: 1, captured: 10)
 
  Infantry Mobility Vehicles (163, of which destroyed: 107, damaged: 2, abandoned: 1, captured: 53)
 
- Command Posts And Communications Stations (188, of which destroyed: 97, abandoned: 5, captured: 86)
+ Command Posts And Communications Stations (189, of which destroyed: 97, abandoned: 5, captured: 87)
 
  Engineering Vehicles And Equipment (242, of which destroyed: 100, damaged: 3, abandoned: 38, captured: 101)
 
@@ -32,7 +32,7 @@
 
  Towed Artillery (123, of which destroyed: 45, damaged: 6, abandoned: 5, captured: 67)
 
- Self-Propelled Artillery (261, of which destroyed: 144, damaged: 6, abandoned: 12, captured: 99)
+ Self-Propelled Artillery (264, of which destroyed: 146, damaged: 6, abandoned: 12, captured: 100)
 
  Multiple Rocket Launchers (149, of which destroyed: 96, damaged: 2, abandoned: 2, captured: 49)
 
@@ -56,5 +56,5 @@
 
  Logistics Trains (6, of which destroyed: 6)
 
- Trucks, Vehicles and Jeeps (1920, of which destroyed: 1353, damaged: 34, abandoned: 54, captured: 479)
+ Trucks, Vehicles and Jeeps (1921, of which destroyed: 1354, damaged: 34, abandoned: 54, captured: 479)
 
