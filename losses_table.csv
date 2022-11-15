@@ -19,9 +19,10 @@
  Radars                                           ,          12 ,         0 ,           0 ,          9 ,      21 
  Jammers And Deception Systems                    ,          12 ,         2 ,           0 ,          6 ,      20 
  Aircraft                                         ,          61 ,         2 ,           0 ,          0 ,      63 
- Helicopters                                      ,          62 ,         0 ,           0 ,          1 ,      63 
- Unmanned Aerial Vehicles                         ,          71 ,         0 ,           0 ,         77 ,     148 
+ Helicopters                                      ,          60 ,         6 ,           0 ,          1 ,      67 
+ Unmanned Combat Aerial Vehicles                  ,           4 ,         0 ,           0 ,          0 ,       4 
+ Reconnaissance Unmanned Aerial Vehicles          ,          66 ,         0 ,           0 ,         79 ,     145 
  Naval Ships                                      ,           8 ,         4 ,           0 ,          0 ,      12 
  Logistics Trains                                 ,           6 ,         0 ,           0 ,          0 ,       6 
 " Trucks, Vehicles and Jeeps                       ",        1383 ,        34 ,          55 ,        494 ,    1966 
- total                                            ,        4880 ,       183 ,         302 ,       2561 ,    7926 
+ total                                            ,        4877 ,       189 ,         302 ,       2563 ,    7931 
