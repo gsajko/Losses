@@ -15,7 +15,7 @@
  Multiple Rocket Launchers                        ,          97 ,         2 ,           2 ,         50 ,     151 
  Anti-Aircraft Guns                               ,           3 ,         0 ,           0 ,         12 ,      15 
  Self-Propelled Anti-Aircraft Guns                ,          11 ,         0 ,           3 ,          8 ,      22 
- Surface-To-Air Missile Systems                   ,          48 ,         2 ,           3 ,         24 ,      77 
+ Surface-To-Air Missile Systems                   ,          47 ,         2 ,           3 ,         25 ,      77 
  Radars                                           ,          12 ,         0 ,           0 ,          9 ,      21 
  Jammers And Deception Systems                    ,          12 ,         2 ,           0 ,          6 ,      20 
  Aircraft                                         ,          61 ,         2 ,           0 ,          0 ,      63 
@@ -25,4 +25,4 @@
  Naval Ships                                      ,           8 ,         4 ,           0 ,          0 ,      12 
  Logistics Trains                                 ,           6 ,         0 ,           0 ,          0 ,       6 
 " Trucks, Vehicles and Jeeps                       ",        1383 ,        34 ,          55 ,        494 ,    1966 
- total                                            ,        4877 ,       189 ,         302 ,       2563 ,    7931 
+ total                                            ,        4876 ,       189 ,         302 ,       2564 ,    7931 
