@@ -1,10 +1,10 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         856 |        62 |          55 |        518 |    1491 |
-| Armoured Fighting Vehicles                       |         434 |        11 |          24 |        236 |     705 |
-| Infantry Fighting Vehicles                       |        1075 |        38 |          80 |        539 |    1732 |
+| Tanks                                            |         854 |        62 |          55 |        517 |    1488 |
+| Armoured Fighting Vehicles                       |         433 |        11 |          24 |        236 |     704 |
+| Infantry Fighting Vehicles                       |        1073 |        38 |          80 |        538 |    1729 |
 | Armoured Personnel Carriers                      |         157 |         5 |          12 |         92 |     266 |
-| Mine-Resistant Ambush Protected  (MRAP) Vehicles |          29 |         4 |           1 |         10 |      44 |
+| Mine-Resistant Ambush Protected  (MRAP) Vehicles |          28 |         4 |           1 |         10 |      43 |
 | Infantry Mobility Vehicles                       |         108 |         2 |           1 |         54 |     165 |
 | Command Posts And Communications Stations        |          99 |         0 |           5 |         87 |     191 |
 | Engineering Vehicles And Equipment               |         102 |         3 |          38 |        102 |     245 |
@@ -26,4 +26,4 @@
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
 | Logistics Trains                                 |           6 |         0 |           0 |          0 |       6 |
 | Trucks, Vehicles and Jeeps                       |        1393 |        34 |          55 |        497 |    1979 |
-| total                                            |        4903 |       189 |         303 |       2580 |    7975 |
+| total                                            |        4897 |       189 |         303 |       2578 |    7967 |
