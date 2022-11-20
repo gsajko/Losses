@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 8023, of which: destroyed: 4914, damaged: 198, abandoned: 300, captured: 2611
+ ### Russia - 8023, of which: destroyed: 4914, damaged: 198, abandoned: 299, captured: 2612
 
  
 
@@ -24,7 +24,7 @@
 
  Engineering Vehicles And Equipment (245, of which destroyed: 102, damaged: 3, abandoned: 38, captured: 102)
 
- Self-Propelled Anti-Tank Missile Systems (29, of which destroyed: 9, abandoned: 5, captured: 15)
+ Self-Propelled Anti-Tank Missile Systems (29, of which destroyed: 9, abandoned: 4, captured: 15)
 
  Heavy Mortars (25, of which destroyed: 11, captured: 14)
 

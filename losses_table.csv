@@ -7,7 +7,7 @@
  Infantry Mobility Vehicles                       ,         108 ,         2 ,           1 ,         55 ,     166 
  Command Posts And Communications Stations        ,         101 ,         0 ,           5 ,         87 ,     193 
  Engineering Vehicles And Equipment               ,         102 ,         3 ,          38 ,        102 ,     245 
- Self-Propelled Anti-Tank Missile Systems         ,           9 ,         0 ,           5 ,         15 ,      29 
+ Self-Propelled Anti-Tank Missile Systems         ,           9 ,         0 ,           4 ,         15 ,      28 
  Heavy Mortars                                    ,          11 ,         0 ,           0 ,         14 ,      25 
  Artillery Support Vehicles And Equipment         ,          34 ,         0 ,           2 ,         46 ,      82 
  Towed Artillery                                  ,          47 ,         6 ,           5 ,         81 ,     139 
@@ -25,4 +25,4 @@
  Naval Ships                                      ,           8 ,         4 ,           0 ,          0 ,      12 
  Logistics Trains                                 ,           6 ,         0 ,           0 ,          0 ,       6 
 " Trucks, Vehicles and Jeeps                       ",        1397 ,        34 ,          55 ,        498 ,    1984 
- total                                            ,        4921 ,       196 ,         303 ,       2615 ,    8035 
+ total                                            ,        4921 ,       196 ,         302 ,       2615 ,    8034 
