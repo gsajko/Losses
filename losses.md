@@ -2,17 +2,17 @@
  
  ## Russia
  
- ### Russia - 8176, of which: destroyed: 5033, damaged: 199, abandoned: 301, captured: 2643
+ ### Russia - 8200, of which: destroyed: 5047, damaged: 199, abandoned: 301, captured: 2653
 
  
 
  
 
- Tanks (1526, of which destroyed: 879, damaged: 64, abandoned: 56, captured: 527)
+ Tanks (1530, of which destroyed: 880, damaged: 64, abandoned: 56, captured: 530)
 
- Armoured Fighting Vehicles (728, of which destroyed: 446, damaged: 11, abandoned: 24, captured: 247)
+ Armoured Fighting Vehicles (729, of which destroyed: 447, damaged: 11, abandoned: 24, captured: 247)
 
- Infantry Fighting Vehicles (1787, of which destroyed: 1106, damaged: 40, abandoned: 81, captured: 562)
+ Infantry Fighting Vehicles (1791, of which destroyed: 1109, damaged: 40, abandoned: 81, captured: 563)
 
  Armoured Personnel Carriers (274, of which destroyed: 164, damaged: 5, abandoned: 12, captured: 93)
 
@@ -20,7 +20,7 @@
 
  Infantry Mobility Vehicles (170, of which destroyed: 112, damaged: 2, abandoned: 1, captured: 55)
 
- Command Posts And Communications Stations (198, of which destroyed: 104, abandoned: 5, captured: 89)
+ Command Posts And Communications Stations (199, of which destroyed: 104, abandoned: 5, captured: 90)
 
  Engineering Vehicles And Equipment (247, of which destroyed: 104, damaged: 3, abandoned: 38, captured: 102)
 
@@ -32,7 +32,7 @@
 
  Towed Artillery (143, of which destroyed: 48, damaged: 6, abandoned: 5, captured: 84)
 
- Self-Propelled Artillery (292, of which destroyed: 169, damaged: 6, abandoned: 12, captured: 105)
+ Self-Propelled Artillery (293, of which destroyed: 169, damaged: 6, abandoned: 12, captured: 106)
 
  Multiple Rocket Launchers (159, of which destroyed: 104, damaged: 2, abandoned: 2, captured: 51)
 
@@ -56,5 +56,5 @@
 
  Naval Ships (12, of which destroyed: 8, damaged: 4)
 
- Trucks, Vehicles and Jeeps (2021, of which destroyed: 1427, damaged: 34, abandoned: 55, captured: 505)
+ Trucks, Vehicles and Jeeps (2029, of which destroyed: 1434, damaged: 34, abandoned: 55, captured: 506)
 
