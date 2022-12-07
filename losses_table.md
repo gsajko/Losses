@@ -12,7 +12,7 @@
 | Heavy Mortars                                    |          11 |         0 |           0 |         14 |      25 |
 | Artillery Support Vehicles And Equipment         |          37 |         0 |           2 |         47 |      86 |
 | Towed Artillery                                  |          48 |         6 |           5 |         85 |     144 |
-| Self-Propelled Artillery                         |         171 |         6 |          12 |        106 |     295 |
+| Self-Propelled Artillery                         |         173 |         6 |          12 |        106 |     297 |
 | Multiple Rocket Launchers                        |         104 |         2 |           2 |         51 |     159 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         13 |      16 |
 | Self-Propelled Anti-Aircraft Guns                |          11 |         0 |           3 |          8 |      22 |
@@ -22,7 +22,7 @@
 | Aircraft                                         |          63 |         3 |           0 |          0 |      66 |
 | Helicopters                                      |          61 |        10 |           0 |          1 |      72 |
 | Unmanned Combat Aerial Vehicles                  |           4 |         0 |           0 |          0 |       4 |
-| Reconnaissance Unmanned Aerial Vehicles          |          67 |         0 |           0 |         82 |     149 |
+| Reconnaissance Unmanned Aerial Vehicles          |          68 |         0 |           0 |         81 |     149 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
-| Trucks, Vehicles and Jeeps                       |        1450 |        34 |          55 |        508 |    2047 |
-| total                                            |        5113 |       199 |         304 |       2677 |    8293 |
+| Trucks, Vehicles and Jeeps                       |        1451 |        34 |          55 |        511 |    2051 |
+| total                                            |        5117 |       199 |         304 |       2679 |    8299 |
