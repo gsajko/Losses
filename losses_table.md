@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |         913 |        65 |          57 |        534 |    1569 |
-| Armoured Fighting Vehicles                       |         454 |        11 |          24 |        248 |     737 |
-| Infantry Fighting Vehicles                       |        1147 |        41 |          80 |        574 |    1842 |
+| Tanks                                            |         914 |        65 |          57 |        534 |    1570 |
+| Armoured Fighting Vehicles                       |         454 |        11 |          24 |        249 |     738 |
+| Infantry Fighting Vehicles                       |        1153 |        42 |          80 |        574 |    1849 |
 | Armoured Personnel Carriers                      |         167 |         5 |          12 |         94 |     278 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          29 |         4 |           1 |         10 |      44 |
 | Infantry Mobility Vehicles                       |         117 |         2 |           1 |         55 |     175 |
@@ -23,5 +23,5 @@
 | Unmanned Combat Aerial Vehicles                  |           4 |         0 |           0 |          0 |       4 |
 | Reconnaissance Unmanned Aerial Vehicles          |          68 |         0 |           0 |         81 |     149 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
-| Trucks, Vehicles and Jeeps                       |        1506 |        35 |          55 |        518 |    2114 |
-| total                                            |        5219 |       202 |         304 |       2684 |    8409 |
+| Trucks, Vehicles and Jeeps                       |        1503 |        35 |          55 |        518 |    2111 |
+| total                                            |        5223 |       203 |         304 |       2685 |    8415 |
