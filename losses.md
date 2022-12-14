@@ -12,7 +12,7 @@
 
  Armoured Fighting Vehicles (737, of which destroyed: 454, damaged: 11, abandoned: 24, captured: 248)
 
- Infantry Fighting Vehicles (1850, of which destroyed: 1154, damaged: 42, abandoned: 78, captured: 576)
+ Infantry Fighting Vehicles (1849, of which destroyed: 1153, damaged: 42, abandoned: 78, captured: 576)
 
  Armoured Personnel Carriers (279, of which destroyed: 168, damaged: 5, abandoned: 12, captured: 94)
 
@@ -20,7 +20,7 @@
 
  Infantry Mobility Vehicles (175, of which destroyed: 117, damaged: 2, abandoned: 1, captured: 55)
 
- Command Posts And Communications Stations (207, of which destroyed: 111, abandoned: 5, captured: 91)
+ Command Posts And Communications Stations (208, of which destroyed: 112, abandoned: 5, captured: 91)
 
  Engineering Vehicles And Equipment (252, of which destroyed: 108, damaged: 3, abandoned: 38, captured: 103)
 
