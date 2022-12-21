@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 8515, of which: destroyed: 5307, damaged: 210, abandoned: 304, captured: 2694
+ ### Russia - 8520, of which: destroyed: 5312, damaged: 210, abandoned: 304, captured: 2694
 
  
 
@@ -20,7 +20,7 @@
 
  Infantry Mobility Vehicles (177, of which destroyed: 119, damaged: 2, abandoned: 1, captured: 55)
 
- Command Posts And Communications Stations (210, of which destroyed: 113, abandoned: 5, captured: 92)
+ Command Posts And Communications Stations (211, of which destroyed: 114, abandoned: 5, captured: 92)
 
  Engineering Vehicles And Equipment (258, of which destroyed: 111, damaged: 4, abandoned: 38, captured: 105)
 
@@ -28,7 +28,7 @@
 
  Artillery Support Vehicles And Equipment (90, of which destroyed: 40, abandoned: 2, captured: 48)
 
- Towed Artillery (154, of which destroyed: 51, damaged: 6, abandoned: 5, captured: 92)
+ Towed Artillery (155, of which destroyed: 52, damaged: 6, abandoned: 5, captured: 92)
 
  Self-Propelled Artillery (298, of which destroyed: 175, damaged: 6, abandoned: 12, captured: 105)
 
@@ -38,15 +38,15 @@
 
  Self-Propelled Anti-Aircraft Guns (23, of which destroyed: 12, abandoned: 3, captured: 8)
 
- Surface-To-Air Missile Systems (82, of which destroyed: 49, damaged: 2, abandoned: 3, captured: 25)
+ Surface-To-Air Missile Systems (84, of which destroyed: 52, damaged: 2, abandoned: 3, captured: 24)
 
- Radars (21, of which destroyed: 12, captured: 9)
+ Radars (20, of which destroyed: 11, captured: 9)
 
  Jammers And Deception Systems (22, of which destroyed: 14, damaged: 2, captured: 6)
 
  Aircraft (67, of which destroyed: 63, damaged: 4)
 
- Helicopters (72, of which destroyed: 61, damaged: 10, captured: 1)
+ Helicopters (73, of which destroyed: 62, damaged: 10, captured: 1)
 
  Unmanned Combat Aerial Vehicles (4, of which destroyed: 4)
 
@@ -54,5 +54,5 @@
 
  Naval Ships (12, of which destroyed: 8, damaged: 4)
 
- Trucks, Vehicles and Jeeps (2146, of which destroyed: 1534, damaged: 35, abandoned: 55, captured: 522)
+ Trucks, Vehicles and Jeeps (2147, of which destroyed: 1534, damaged: 35, abandoned: 55, captured: 523)
 
