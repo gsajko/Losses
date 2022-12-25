@@ -1,5 +1,5 @@
  Russian Losses                                   ,   destroyed ,   damaged ,   abandoned ,   captured ,   total 
- Tanks                                            ,         931 ,        65 ,          59 ,        535 ,    1590 
+ Tanks                                            ,         919 ,        69 ,          59 ,        527 ,    1574 
  Armoured Fighting Vehicles                       ,         457 ,        11 ,          24 ,        253 ,     745 
  Infantry Fighting Vehicles                       ,        1172 ,        42 ,          80 ,        580 ,    1874 
  Armoured Personnel Carriers                      ,         169 ,         5 ,          12 ,         94 ,     280 
@@ -10,7 +10,7 @@
  Self-Propelled Anti-Tank Missile Systems         ,          10 ,         0 ,           4 ,         16 ,      30 
  Artillery Support Vehicles And Equipment         ,          40 ,         0 ,           2 ,         48 ,      90 
  Towed Artillery                                  ,          50 ,         6 ,           5 ,         91 ,     152 
- Self-Propelled Artillery                         ,         178 ,         6 ,          12 ,        105 ,     301 
+ Self-Propelled Artillery                         ,         179 ,         6 ,          12 ,        105 ,     302 
  Multiple Rocket Launchers                        ,         106 ,         2 ,           2 ,         51 ,     161 
  Anti-Aircraft Guns                               ,           3 ,         0 ,           0 ,         13 ,      16 
  Self-Propelled Anti-Aircraft Guns                ,          12 ,         0 ,           3 ,          8 ,      23 
@@ -23,4 +23,4 @@
  Reconnaissance Unmanned Aerial Vehicles          ,          68 ,         0 ,           0 ,         82 ,     150 
  Naval Ships                                      ,           8 ,         4 ,           0 ,          0 ,      12 
 " Trucks, Vehicles and Jeeps                       ",        1537 ,        35 ,          55 ,        524 ,    2151 
- total                                            ,        5323 ,       204 ,         310 ,       2701 ,    8538 
+ total                                            ,        5312 ,       208 ,         310 ,       2693 ,    8523 
