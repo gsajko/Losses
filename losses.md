@@ -30,7 +30,7 @@
 
  Towed Artillery (150, of which destroyed: 50, damaged: 6, abandoned: 5, captured: 89)
 
- Self-Propelled Artillery (302, of which destroyed: 179, damaged: 6, abandoned: 12, captured: 105)
+ Self-Propelled Artillery (299, of which destroyed: 178, damaged: 6, abandoned: 12, captured: 103)
 
  Multiple Rocket Launchers (161, of which destroyed: 106, damaged: 2, abandoned: 2, captured: 51)
 
@@ -54,5 +54,5 @@
 
  Naval Ships (12, of which destroyed: 8, damaged: 4)
 
- Trucks, Vehicles and Jeeps (2150, of which destroyed: 1536, damaged: 35, abandoned: 55, captured: 524)
+ Trucks, Vehicles and Jeeps (2143, of which destroyed: 1529, damaged: 35, abandoned: 55, captured: 524)
 
