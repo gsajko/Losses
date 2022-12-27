@@ -1,9 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |         927 |        70 |          59 |        528 |    1584 |
-| Armoured Fighting Vehicles                       |         449 |        11 |          24 |        251 |     735 |
-| Infantry Fighting Vehicles                       |        1163 |        44 |          81 |          0 |    1288 |
-| tured: 569)                                      |           0 |         0 |           0 |          0 |       0 |
+| Armoured Fighting Vehicles                       |         451 |        11 |          24 |        252 |     738 |
+| Infantry Fighting Vehicles                       |        1166 |        44 |          82 |        569 |    1861 |
 | Armoured Personnel Carriers                      |         169 |         5 |          12 |         94 |     280 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          28 |         4 |           1 |         10 |      43 |
 | Infantry Mobility Vehicles                       |         120 |         2 |           1 |         52 |     175 |
@@ -24,5 +23,5 @@
 | Unmanned Combat Aerial Vehicles                  |           4 |         0 |           0 |          0 |       4 |
 | Reconnaissance Unmanned Aerial Vehicles          |          68 |         0 |           0 |         82 |     150 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
-| Trucks, Vehicles and Jeeps                       |        1531 |        35 |          55 |        524 |    2145 |
-| total                                            |        5299 |       211 |         311 |       2104 |    7925 |
+| Trucks, Vehicles and Jeeps                       |        1532 |        35 |          55 |        524 |    2146 |
+| total                                            |        5305 |       211 |         312 |       2674 |    8502 |
