@@ -7,11 +7,11 @@
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          28 |         4 |           1 |         10 |      43 |
 | Infantry Mobility Vehicles                       |         121 |         2 |           1 |         52 |     176 |
 | Command Posts And Communications Stations        |         119 |         0 |           5 |         93 |     217 |
-| Engineering Vehicles And Equipment               |         113 |         4 |          38 |        105 |     260 |
-| Self-Propelled Anti-Tank Missile Systems         |          10 |         0 |           4 |         16 |      30 |
+| Engineering Vehicles And Equipment               |         114 |         4 |          38 |        105 |     261 |
+| Self-Propelled Anti-Tank Missile Systems         |          10 |         0 |           4 |         17 |      31 |
 | Artillery Support Vehicles And Equipment         |          40 |         0 |           2 |         48 |      90 |
 | Towed Artillery                                  |          50 |         6 |           5 |         90 |     151 |
-| Self-Propelled Artillery                         |         179 |         7 |          12 |        102 |     300 |
+| Self-Propelled Artillery                         |         181 |         7 |          12 |        102 |     302 |
 | Multiple Rocket Launchers                        |         110 |         2 |           2 |         52 |     166 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         13 |      16 |
 | Self-Propelled Anti-Aircraft Guns                |          12 |         0 |           3 |          8 |      23 |
@@ -21,7 +21,7 @@
 | Aircraft                                         |          63 |         4 |           0 |          0 |      67 |
 | Helicopters                                      |          63 |        10 |           0 |          1 |      74 |
 | Unmanned Combat Aerial Vehicles                  |           4 |         0 |           0 |          0 |       4 |
-| Reconnaissance Unmanned Aerial Vehicles          |          68 |         0 |           0 |         82 |     150 |
+| Reconnaissance Unmanned Aerial Vehicles          |          70 |         0 |           0 |         82 |     152 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
-| Trucks, Vehicles and Jeeps                       |        1534 |        35 |          55 |        524 |    2148 |
-| total                                            |        5340 |       215 |         311 |       2684 |    8550 |
+| Trucks, Vehicles and Jeeps                       |        1540 |        35 |          55 |        526 |    2156 |
+| total                                            |        5351 |       215 |         311 |       2687 |    8564 |
