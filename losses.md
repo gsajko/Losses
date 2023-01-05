@@ -12,7 +12,7 @@
 
  Armoured Fighting Vehicles (750, of which destroyed: 459, damaged: 12, abandoned: 24, captured: 255)
 
- Infantry Fighting Vehicles (1877, of which destroyed: 1178, damaged: 45, abandoned: 80, captured: 574)
+ Infantry Fighting Vehicles (1879, of which destroyed: 1179, damaged: 45, abandoned: 81, captured: 574)
 
  Armoured Personnel Carriers (283, of which destroyed: 172, damaged: 5, abandoned: 12, captured: 94)
 
@@ -48,7 +48,7 @@
 
  Helicopters (74, of which destroyed: 63, damaged: 10, captured: 1)
 
- Unmanned Combat Aerial Vehicles (4, of which destroyed: 4)
+ Unmanned Combat Aerial Vehicles (6, of which destroyed: 5, captured: 1)
 
  Reconnaissance Unmanned Aerial Vehicles (152, of which destroyed: 70, captured: 82)
 
