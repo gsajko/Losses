@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 8691, of which: destroyed: 5469, damaged: 220, abandoned: 293, captured: 2709
+ ### Russia - 8708, of which: destroyed: 5482, damaged: 221, abandoned: 293, captured: 2712
 
  
 
@@ -10,15 +10,15 @@
 
  Tanks (1614, of which destroyed: 947, damaged: 73, abandoned: 59, captured: 535)
 
- Armoured Fighting Vehicles (751, of which destroyed: 460, damaged: 12, abandoned: 24, captured: 255)
+ Armoured Fighting Vehicles (754, of which destroyed: 462, damaged: 12, abandoned: 24, captured: 256)
 
- Infantry Fighting Vehicles (1909, of which destroyed: 1208, damaged: 45, abandoned: 77, captured: 577)
+ Infantry Fighting Vehicles (1912, of which destroyed: 1210, damaged: 46, abandoned: 77, captured: 577)
 
- Armoured Personnel Carriers (287, of which destroyed: 175, damaged: 5, abandoned: 12, captured: 95)
+ Armoured Personnel Carriers (289, of which destroyed: 177, damaged: 5, abandoned: 12, captured: 95)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (43, of which destroyed: 28, damaged: 4, abandoned: 1, captured: 10)
 
- Infantry Mobility Vehicles (172, of which destroyed: 120, damaged: 2, abandoned: 1, captured: 49)
+ Infantry Mobility Vehicles (173, of which destroyed: 121, damaged: 2, abandoned: 1, captured: 49)
 
  Command Posts And Communications Stations (220, of which destroyed: 123, abandoned: 4, captured: 93)
 
@@ -28,7 +28,7 @@
 
  Artillery Support Vehicles And Equipment (91, of which destroyed: 40, abandoned: 2, captured: 49)
 
- Towed Artillery (154, of which destroyed: 51, damaged: 6, abandoned: 5, captured: 92)
+ Towed Artillery (155, of which destroyed: 51, damaged: 6, abandoned: 5, captured: 93)
 
  Self-Propelled Artillery (310, of which destroyed: 191, damaged: 6, abandoned: 9, captured: 104)
 
@@ -54,5 +54,5 @@
 
  Naval Ships (12, of which destroyed: 8, damaged: 4)
 
- Trucks, Vehicles and Jeeps (2201, of which destroyed: 1583, damaged: 35, abandoned: 53, captured: 530)
+ Trucks, Vehicles and Jeeps (2203, of which destroyed: 1585, damaged: 35, abandoned: 53, captured: 530)
 
