@@ -22,7 +22,7 @@
 
  Command Posts And Communications Stations (224, of which destroyed: 127, abandoned: 4, captured: 93)
 
- Engineering Vehicles And Equipment (266, of which destroyed: 118, damaged: 4, abandoned: 38, captured: 106)
+ Engineering Vehicles And Equipment (267, of which destroyed: 119, damaged: 4, abandoned: 38, captured: 106)
 
  Self-Propelled Anti-Tank Missile Systems (33, of which destroyed: 10, abandoned: 4, captured: 18)
 
@@ -30,7 +30,7 @@
 
  Towed Artillery (158, of which destroyed: 53, damaged: 7, abandoned: 5, captured: 93)
 
- Self-Propelled Artillery (317, of which destroyed: 197, damaged: 7, abandoned: 9, captured: 104)
+ Self-Propelled Artillery (318, of which destroyed: 198, damaged: 7, abandoned: 9, captured: 104)
 
  Multiple Rocket Launchers (169, of which destroyed: 115, damaged: 2, abandoned: 2, captured: 50)
 
@@ -38,7 +38,7 @@
 
  Self-Propelled Anti-Aircraft Guns (23, of which destroyed: 12, abandoned: 3, captured: 8)
 
- Surface-To-Air Missile Systems (88, of which destroyed: 57, damaged: 2, abandoned: 6, captured: 22)
+ Surface-To-Air Missile Systems (89, of which destroyed: 58, damaged: 2, abandoned: 6, captured: 22)
 
  Radars (21, of which destroyed: 11, damaged: 1, captured: 9)
 
