@@ -50,7 +50,7 @@
 
  Unmanned Combat Aerial Vehicles (7, of which destroyed: 6, captured: 1)
 
- Reconnaissance Unmanned Aerial Vehicles (167, of which destroyed: 81, captured: 86)
+ Reconnaissance Unmanned Aerial Vehicles (164, of which destroyed: 80, captured: 84)
 
  Naval Ships (12, of which destroyed: 8, damaged: 4)
 
