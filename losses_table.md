@@ -15,7 +15,7 @@
 | Multiple Rocket Launchers                        |         117 |         3 |           2 |         55 |     177 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         14 |      17 |
 | Self-Propelled Anti-Aircraft Guns                |          12 |         0 |           3 |          8 |      23 |
-| Surface-To-Air Missile Systems                   |          62 |         6 |           5 |         23 |      96 |
+| Surface-To-Air Missile Systems                   |          62 |         5 |           5 |         23 |      95 |
 | Radars                                           |          13 |         1 |           0 |          9 |      23 |
 | Jammers And Deception Systems                    |          16 |         2 |           0 |          7 |      25 |
 | Aircraft                                         |          66 |         7 |           0 |          0 |      73 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |          96 |         0 |           0 |         90 |     186 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
 | Trucks, Vehicles and Jeeps                       |        1668 |        35 |          49 |        547 |    2299 |
-| total                                            |        5942 |       269 |         374 |       2783 |    9368 |
+| total                                            |        5942 |       268 |         374 |       2783 |    9367 |
