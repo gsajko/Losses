@@ -2,17 +2,17 @@
  
  ## Russia
  
- ### Russia - 9368, of which: destroyed: 5942, damaged: 268, abandoned: 376, captured: 2782
+ ### Russia - 9394, of which: destroyed: 5964, damaged: 270, abandoned: 375, captured: 2785
 
  
 
  
 
- Tanks (1775, of which destroyed: 1044, damaged: 86, abandoned: 96, captured: 549)
+ Tanks (1774, of which destroyed: 1044, damaged: 86, abandoned: 96, captured: 548)
 
- Armoured Fighting Vehicles (790, of which destroyed: 489, damaged: 13, abandoned: 28, captured: 260)
+ Armoured Fighting Vehicles (793, of which destroyed: 492, damaged: 13, abandoned: 28, captured: 260)
 
- Infantry Fighting Vehicles (2109, of which destroyed: 1336, damaged: 63, abandoned: 114, captured: 596)
+ Infantry Fighting Vehicles (2117, of which destroyed: 1341, damaged: 64, abandoned: 116, captured: 596)
 
  Armoured Personnel Carriers (298, of which destroyed: 184, damaged: 5, abandoned: 12, captured: 97)
 
@@ -22,13 +22,13 @@
 
  Command Posts And Communications Stations (233, of which destroyed: 142, abandoned: 3, captured: 88)
 
- Engineering Vehicles And Equipment (281, of which destroyed: 125, damaged: 5, abandoned: 41, captured: 110)
+ Engineering Vehicles And Equipment (283, of which destroyed: 125, damaged: 5, abandoned: 41, captured: 112)
 
  Self-Propelled Anti-Tank Missile Systems (38, of which destroyed: 14, abandoned: 4, captured: 20)
 
  Artillery Support Vehicles And Equipment (91, of which destroyed: 40, abandoned: 2, captured: 49)
 
- Towed Artillery (172, of which destroyed: 66, damaged: 8, abandoned: 5, captured: 93)
+ Towed Artillery (176, of which destroyed: 70, damaged: 8, abandoned: 5, captured: 93)
 
  Self-Propelled Artillery (348, of which destroyed: 221, damaged: 15, abandoned: 7, captured: 105)
 
@@ -54,5 +54,5 @@
 
  Naval Ships (12, of which destroyed: 8, damaged: 4)
 
- Trucks, Vehicles and Jeeps (2299, of which destroyed: 1668, damaged: 35, abandoned: 49, captured: 547)
+ Trucks, Vehicles and Jeeps (2302, of which destroyed: 1671, damaged: 35, abandoned: 49, captured: 547)
 
