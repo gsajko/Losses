@@ -22,7 +22,7 @@
 
  Command Posts And Communications Stations (233, of which destroyed: 142, abandoned: 3, captured: 88)
 
- Engineering Vehicles And Equipment (283, of which destroyed: 125, damaged: 5, abandoned: 41, captured: 112)
+ Engineering Vehicles And Equipment (282, of which destroyed: 124, damaged: 5, abandoned: 41, captured: 112)
 
  Self-Propelled Anti-Tank Missile Systems (38, of which destroyed: 14, abandoned: 4, captured: 20)
 

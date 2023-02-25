@@ -6,7 +6,7 @@
  Mine-Resistant Ambush Protected  (MRAP) Vehicles ,          29 ,         4 ,           1 ,         10 ,      44 
  Infantry Mobility Vehicles                       ,         124 ,         4 ,           1 ,         51 ,     180 
  Command Posts And Communications Stations        ,         142 ,         0 ,           3 ,         88 ,     233 
- Engineering Vehicles And Equipment               ,         125 ,         5 ,          41 ,        112 ,     283 
+ Engineering Vehicles And Equipment               ,         124 ,         5 ,          41 ,        112 ,     282 
  Self-Propelled Anti-Tank Missile Systems         ,          14 ,         0 ,           4 ,         20 ,      38 
  Artillery Support Vehicles And Equipment         ,          40 ,         0 ,           2 ,         49 ,      91 
  Towed Artillery                                  ,          70 ,         8 ,           5 ,         93 ,     176 
@@ -23,4 +23,4 @@
  Reconnaissance Unmanned Aerial Vehicles          ,          96 ,         0 ,           0 ,         90 ,     186 
  Naval Ships                                      ,           8 ,         4 ,           0 ,          0 ,      12 
 " Trucks, Vehicles and Jeeps                       ",        1671 ,        35 ,          49 ,        547 ,    2302 
- total                                            ,        5964 ,       270 ,         374 ,       2783 ,    9391 
+ total                                            ,        5963 ,       270 ,         374 ,       2783 ,    9390 
