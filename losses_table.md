@@ -9,9 +9,9 @@
 | Command Posts And Communications Stations        |         141 |         0 |           3 |         88 |     232 |
 | Engineering Vehicles And Equipment               |         127 |         5 |          41 |        113 |     286 |
 | Self-Propelled Anti-Tank Missile Systems         |          14 |         0 |           4 |         20 |      38 |
-| Artillery Support Vehicles And Equipment         |          40 |         0 |           2 |         49 |      91 |
-| Towed Artillery                                  |          71 |         8 |           5 |         93 |     177 |
-| Self-Propelled Artillery                         |         223 |        15 |           7 |        105 |     350 |
+| Artillery Support Vehicles And Equipment         |          42 |         0 |           2 |         49 |      93 |
+| Towed Artillery                                  |          75 |         8 |           5 |         93 |     181 |
+| Self-Propelled Artillery                         |         225 |        15 |           7 |        105 |     352 |
 | Multiple Rocket Launchers                        |         118 |         3 |           2 |         55 |     178 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         14 |      17 |
 | Self-Propelled Anti-Aircraft Guns                |          12 |         0 |           3 |          8 |      23 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |          97 |         0 |           0 |         90 |     187 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
 | Trucks, Vehicles and Jeeps                       |        1679 |        36 |          49 |        547 |    2311 |
-| total                                            |        6032 |       270 |         380 |       2790 |    9472 |
+| total                                            |        6040 |       270 |         380 |       2790 |    9480 |
