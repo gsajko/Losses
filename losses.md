@@ -46,7 +46,7 @@
 
  Aircraft (79, of which destroyed: 71, damaged: 8)
 
- Helicopters (79, of which destroyed: 68, damaged: 10, captured: 1)
+ Helicopters (80, of which destroyed: 69, damaged: 10, captured: 1)
 
  Unmanned Combat Aerial Vehicles (7, of which destroyed: 6, captured: 1)
 
@@ -54,5 +54,5 @@
 
  Naval Ships (12, of which destroyed: 8, damaged: 4)
 
- Trucks, Vehicles and Jeeps (2350, of which destroyed: 1710, damaged: 36, abandoned: 49, captured: 555)
+ Trucks, Vehicles and Jeeps (2349, of which destroyed: 1709, damaged: 36, abandoned: 49, captured: 555)
 
