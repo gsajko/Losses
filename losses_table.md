@@ -1,7 +1,7 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1100 |        92 |         104 |        550 |    1846 |
-| Armoured Fighting Vehicles                       |         505 |        13 |          28 |        264 |     810 |
+| Tanks                                            |        1101 |        92 |         104 |        550 |    1847 |
+| Armoured Fighting Vehicles                       |         504 |        13 |          28 |        264 |     809 |
 | Infantry Fighting Vehicles                       |        1415 |        66 |         119 |        607 |    2207 |
 | Armoured Personnel Carriers                      |         190 |         6 |          12 |         98 |     306 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          30 |         4 |           1 |         10 |      45 |
@@ -21,7 +21,7 @@
 | Aircraft                                         |          71 |         8 |           0 |          0 |      79 |
 | Helicopters                                      |          68 |        10 |           0 |          1 |      79 |
 | Unmanned Combat Aerial Vehicles                  |           6 |         0 |           0 |          1 |       7 |
-| Reconnaissance Unmanned Aerial Vehicles          |         100 |         0 |           0 |         94 |     194 |
+| Reconnaissance Unmanned Aerial Vehicles          |         100 |         0 |           0 |         93 |     193 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
 | Trucks, Vehicles and Jeeps                       |        1700 |        36 |          49 |        550 |    2335 |
-| total                                            |        6203 |       283 |         385 |       2812 |    9683 |
+| total                                            |        6203 |       283 |         385 |       2811 |    9682 |
