@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1147 |       100 |         101 |        553 |    1901 |
-| Armoured Fighting Vehicles                       |         512 |        13 |          28 |        266 |     819 |
-| Infantry Fighting Vehicles                       |        1451 |        67 |         118 |        610 |    2246 |
+| Tanks                                            |        1148 |       100 |         101 |        553 |    1902 |
+| Armoured Fighting Vehicles                       |         513 |        13 |          28 |        266 |     820 |
+| Infantry Fighting Vehicles                       |        1455 |        67 |         119 |        610 |    2251 |
 | Armoured Personnel Carriers                      |         193 |         8 |          12 |         98 |     311 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          30 |         4 |           1 |         10 |      45 |
 | Infantry Mobility Vehicles                       |         130 |         4 |           1 |         53 |     188 |
@@ -23,5 +23,5 @@
 | Unmanned Combat Aerial Vehicles                  |           6 |         0 |           0 |          1 |       7 |
 | Reconnaissance Unmanned Aerial Vehicles          |         102 |         0 |           0 |         96 |     198 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
-| Trucks, Vehicles and Jeeps                       |        1729 |        36 |          49 |        566 |    2380 |
-| total                                            |        6359 |       297 |         379 |       2846 |    9881 |
+| Trucks, Vehicles and Jeeps                       |        1730 |        36 |          49 |        566 |    2381 |
+| total                                            |        6366 |       297 |         380 |       2846 |    9889 |
