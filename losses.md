@@ -2,19 +2,19 @@
  
  ## Russia
  
- ### Russia - 9976, of which: destroyed: 6446, damaged: 303, abandoned: 389, captured: 2838
+ ### Russia - 9978, of which: destroyed: 6449, damaged: 303, abandoned: 390, captured: 2836
 
  
 
  
 
- Tanks (1924, of which destroyed: 1167, damaged: 100, abandoned: 104, captured: 553)
+ Tanks (1923, of which destroyed: 1166, damaged: 100, abandoned: 104, captured: 553)
 
  Armoured Fighting Vehicles (825, of which destroyed: 517, damaged: 14, abandoned: 30, captured: 264)
 
- Infantry Fighting Vehicles (2273, of which destroyed: 1468, damaged: 68, abandoned: 125, captured: 610)
+ Infantry Fighting Vehicles (2276, of which destroyed: 1471, damaged: 68, abandoned: 126, captured: 609)
 
- Armoured Personnel Carriers (307, of which destroyed: 191, damaged: 8, abandoned: 12, captured: 96)
+ Armoured Personnel Carriers (306, of which destroyed: 191, damaged: 8, abandoned: 12, captured: 95)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (45, of which destroyed: 30, damaged: 4, abandoned: 1, captured: 10)
 
@@ -26,11 +26,11 @@
 
  Self-Propelled Anti-Tank Missile Systems (38, of which destroyed: 14, abandoned: 4, captured: 20)
 
- Artillery Support Vehicles And Equipment (98, of which destroyed: 45, abandoned: 2, captured: 51)
+ Artillery Support Vehicles And Equipment (97, of which destroyed: 45, abandoned: 2, captured: 50)
 
  Towed Artillery (193, of which destroyed: 85, damaged: 9, abandoned: 5, captured: 94)
 
- Self-Propelled Artillery (377, of which destroyed: 250, damaged: 15, abandoned: 7, captured: 105)
+ Self-Propelled Artillery (378, of which destroyed: 251, damaged: 15, abandoned: 7, captured: 105)
 
  Multiple Rocket Launchers (190, of which destroyed: 128, damaged: 5, abandoned: 2, captured: 55)
 
@@ -54,5 +54,5 @@
 
  Naval Ships (12, of which destroyed: 8, damaged: 4)
 
- Trucks, Vehicles and Jeeps (2402, of which destroyed: 1755, damaged: 37, abandoned: 48, captured: 562)
+ Trucks, Vehicles and Jeeps (2403, of which destroyed: 1755, damaged: 37, abandoned: 48, captured: 563)
 
