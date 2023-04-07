@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 9987, of which: destroyed: 6461, damaged: 303, abandoned: 391, captured: 2832
+ ### Russia - 9988, of which: destroyed: 6462, damaged: 303, abandoned: 391, captured: 2832
 
  
 
@@ -40,7 +40,7 @@
 
  Surface-To-Air Missile Systems (104, of which destroyed: 71, damaged: 6, abandoned: 4, captured: 23)
 
- Radars (28, of which destroyed: 16, damaged: 3, captured: 9)
+ Radars (29, of which destroyed: 17, damaged: 3, captured: 9)
 
  Jammers And Deception Systems (31, of which destroyed: 21, damaged: 3, captured: 7)
 
