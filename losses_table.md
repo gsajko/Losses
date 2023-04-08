@@ -11,7 +11,7 @@
 | Self-Propelled Anti-Tank Missile Systems         |          14 |         0 |           4 |         19 |      37 |
 | Artillery Support Vehicles And Equipment         |          46 |         0 |           2 |         49 |      97 |
 | Towed Artillery                                  |          86 |         9 |           5 |         94 |     194 |
-| Self-Propelled Artillery                         |         255 |        15 |           7 |        105 |     382 |
+| Self-Propelled Artillery                         |         256 |        15 |           7 |        105 |     383 |
 | Multiple Rocket Launchers                        |         130 |         5 |           2 |         55 |     192 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         14 |      17 |
 | Self-Propelled Anti-Aircraft Guns                |          13 |         0 |           3 |          8 |      24 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |         103 |         0 |           0 |         97 |     200 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
 | Trucks, Vehicles and Jeeps                       |        1758 |        37 |          48 |        562 |    2405 |
-| total                                            |        6471 |       304 |         395 |       2835 |   10005 |
+| total                                            |        6472 |       304 |         395 |       2835 |   10006 |

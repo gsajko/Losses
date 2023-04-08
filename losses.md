@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 10004, of which: destroyed: 6472, damaged: 304, abandoned: 394, captured: 2834
+ ### Russia - 10005, of which: destroyed: 6473, damaged: 304, abandoned: 394, captured: 2834
 
  
 
@@ -30,7 +30,7 @@
 
  Towed Artillery (194, of which destroyed: 86, damaged: 9, abandoned: 5, captured: 94)
 
- Self-Propelled Artillery (382, of which destroyed: 255, damaged: 15, abandoned: 7, captured: 105)
+ Self-Propelled Artillery (383, of which destroyed: 256, damaged: 15, abandoned: 7, captured: 105)
 
  Multiple Rocket Launchers (192, of which destroyed: 130, damaged: 5, abandoned: 2, captured: 55)
 
