@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |        1168 |       100 |         106 |        554 |    1928 |
-| Armoured Fighting Vehicles                       |         518 |        14 |          30 |        265 |     827 |
-| Infantry Fighting Vehicles                       |        1478 |        69 |         127 |        610 |    2284 |
+| Armoured Fighting Vehicles                       |         519 |        14 |          30 |        265 |     828 |
+| Infantry Fighting Vehicles                       |        1482 |        69 |         127 |        610 |    2288 |
 | Armoured Personnel Carriers                      |         191 |         8 |          12 |         93 |     304 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          30 |         4 |           1 |          9 |      44 |
 | Infantry Mobility Vehicles                       |         131 |         4 |           1 |         53 |     189 |
@@ -21,7 +21,7 @@
 | Aircraft                                         |          71 |         8 |           0 |          0 |      79 |
 | Helicopters                                      |          70 |        10 |           0 |          1 |      81 |
 | Unmanned Combat Aerial Vehicles                  |           6 |         0 |           0 |          1 |       7 |
-| Reconnaissance Unmanned Aerial Vehicles          |         104 |         0 |           0 |         98 |     202 |
+| Reconnaissance Unmanned Aerial Vehicles          |         105 |         0 |           0 |         98 |     203 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
 | Trucks, Vehicles and Jeeps                       |        1758 |        37 |          48 |        562 |    2405 |
-| total                                            |        6476 |       304 |         395 |       2835 |   10010 |
+| total                                            |        6482 |       304 |         395 |       2835 |   10016 |
