@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1159 |        99 |         103 |        549 |    1910 |
+| Tanks                                            |        1157 |        99 |         103 |        549 |    1908 |
 | Armoured Fighting Vehicles                       |         520 |        14 |          30 |        265 |     829 |
-| Infantry Fighting Vehicles                       |        1481 |        69 |         127 |        608 |    2285 |
+| Infantry Fighting Vehicles                       |        1482 |        69 |         127 |        608 |    2286 |
 | Armoured Personnel Carriers                      |         193 |         8 |          12 |         93 |     306 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          30 |         4 |           1 |          9 |      44 |
 | Infantry Mobility Vehicles                       |         132 |         4 |           1 |         53 |     190 |
@@ -10,7 +10,7 @@
 | Engineering Vehicles And Equipment               |         133 |         5 |          40 |        120 |     298 |
 | Self-Propelled Anti-Tank Missile Systems         |          14 |         0 |           4 |         19 |      37 |
 | Artillery Support Vehicles And Equipment         |          46 |         0 |           2 |         49 |      97 |
-| Towed Artillery                                  |          86 |         9 |           5 |         94 |     194 |
+| Towed Artillery                                  |          87 |         9 |           5 |         94 |     195 |
 | Self-Propelled Artillery                         |         256 |        15 |           7 |        105 |     383 |
 | Multiple Rocket Launchers                        |         130 |         5 |           2 |         55 |     192 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         14 |      17 |
