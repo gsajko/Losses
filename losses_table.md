@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1158 |        99 |         102 |        544 |    1903 |
-| Armoured Fighting Vehicles                       |         522 |        14 |          30 |        265 |     831 |
-| Infantry Fighting Vehicles                       |        1485 |        70 |         127 |        608 |    2290 |
+| Tanks                                            |        1155 |        99 |         102 |        544 |    1900 |
+| Armoured Fighting Vehicles                       |         523 |        14 |          30 |        265 |     832 |
+| Infantry Fighting Vehicles                       |        1485 |        70 |         129 |        608 |    2292 |
 | Armoured Personnel Carriers                      |         193 |         8 |          12 |         93 |     306 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          30 |         4 |           1 |          9 |      44 |
 | Infantry Mobility Vehicles                       |         135 |         4 |           1 |         53 |     193 |
@@ -23,5 +23,5 @@
 | Unmanned Combat Aerial Vehicles                  |           6 |         0 |           0 |          1 |       7 |
 | Reconnaissance Unmanned Aerial Vehicles          |         105 |         0 |           0 |         98 |     203 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
-| Trucks, Vehicles and Jeeps                       |        1774 |        38 |          48 |        562 |    2422 |
-| total                                            |        6502 |       305 |         391 |       2822 |   10020 |
+| Trucks, Vehicles and Jeeps                       |        1777 |        38 |          48 |        563 |    2426 |
+| total                                            |        6503 |       305 |         393 |       2823 |   10024 |
