@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |        1156 |        99 |         102 |        544 |    1901 |
-| Armoured Fighting Vehicles                       |         523 |        14 |          30 |        265 |     832 |
-| Infantry Fighting Vehicles                       |        1486 |        70 |         129 |        608 |    2293 |
+| Armoured Fighting Vehicles                       |         524 |        14 |          30 |        265 |     833 |
+| Infantry Fighting Vehicles                       |        1488 |        70 |         129 |        608 |    2295 |
 | Armoured Personnel Carriers                      |         193 |         8 |          12 |         93 |     306 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          30 |         4 |           1 |          9 |      44 |
 | Infantry Mobility Vehicles                       |         135 |         4 |           1 |         53 |     193 |
@@ -21,7 +21,7 @@
 | Aircraft                                         |          71 |         8 |           0 |          0 |      79 |
 | Helicopters                                      |          70 |        10 |           0 |          1 |      81 |
 | Unmanned Combat Aerial Vehicles                  |           6 |         0 |           0 |          1 |       7 |
-| Reconnaissance Unmanned Aerial Vehicles          |         105 |         0 |           0 |         98 |     203 |
+| Reconnaissance Unmanned Aerial Vehicles          |         106 |         0 |           0 |         99 |     205 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
 | Trucks, Vehicles and Jeeps                       |        1777 |        38 |          48 |        563 |    2426 |
-| total                                            |        6505 |       306 |         393 |       2823 |   10027 |
+| total                                            |        6509 |       306 |         393 |       2824 |   10032 |
