@@ -2,17 +2,17 @@
  
  ## Russia
  
- ### Russia - 10055, of which: destroyed: 6534, damaged: 307, abandoned: 391, captured: 2823
+ ### Russia - 10064, of which: destroyed: 6541, damaged: 307, abandoned: 391, captured: 2825
 
  
 
  
 
- Tanks (1902, of which destroyed: 1157, damaged: 99, abandoned: 102, captured: 544)
+ Tanks (1903, of which destroyed: 1158, damaged: 99, abandoned: 102, captured: 544)
 
  Armoured Fighting Vehicles (834, of which destroyed: 524, damaged: 15, abandoned: 30, captured: 265)
 
- Infantry Fighting Vehicles (2305, of which destroyed: 1496, damaged: 70, abandoned: 129, captured: 608)
+ Infantry Fighting Vehicles (2306, of which destroyed: 1497, damaged: 70, abandoned: 129, captured: 608)
 
  Armoured Personnel Carriers (306, of which destroyed: 193, damaged: 8, abandoned: 12, captured: 93)
 
@@ -30,7 +30,7 @@
 
  Towed Artillery (197, of which destroyed: 88, damaged: 9, abandoned: 5, captured: 95)
 
- Self-Propelled Artillery (384, of which destroyed: 257, damaged: 16, abandoned: 7, captured: 104)
+ Self-Propelled Artillery (385, of which destroyed: 258, damaged: 16, abandoned: 7, captured: 104)
 
  Multiple Rocket Launchers (191, of which destroyed: 129, damaged: 5, abandoned: 2, captured: 55)
 
@@ -50,9 +50,9 @@
 
  Unmanned Combat Aerial Vehicles (7, of which destroyed: 6, captured: 1)
 
- Reconnaissance Unmanned Aerial Vehicles (205, of which destroyed: 106, captured: 99)
+ Reconnaissance Unmanned Aerial Vehicles (207, of which destroyed: 106, captured: 101)
 
  Naval Ships (12, of which destroyed: 8, damaged: 4)
 
- Trucks, Vehicles and Jeeps (2432, of which destroyed: 1783, damaged: 38, abandoned: 48, captured: 563)
+ Trucks, Vehicles and Jeeps (2436, of which destroyed: 1787, damaged: 38, abandoned: 48, captured: 563)
 
