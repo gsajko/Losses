@@ -1,20 +1,20 @@
  Russian Losses                                   ,   destroyed ,   damaged ,   abandoned ,   captured ,   total 
  Tanks                                            ,        1160 ,       101 ,         101 ,        544 ,    1906 
- Armoured Fighting Vehicles                       ,         526 ,        16 ,          31 ,        265 ,     838 
+ Armoured Fighting Vehicles                       ,         522 ,        16 ,          30 ,        262 ,     830 
  Infantry Fighting Vehicles                       ,        1490 ,        72 ,         122 ,        597 ,    2281 
- Armoured Personnel Carriers                      ,         193 ,         8 ,          12 ,         93 ,     306 
+ Armoured Personnel Carriers                      ,         192 ,         8 ,          12 ,         93 ,     305 
  Mine-Resistant Ambush Protected  (MRAP) Vehicles ,          30 ,         4 ,           1 ,          9 ,      44 
- Infantry Mobility Vehicles                       ,         134 ,         4 ,           1 ,         53 ,     192 
- Command Posts And Communications Stations        ,         152 ,         0 ,           3 ,         86 ,     241 
+ Infantry Mobility Vehicles                       ,         131 ,         4 ,           1 ,         52 ,     188 
+ Command Posts And Communications Stations        ,         152 ,         0 ,           3 ,         85 ,     240 
  Engineering Vehicles And Equipment               ,         134 ,         5 ,          40 ,        120 ,     299 
  Self-Propelled Anti-Tank Missile Systems         ,          14 ,         0 ,           4 ,         19 ,      37 
  Artillery Support Vehicles And Equipment         ,          47 ,         0 ,           2 ,         49 ,      98 
- Towed Artillery                                  ,          90 ,        11 ,           5 ,         95 ,     201 
- Self-Propelled Artillery                         ,         259 ,        16 ,           7 ,        104 ,     386 
- Multiple Rocket Launchers                        ,         129 ,         5 ,           2 ,         55 ,     191 
+ Towed Artillery                                  ,          88 ,        11 ,           5 ,         95 ,     199 
+ Self-Propelled Artillery                         ,         257 ,        16 ,           7 ,        104 ,     384 
+ Multiple Rocket Launchers                        ,         129 ,         5 ,           2 ,         54 ,     190 
  Anti-Aircraft Guns                               ,           3 ,         0 ,           0 ,         14 ,      17 
- Self-Propelled Anti-Aircraft Guns                ,          13 ,         0 ,           3 ,          8 ,      24 
- Surface-To-Air Missile Systems                   ,          73 ,         6 ,           4 ,         23 ,     106 
+ Self-Propelled Anti-Aircraft Guns                ,          13 ,         0 ,           2 ,          8 ,      23 
+ Surface-To-Air Missile Systems                   ,          72 ,         6 ,           4 ,         23 ,     105 
  Radars                                           ,          19 ,         3 ,           0 ,          9 ,      31 
  Jammers And Deception Systems                    ,          25 ,         3 ,           0 ,          7 ,      35 
  Aircraft                                         ,          72 ,         8 ,           0 ,          0 ,      80 
@@ -22,5 +22,5 @@
  Unmanned Combat Aerial Vehicles                  ,           6 ,         0 ,           0 ,          1 ,       7 
  Reconnaissance Unmanned Aerial Vehicles          ,         106 ,         0 ,           0 ,        101 ,     207 
  Naval Ships                                      ,           8 ,         4 ,           0 ,          0 ,      12 
-" Trucks, Vehicles and Jeeps                       ",        1803 ,        39 ,          48 ,        564 ,    2454 
- total                                            ,        6558 ,       315 ,         386 ,       2817 ,   10076 
+" Trucks, Vehicles and Jeeps                       ",        1797 ,        39 ,          48 ,        558 ,    2442 
+ total                                            ,        6539 ,       315 ,         384 ,       2805 ,   10043 
