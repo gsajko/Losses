@@ -1,11 +1,11 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1190 |       104 |         107 |        545 |    1946 |
+| Tanks                                            |        1190 |       104 |         107 |        542 |    1943 |
 | Armoured Fighting Vehicles                       |         533 |        17 |          30 |        264 |     844 |
-| Infantry Fighting Vehicles                       |        1531 |        74 |         125 |        597 |    2327 |
+| Infantry Fighting Vehicles                       |        1532 |        74 |         125 |        598 |    2329 |
 | Armoured Personnel Carriers                      |         197 |         8 |          12 |         93 |     310 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          29 |         4 |           1 |          9 |      43 |
-| Infantry Mobility Vehicles                       |         133 |         4 |           1 |         52 |     190 |
+| Infantry Mobility Vehicles                       |         133 |         5 |           1 |         52 |     191 |
 | Command Posts And Communications Stations        |         150 |         0 |           3 |         86 |     239 |
 | Engineering Vehicles And Equipment               |         138 |         5 |          40 |        120 |     303 |
 | Self-Propelled Anti-Tank Missile Systems         |          15 |         0 |           4 |         19 |      38 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |         117 |         0 |           0 |        104 |     221 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
 | Trucks, Vehicles and Jeeps                       |        1831 |        41 |          48 |        561 |    2481 |
-| total                                            |        6693 |       326 |         393 |       2817 |   10229 |
+| total                                            |        6694 |       327 |         393 |       2815 |   10229 |
