@@ -8,7 +8,7 @@
 
  
 
- Tanks (1984, of which destroyed: 1221, damaged: 106, abandoned: 114, captured: 543)
+ Tanks (1985, of which destroyed: 1222, damaged: 106, abandoned: 114, captured: 543)
 
  Armoured Fighting Vehicles (859, of which destroyed: 548, damaged: 17, abandoned: 29, captured: 265)
 
@@ -50,7 +50,7 @@
 
  Unmanned Combat Aerial Vehicles (9, of which destroyed: 8, captured: 1)
 
- Reconnaissance Unmanned Aerial Vehicles (241, of which destroyed: 128, captured: 113)
+ Reconnaissance Unmanned Aerial Vehicles (232, of which destroyed: 122, captured: 110)
 
  Naval Ships (12, of which destroyed: 8, damaged: 4)
 
