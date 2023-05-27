@@ -18,9 +18,9 @@
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (43, of which destroyed: 29, damaged: 4, abandoned: 1, captured: 9)
 
- Infantry Mobility Vehicles (190, of which destroyed: 132, damaged: 5, abandoned: 2, captured: 51)
+ Infantry Mobility Vehicles (188, of which destroyed: 130, damaged: 5, abandoned: 2, captured: 51)
 
- Command Posts And Communications Stations (241, of which destroyed: 153, abandoned: 3, captured: 85)
+ Command Posts And Communications Stations (242, of which destroyed: 154, abandoned: 3, captured: 85)
 
  Engineering Vehicles And Equipment (306, of which destroyed: 140, damaged: 7, abandoned: 40, captured: 119)
 
@@ -54,5 +54,5 @@
 
  Naval Ships (12, of which destroyed: 8, damaged: 4)
 
- Trucks, Vehicles and Jeeps (2514, of which destroyed: 1861, damaged: 42, abandoned: 49, captured: 562)
+ Trucks, Vehicles and Jeeps (2513, of which destroyed: 1860, damaged: 42, abandoned: 49, captured: 562)
 

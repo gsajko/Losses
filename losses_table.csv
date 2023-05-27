@@ -4,8 +4,8 @@
  Infantry Fighting Vehicles                       ,        1559 ,        82 ,         124 ,        598 ,    2363 
  Armoured Personnel Carriers                      ,         204 ,         8 ,          11 ,         91 ,     314 
  Mine-Resistant Ambush Protected  (MRAP) Vehicles ,          29 ,         4 ,           1 ,          9 ,      43 
- Infantry Mobility Vehicles                       ,         132 ,         5 ,           2 ,         51 ,     190 
- Command Posts And Communications Stations        ,         153 ,         0 ,           3 ,         85 ,     241 
+ Infantry Mobility Vehicles                       ,         130 ,         5 ,           2 ,         51 ,     188 
+ Command Posts And Communications Stations        ,         154 ,         0 ,           3 ,         85 ,     242 
  Engineering Vehicles And Equipment               ,         140 ,         7 ,          40 ,        119 ,     306 
  Self-Propelled Anti-Tank Missile Systems         ,          15 ,         0 ,           4 ,         19 ,      38 
  Artillery Support Vehicles And Equipment         ,          51 ,         0 ,           2 ,         50 ,     103 
@@ -22,5 +22,5 @@
  Unmanned Combat Aerial Vehicles                  ,           8 ,         0 ,           0 ,          1 ,       9 
  Reconnaissance Unmanned Aerial Vehicles          ,         128 ,         0 ,           0 ,        113 ,     241 
  Naval Ships                                      ,           8 ,         4 ,           0 ,          0 ,      12 
-" Trucks, Vehicles and Jeeps                       ",        1861 ,        42 ,          49 ,        562 ,    2514 
- total                                            ,        6863 ,       351 ,         399 ,       2822 ,   10435 
+" Trucks, Vehicles and Jeeps                       ",        1860 ,        42 ,          49 ,        562 ,    2513 
+ total                                            ,        6861 ,       351 ,         399 ,       2822 ,   10433 
