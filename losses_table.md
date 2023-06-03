@@ -23,5 +23,5 @@
 | Unmanned Combat Aerial Vehicles                  |           8 |         0 |           0 |          1 |       9 |
 | Reconnaissance Unmanned Aerial Vehicles          |         123 |         0 |           0 |        111 |     234 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
-| Trucks, Vehicles and Jeeps                       |        1882 |        44 |          51 |        563 |    2540 |
-| total                                            |        6946 |       357 |         404 |       2824 |   10531 |
+| Trucks, Vehicles and Jeeps                       |        1881 |        44 |          51 |        563 |    2539 |
+| total                                            |        6945 |       357 |         404 |       2824 |   10530 |
