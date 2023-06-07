@@ -8,7 +8,7 @@
 
  
 
- Tanks (2011, of which destroyed: 1246, damaged: 110, abandoned: 111, captured: 544)
+ Tanks (2012, of which destroyed: 1247, damaged: 110, abandoned: 111, captured: 544)
 
  Armoured Fighting Vehicles (869, of which destroyed: 557, damaged: 17, abandoned: 30, captured: 265)
 
@@ -38,7 +38,7 @@
 
  Self-Propelled Anti-Aircraft Guns (24, of which destroyed: 13, damaged: 1, abandoned: 2, captured: 8)
 
- Surface-To-Air Missile Systems (115, of which destroyed: 78, damaged: 10, abandoned: 4, captured: 23)
+ Surface-To-Air Missile Systems (116, of which destroyed: 79, damaged: 10, abandoned: 4, captured: 23)
 
  Radars (32, of which destroyed: 20, damaged: 3, captured: 9)
 
@@ -48,7 +48,7 @@
 
  Helicopters (90, of which destroyed: 79, damaged: 10, captured: 1)
 
- Unmanned Combat Aerial Vehicles (9, of which destroyed: 8, captured: 1)
+ Unmanned Combat Aerial Vehicles (10, of which destroyed: 9, captured: 1)
 
  Reconnaissance Unmanned Aerial Vehicles (234, of which destroyed: 123, captured: 111)
 
