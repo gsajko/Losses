@@ -8,11 +8,11 @@
 
  
 
- Tanks (2022, of which destroyed: 1256, damaged: 111, abandoned: 111, captured: 544)
+ Tanks (2021, of which destroyed: 1255, damaged: 111, abandoned: 111, captured: 544)
 
- Armoured Fighting Vehicles (875, of which destroyed: 559, damaged: 19, abandoned: 31, captured: 266)
+ Armoured Fighting Vehicles (874, of which destroyed: 559, damaged: 19, abandoned: 30, captured: 266)
 
- Infantry Fighting Vehicles (2392, of which destroyed: 1583, damaged: 82, abandoned: 128, captured: 599)
+ Infantry Fighting Vehicles (2387, of which destroyed: 1582, damaged: 82, abandoned: 126, captured: 597)
 
  Armoured Personnel Carriers (311, of which destroyed: 201, damaged: 8, abandoned: 12, captured: 90)
 
@@ -54,5 +54,5 @@
 
  Naval Ships (12, of which destroyed: 8, damaged: 4)
 
- Trucks, Vehicles, and Jeeps (2563, of which destroyed: 1897, damaged: 47, abandoned: 51, captured: 568)
+ Trucks, Vehicles, and Jeeps (2561, of which destroyed: 1896, damaged: 47, abandoned: 50, captured: 568)
 

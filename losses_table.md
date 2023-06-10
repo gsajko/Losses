@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1256 |       111 |         111 |        544 |    2022 |
-| Armoured Fighting Vehicles                       |         559 |        19 |          31 |        266 |     875 |
-| Infantry Fighting Vehicles                       |        1583 |        82 |         128 |        599 |    2392 |
+| Tanks                                            |        1255 |       111 |         111 |        544 |    2021 |
+| Armoured Fighting Vehicles                       |         559 |        19 |          30 |        266 |     874 |
+| Infantry Fighting Vehicles                       |        1582 |        82 |         126 |        597 |    2387 |
 | Armoured Personnel Carriers                      |         201 |         8 |          12 |         90 |     311 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          29 |         4 |           1 |          9 |      43 |
 | Infantry Mobility Vehicles                       |         131 |         5 |           2 |         51 |     189 |
@@ -23,5 +23,5 @@
 | Unmanned Combat Aerial Vehicles                  |           9 |         0 |           0 |          1 |      10 |
 | Reconnaissance Unmanned Aerial Vehicles          |         123 |         0 |           0 |        111 |     234 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
-| Trucks, Vehicles, and Jeeps                      |        1897 |        47 |          51 |        568 |    2563 |
-| total                                            |        6993 |       366 |         405 |       2829 |   10593 |
+| Trucks, Vehicles, and Jeeps                      |        1896 |        47 |          50 |        568 |    2561 |
+| total                                            |        6990 |       366 |         401 |       2827 |   10584 |
