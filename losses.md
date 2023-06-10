@@ -8,9 +8,9 @@
 
  
 
- Tanks (2021, of which destroyed: 1255, damaged: 111, abandoned: 111, captured: 544)
+ Tanks (2027, of which destroyed: 1259, damaged: 112, abandoned: 112, captured: 544)
 
- Armoured Fighting Vehicles (874, of which destroyed: 559, damaged: 19, abandoned: 30, captured: 266)
+ Armoured Fighting Vehicles (874, of which destroyed: 560, damaged: 18, abandoned: 30, captured: 266)
 
  Infantry Fighting Vehicles (2387, of which destroyed: 1582, damaged: 82, abandoned: 126, captured: 597)
 
