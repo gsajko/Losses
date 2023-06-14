@@ -8,7 +8,7 @@
 
  
 
- Tanks (2041, of which destroyed: 1271, damaged: 114, abandoned: 112, captured: 544)
+ Tanks (2043, of which destroyed: 1273, damaged: 114, abandoned: 112, captured: 544)
 
  Armoured Fighting Vehicles (885, of which destroyed: 569, damaged: 19, abandoned: 31, captured: 266)
 
@@ -38,7 +38,7 @@
 
  Self-Propelled Anti-Aircraft Guns (24, of which destroyed: 13, damaged: 1, abandoned: 2, captured: 8)
 
- Surface-To-Air Missile Systems (119, of which destroyed: 80, damaged: 12, abandoned: 4, captured: 23)
+ Surface-To-Air Missile Systems (117, of which destroyed: 78, damaged: 12, abandoned: 4, captured: 23)
 
  Radars (32, of which destroyed: 20, damaged: 3, captured: 9)
 
