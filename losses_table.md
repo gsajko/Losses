@@ -2,26 +2,26 @@
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |        1314 |       119 |         114 |        546 |    2093 |
 | Armoured Fighting Vehicles                       |         584 |        23 |          31 |        267 |     905 |
-| Infantry Fighting Vehicles                       |        1647 |        95 |         127 |        603 |    2472 |
-| Armoured Personnel Carriers                      |         210 |         8 |          14 |         89 |     321 |
+| Infantry Fighting Vehicles                       |        1658 |        95 |         127 |        603 |    2483 |
+| Armoured Personnel Carriers                      |         212 |         8 |          14 |         89 |     323 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          31 |         4 |           1 |          9 |      45 |
 | Infantry Mobility Vehicles                       |         135 |         6 |           2 |         51 |     194 |
 | Command Posts And Communications Stations        |         156 |         1 |           3 |         85 |     245 |
 | Engineering Vehicles And Equipment               |         147 |         8 |          40 |        122 |     317 |
 | Self-Propelled Anti-Tank Missile Systems         |          16 |         1 |           4 |         19 |      40 |
 | Artillery Support Vehicles And Equipment         |          50 |         0 |           2 |         50 |     102 |
-| Towed Artillery                                  |         128 |        19 |           5 |         96 |     248 |
-| Self-Propelled Artillery                         |         296 |        27 |           7 |        106 |     436 |
-| Multiple Rocket Launchers                        |         159 |        13 |           2 |         53 |     227 |
+| Towed Artillery                                  |         130 |        19 |           5 |         96 |     250 |
+| Self-Propelled Artillery                         |         300 |        28 |           7 |        106 |     441 |
+| Multiple Rocket Launchers                        |         162 |        13 |           2 |         53 |     230 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         14 |      17 |
 | Self-Propelled Anti-Aircraft Guns                |          13 |         1 |           2 |          8 |      24 |
 | Surface-To-Air Missile Systems                   |          80 |        15 |           4 |         24 |     123 |
 | Radars                                           |          22 |         4 |           0 |          9 |      35 |
 | Jammers And Deception Systems                    |          31 |         3 |           0 |          7 |      41 |
-| Aircraft                                         |          75 |         8 |           0 |          0 |      83 |
+| Aircraft                                         |          76 |         8 |           0 |          0 |      84 |
 | Helicopters                                      |          86 |        12 |           0 |          1 |      99 |
 | Unmanned Combat Aerial Vehicles                  |          10 |         0 |           0 |          1 |      11 |
-| Reconnaissance Unmanned Aerial Vehicles          |         128 |         0 |           0 |        115 |     243 |
+| Reconnaissance Unmanned Aerial Vehicles          |         130 |         0 |           0 |        115 |     245 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
-| Trucks, Vehicles, and Jeeps                      |        1972 |        48 |          51 |        563 |    2634 |
-| total                                            |        7301 |       419 |         409 |       2838 |   10967 |
+| Trucks, Vehicles, and Jeeps                      |        1974 |        48 |          51 |        563 |    2636 |
+| total                                            |        7328 |       420 |         409 |       2838 |   10995 |
