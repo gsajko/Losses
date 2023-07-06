@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1309 |       119 |         113 |        545 |    2086 |
-| Armoured Fighting Vehicles                       |         580 |        23 |          31 |        267 |     901 |
-| Infantry Fighting Vehicles                       |        1644 |        95 |         127 |        603 |    2469 |
+| Tanks                                            |        1310 |       119 |         113 |        545 |    2087 |
+| Armoured Fighting Vehicles                       |         581 |        23 |          31 |        267 |     902 |
+| Infantry Fighting Vehicles                       |        1645 |        95 |         127 |        603 |    2470 |
 | Armoured Personnel Carriers                      |         210 |         8 |          14 |         89 |     321 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          31 |         4 |           1 |          9 |      45 |
 | Infantry Mobility Vehicles                       |         135 |         6 |           2 |         51 |     194 |
@@ -23,5 +23,5 @@
 | Unmanned Combat Aerial Vehicles                  |          10 |         0 |           0 |          1 |      11 |
 | Reconnaissance Unmanned Aerial Vehicles          |         128 |         0 |           0 |        115 |     243 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
-| Trucks, Vehicles, and Jeeps                      |        1970 |        48 |          51 |        563 |    2632 |
-| total                                            |        7287 |       419 |         408 |       2837 |   10951 |
+| Trucks, Vehicles, and Jeeps                      |        1972 |        48 |          51 |        563 |    2634 |
+| total                                            |        7292 |       419 |         408 |       2837 |   10956 |
