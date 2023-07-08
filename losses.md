@@ -44,7 +44,7 @@
 
  Jammers And Deception Systems (41, of which destroyed: 31, damaged: 3, captured: 7)
 
- Aircraft (84, of which destroyed: 76, damaged: 8)
+ Aircraft (83, of which destroyed: 75, damaged: 8)
 
  Helicopters (99, of which destroyed: 86, damaged: 12, captured: 1)
 
