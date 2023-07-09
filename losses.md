@@ -40,7 +40,7 @@
 
  Surface-To-Air Missile Systems (122, of which destroyed: 80, damaged: 14, abandoned: 4, captured: 24)
 
- Radars (35, of which destroyed: 22, damaged: 4, captured: 9)
+ Radars (36, of which destroyed: 23, damaged: 4, captured: 9)
 
  Jammers And Deception Systems (41, of which destroyed: 31, damaged: 3, captured: 7)
 
