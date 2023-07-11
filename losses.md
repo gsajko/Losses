@@ -38,9 +38,9 @@
 
  Self-Propelled Anti-Aircraft Guns (24, of which destroyed: 13, damaged: 1, abandoned: 2, captured: 8)
 
- Surface-To-Air Missile Systems (122, of which destroyed: 80, damaged: 14, abandoned: 4, captured: 24)
+ Surface-To-Air Missile Systems (123, of which destroyed: 81, damaged: 14, abandoned: 4, captured: 24)
 
- Radars (36, of which destroyed: 23, damaged: 4, captured: 9)
+ Radars (37, of which destroyed: 24, damaged: 4, captured: 9)
 
  Jammers And Deception Systems (41, of which destroyed: 31, damaged: 3, captured: 7)
 
