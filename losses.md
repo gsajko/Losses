@@ -48,9 +48,9 @@
 
  Helicopters (99, of which destroyed: 86, damaged: 12, captured: 1)
 
- Unmanned Combat Aerial Vehicles (11, of which destroyed: 10, captured: 1)
+ Unmanned Combat Aerial Vehicles (12, of which destroyed: 10, captured: 2)
 
- Reconnaissance Unmanned Aerial Vehicles (255, of which destroyed: 137, captured: 118)
+ Reconnaissance Unmanned Aerial Vehicles (254, of which destroyed: 137, captured: 117)
 
  Naval Ships (12, of which destroyed: 8, damaged: 4)
 
