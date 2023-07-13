@@ -1,9 +1,9 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1332 |       121 |         117 |        545 |    2115 |
+| Tanks                                            |        1333 |       121 |         117 |        545 |    2116 |
 | Armoured Fighting Vehicles                       |         588 |        24 |          31 |        267 |     910 |
 | Infantry Fighting Vehicles                       |        1674 |        95 |         132 |        600 |    2501 |
-| Armoured Personnel Carriers                      |         214 |         8 |          14 |         89 |     325 |
+| Armoured Personnel Carriers                      |         215 |         8 |          14 |         89 |     326 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          31 |         4 |           1 |          9 |      45 |
 | Infantry Mobility Vehicles                       |         138 |         6 |           2 |         51 |     197 |
 | Command Posts And Communications Stations        |         157 |         1 |           3 |         85 |     246 |
@@ -23,5 +23,5 @@
 | Unmanned Combat Aerial Vehicles                  |          10 |         0 |           0 |          1 |      11 |
 | Reconnaissance Unmanned Aerial Vehicles          |         136 |         0 |           0 |        116 |     252 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
-| Trucks, Vehicles, and Jeeps                      |        1992 |        49 |          51 |        565 |    2657 |
-| total                                            |        7415 |       425 |         418 |       2837 |   11095 |
+| Trucks, Vehicles, and Jeeps                      |        1994 |        49 |          51 |        565 |    2659 |
+| total                                            |        7419 |       425 |         418 |       2837 |   11099 |
