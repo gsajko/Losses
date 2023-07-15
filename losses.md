@@ -30,15 +30,15 @@
 
  Towed Artillery (258, of which destroyed: 137, damaged: 20, abandoned: 5, captured: 96)
 
- Self-Propelled Artillery (446, of which destroyed: 306, damaged: 27, abandoned: 7, captured: 106)
+ Self-Propelled Artillery (448, of which destroyed: 308, damaged: 27, abandoned: 7, captured: 106)
 
- Multiple Rocket Launchers (235, of which destroyed: 167, damaged: 13, abandoned: 2, captured: 53)
+ Multiple Rocket Launchers (237, of which destroyed: 169, damaged: 13, abandoned: 2, captured: 53)
 
  Anti-Aircraft Guns (17, of which destroyed: 3, captured: 14)
 
  Self-Propelled Anti-Aircraft Guns (24, of which destroyed: 13, damaged: 1, abandoned: 2, captured: 8)
 
- Surface-To-Air Missile Systems (125, of which destroyed: 82, damaged: 15, abandoned: 4, captured: 24)
+ Surface-To-Air Missile Systems (126, of which destroyed: 83, damaged: 15, abandoned: 4, captured: 24)
 
  Radars (38, of which destroyed: 25, damaged: 4, captured: 9)
 
