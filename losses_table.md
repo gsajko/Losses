@@ -19,9 +19,9 @@
 | Radars                                           |          25 |         4 |           0 |          9 |      38 |
 | Jammers And Deception Systems                    |          33 |         4 |           0 |          7 |      44 |
 | Aircraft                                         |          75 |         8 |           0 |          0 |      83 |
-| Helicopters                                      |          87 |        12 |           0 |          1 |     100 |
+| Helicopters                                      |          86 |        12 |           0 |          1 |      99 |
 | Unmanned Combat Aerial Vehicles                  |          10 |         0 |           0 |          2 |      12 |
 | Reconnaissance Unmanned Aerial Vehicles          |         139 |         0 |           0 |        117 |     256 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
 | Trucks, Vehicles, and Jeeps                      |        2016 |        49 |          51 |        566 |    2682 |
-| total                                            |        7512 |       431 |         415 |       2849 |   11207 |
+| total                                            |        7511 |       431 |         415 |       2849 |   11206 |
