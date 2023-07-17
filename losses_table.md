@@ -1,6 +1,6 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1352 |       121 |         115 |        548 |    2136 |
+| Tanks                                            |        1353 |       121 |         115 |        548 |    2137 |
 | Armoured Fighting Vehicles                       |         595 |        25 |          35 |        267 |     922 |
 | Infantry Fighting Vehicles                       |        1692 |        96 |         131 |        604 |    2523 |
 | Armoured Personnel Carriers                      |         218 |         9 |          14 |         89 |     330 |
@@ -19,9 +19,9 @@
 | Radars                                           |          25 |         4 |           0 |          9 |      38 |
 | Jammers And Deception Systems                    |          33 |         4 |           0 |          7 |      44 |
 | Aircraft                                         |          75 |         8 |           0 |          0 |      83 |
-| Helicopters                                      |          86 |        12 |           0 |          1 |      99 |
+| Helicopters                                      |          87 |        12 |           0 |          1 |     100 |
 | Unmanned Combat Aerial Vehicles                  |          10 |         0 |           0 |          2 |      12 |
 | Reconnaissance Unmanned Aerial Vehicles          |         139 |         0 |           0 |        117 |     256 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
 | Trucks, Vehicles, and Jeeps                      |        2016 |        49 |          51 |        566 |    2682 |
-| total                                            |        7511 |       431 |         415 |       2849 |   11206 |
+| total                                            |        7513 |       431 |         415 |       2849 |   11208 |
