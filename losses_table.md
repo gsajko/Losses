@@ -15,13 +15,13 @@
 | Multiple Rocket Launchers                        |         177 |        14 |           2 |         53 |     246 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         14 |      17 |
 | Self-Propelled Anti-Aircraft Guns                |          13 |         1 |           2 |          8 |      24 |
-| Surface-To-Air Missile Systems                   |          85 |        16 |           4 |         24 |     129 |
-| Radars                                           |          25 |         4 |           0 |          9 |      38 |
+| Surface-To-Air Missile Systems                   |          87 |        17 |           4 |         24 |     132 |
+| Radars                                           |          26 |         4 |           0 |          9 |      39 |
 | Jammers And Deception Systems                    |          33 |         4 |           0 |          7 |      44 |
 | Aircraft                                         |          76 |         8 |           0 |          0 |      84 |
 | Helicopters                                      |          86 |        12 |           0 |          1 |      99 |
 | Unmanned Combat Aerial Vehicles                  |          10 |         0 |           0 |          2 |      12 |
-| Reconnaissance Unmanned Aerial Vehicles          |         142 |         0 |           0 |        118 |     260 |
+| Reconnaissance Unmanned Aerial Vehicles          |         145 |         0 |           0 |        119 |     264 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
-| Trucks, Vehicles, and Jeeps                      |        2028 |        50 |          51 |        566 |    2695 |
-| total                                            |        7625 |       433 |         420 |       2852 |   11330 |
+| Trucks, Vehicles, and Jeeps                      |        2042 |        50 |          51 |        568 |    2711 |
+| total                                            |        7645 |       434 |         420 |       2855 |   11354 |
