@@ -8,7 +8,7 @@
 
  
 
- Tanks (2164, of which destroyed: 1377, damaged: 122, abandoned: 116, captured: 549)
+ Tanks (2169, of which destroyed: 1382, damaged: 122, abandoned: 116, captured: 549)
 
  Armoured Fighting Vehicles (930, of which destroyed: 603, damaged: 25, abandoned: 35, captured: 267)
 
@@ -42,7 +42,7 @@
 
  Radars (39, of which destroyed: 26, damaged: 4, captured: 9)
 
- Jammers And Deception Systems (44, of which destroyed: 33, damaged: 4, captured: 7)
+ Jammers And Deception Systems (45, of which destroyed: 34, damaged: 4, captured: 7)
 
  Aircraft (84, of which destroyed: 76, damaged: 8)
 
