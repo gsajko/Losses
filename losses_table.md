@@ -11,7 +11,7 @@
 | Self-Propelled Anti-Tank Missile Systems         |          17 |         1 |           4 |         19 |      41 |
 | Artillery Support Vehicles And Equipment         |          51 |         0 |           1 |         51 |     103 |
 | Towed Artillery                                  |         140 |        20 |           5 |         96 |     261 |
-| Self-Propelled Artillery                         |         322 |        28 |           7 |        106 |     463 |
+| Self-Propelled Artillery                         |         324 |        28 |           7 |        106 |     465 |
 | Multiple Rocket Launchers                        |         177 |        14 |           2 |         53 |     246 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         14 |      17 |
 | Self-Propelled Anti-Aircraft Guns                |          13 |         1 |           2 |          8 |      24 |
@@ -19,9 +19,9 @@
 | Radars                                           |          26 |         4 |           0 |          9 |      39 |
 | Jammers And Deception Systems                    |          33 |         4 |           0 |          7 |      44 |
 | Aircraft                                         |          76 |         8 |           0 |          0 |      84 |
-| Helicopters                                      |          86 |        12 |           0 |          1 |      99 |
+| Helicopters                                      |          87 |        12 |           0 |          1 |     100 |
 | Unmanned Combat Aerial Vehicles                  |          10 |         0 |           0 |          2 |      12 |
 | Reconnaissance Unmanned Aerial Vehicles          |         145 |         0 |           0 |        119 |     264 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
-| Trucks, Vehicles, and Jeeps                      |        2042 |        50 |          51 |        568 |    2711 |
-| total                                            |        7654 |       435 |         420 |       2855 |   11364 |
+| Trucks, Vehicles, and Jeeps                      |        2041 |        50 |          51 |        568 |    2710 |
+| total                                            |        7656 |       435 |         420 |       2855 |   11366 |
