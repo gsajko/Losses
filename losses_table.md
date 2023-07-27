@@ -2,11 +2,11 @@
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |        1384 |       122 |         115 |        547 |    2168 |
 | Armoured Fighting Vehicles                       |         603 |        25 |          35 |        267 |     930 |
-| Infantry Fighting Vehicles                       |        1737 |        97 |         136 |        604 |    2574 |
-| Armoured Personnel Carriers                      |         224 |         9 |          14 |         90 |     337 |
+| Infantry Fighting Vehicles                       |        1736 |        97 |         136 |        604 |    2573 |
+| Armoured Personnel Carriers                      |         222 |         9 |          14 |         90 |     335 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          32 |         4 |           1 |          9 |      46 |
 | Infantry Mobility Vehicles                       |         139 |         6 |           2 |         51 |     198 |
-| Command Posts And Communications Stations        |         159 |         1 |           3 |         83 |     246 |
+| Command Posts And Communications Stations        |         159 |         1 |           2 |         82 |     244 |
 | Engineering Vehicles And Equipment               |         155 |         8 |          38 |        125 |     326 |
 | Self-Propelled Anti-Tank Missile Systems         |          17 |         1 |           4 |         19 |      41 |
 | Artillery Support Vehicles And Equipment         |          51 |         0 |           1 |         51 |     103 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |         145 |         0 |           0 |        119 |     264 |
 | Naval Ships                                      |           8 |         4 |           0 |          0 |      12 |
 | Trucks, Vehicles, and Jeeps                      |        2052 |        53 |          51 |        568 |    2724 |
-| total                                            |        7693 |       439 |         420 |       2853 |   11405 |
+| total                                            |        7690 |       439 |         419 |       2852 |   11400 |
