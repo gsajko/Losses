@@ -8,7 +8,7 @@
 
  
 
- Tanks (2207, of which destroyed: 1415, damaged: 125, abandoned: 119, captured: 548)
+ Tanks (2210, of which destroyed: 1417, damaged: 125, abandoned: 120, captured: 548)
 
  Armoured Fighting Vehicles (940, of which destroyed: 612, damaged: 25, abandoned: 36, captured: 267)
 
@@ -32,7 +32,7 @@
 
  Self-Propelled Artillery (483, of which destroyed: 341, damaged: 28, abandoned: 7, captured: 107)
 
- Multiple Rocket Launchers (253, of which destroyed: 184, damaged: 14, abandoned: 2, captured: 53)
+ Multiple Rocket Launchers (255, of which destroyed: 185, damaged: 15, abandoned: 2, captured: 53)
 
  Anti-Aircraft Guns (17, of which destroyed: 3, captured: 14)
 
