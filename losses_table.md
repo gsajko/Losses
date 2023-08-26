@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1458 |       129 |         130 |        548 |    2265 |
+| Tanks                                            |        1459 |       129 |         130 |        548 |    2266 |
 | Armoured Fighting Vehicles                       |         623 |        26 |          37 |        267 |     953 |
-| Infantry Fighting Vehicles                       |        1834 |       107 |         144 |        609 |    2694 |
+| Infantry Fighting Vehicles                       |        1835 |       107 |         144 |        609 |    2695 |
 | Armoured Personnel Carriers                      |         229 |         9 |          15 |         91 |     344 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          32 |         4 |           1 |          9 |      46 |
 | Infantry Mobility Vehicles                       |         143 |         6 |           2 |         51 |     202 |
@@ -11,7 +11,7 @@
 | Self-Propelled Anti-Tank Missile Systems         |          17 |         1 |           4 |         19 |      41 |
 | Artillery Support Vehicles And Equipment         |          53 |         0 |           2 |         52 |     107 |
 | Towed Artillery                                  |         162 |        24 |           5 |         96 |     287 |
-| Self-Propelled Artillery                         |         361 |        29 |           7 |        107 |     504 |
+| Self-Propelled Artillery                         |         362 |        29 |           7 |        107 |     505 |
 | Multiple Rocket Launchers                        |         187 |        15 |           2 |         52 |     256 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         14 |      17 |
 | Self-Propelled Anti-Aircraft Guns                |          14 |         1 |           2 |          8 |      25 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |         156 |         0 |           0 |        122 |     278 |
 | Naval Ships                                      |           8 |         5 |           0 |          0 |      13 |
 | Trucks, Vehicles, and Jeeps                      |        2106 |        51 |          51 |        569 |    2777 |
-| total                                            |        8058 |       468 |         446 |       2866 |   11838 |
+| total                                            |        8061 |       468 |         446 |       2866 |   11841 |
