@@ -16,7 +16,7 @@
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         14 |      17 |
 | Self-Propelled Anti-Aircraft Guns                |          14 |         1 |           2 |          8 |      25 |
 | Surface-To-Air Missile Systems                   |         102 |        21 |           4 |         24 |     151 |
-| Radars                                           |          27 |         4 |           0 |          9 |      40 |
+| Radars                                           |          28 |         4 |           0 |          9 |      41 |
 | Jammers And Deception Systems                    |          39 |         5 |           0 |          7 |      51 |
 | Aircraft                                         |          77 |         8 |           0 |          0 |      85 |
 | Helicopters                                      |          89 |        12 |           0 |          2 |     103 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |         157 |         0 |           0 |        123 |     280 |
 | Naval Ships                                      |           8 |         5 |           0 |          0 |      13 |
 | Trucks, Vehicles, and Jeeps                      |        2119 |        51 |          51 |        569 |    2790 |
-| total                                            |        8112 |       472 |         447 |       2868 |   11899 |
+| total                                            |        8113 |       472 |         447 |       2868 |   11900 |
