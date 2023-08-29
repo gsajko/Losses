@@ -2,7 +2,7 @@
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |        1468 |       129 |         130 |        549 |    2276 |
 | Armoured Fighting Vehicles                       |         628 |        26 |          37 |        267 |     958 |
-| Infantry Fighting Vehicles                       |        1847 |       110 |         145 |        609 |    2711 |
+| Infantry Fighting Vehicles                       |        1846 |       110 |         145 |        609 |    2710 |
 | Armoured Personnel Carriers                      |         232 |         9 |          15 |         91 |     347 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          32 |         4 |           1 |          9 |      46 |
 | Infantry Mobility Vehicles                       |         144 |         6 |           2 |         51 |     203 |
@@ -11,7 +11,7 @@
 | Self-Propelled Anti-Tank Missile Systems         |          17 |         1 |           4 |         19 |      41 |
 | Artillery Support Vehicles And Equipment         |          53 |         0 |           2 |         52 |     107 |
 | Towed Artillery                                  |         165 |        25 |           5 |         96 |     291 |
-| Self-Propelled Artillery                         |         363 |        29 |           7 |        107 |     506 |
+| Self-Propelled Artillery                         |         365 |        29 |           7 |        107 |     508 |
 | Multiple Rocket Launchers                        |         188 |        15 |           2 |         52 |     257 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         14 |      17 |
 | Self-Propelled Anti-Aircraft Guns                |          14 |         1 |           2 |          8 |      25 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |         157 |         0 |           0 |        123 |     280 |
 | Naval Ships                                      |           8 |         5 |           0 |          0 |      13 |
 | Trucks, Vehicles, and Jeeps                      |        2119 |        51 |          51 |        569 |    2790 |
-| total                                            |        8113 |       472 |         447 |       2868 |   11900 |
+| total                                            |        8114 |       472 |         447 |       2868 |   11901 |
