@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 11900, of which: destroyed: 8114, damaged: 473, abandoned: 444, captured: 2869
+ ### Russia - 11902, of which: destroyed: 8116, damaged: 473, abandoned: 444, captured: 2869
 
  
 
@@ -22,7 +22,7 @@
 
  Command Posts And Communications Stations (247, of which destroyed: 161, damaged: 2, abandoned: 2, captured: 82)
 
- Engineering Vehicles And Equipment (339, of which destroyed: 167, damaged: 9, abandoned: 38, captured: 125)
+ Engineering Vehicles And Equipment (340, of which destroyed: 168, damaged: 9, abandoned: 38, captured: 125)
 
  Self-Propelled Anti-Tank Missile Systems (41, of which destroyed: 17, damaged: 1, abandoned: 4, captured: 19)
 
@@ -54,5 +54,5 @@
 
  Naval Ships (13, of which destroyed: 8, damaged: 5)
 
- Trucks, Vehicles, and Jeeps (2794, of which destroyed: 2118, damaged: 51, abandoned: 51, captured: 569)
+ Trucks, Vehicles, and Jeeps (2795, of which destroyed: 2119, damaged: 51, abandoned: 51, captured: 569)
 
