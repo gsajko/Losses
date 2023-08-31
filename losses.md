@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 11912, of which: destroyed: 8124, damaged: 475, abandoned: 444, captured: 2869
+ ### Russia - 11914, of which: destroyed: 8126, damaged: 475, abandoned: 444, captured: 2869
 
  
 
@@ -44,7 +44,7 @@
 
  Jammers And Deception Systems (51, of which destroyed: 39, damaged: 5, captured: 7)
 
- Aircraft (86, of which destroyed: 79, damaged: 7)
+ Aircraft (88, of which destroyed: 81, damaged: 7)
 
  Helicopters (104, of which destroyed: 90, damaged: 12, captured: 2)
 
