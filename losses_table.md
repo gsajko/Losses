@@ -2,7 +2,7 @@
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |        1480 |       129 |         132 |        549 |    2290 |
 | Armoured Fighting Vehicles                       |         631 |        26 |          37 |        267 |     961 |
-| Infantry Fighting Vehicles                       |        1866 |       110 |         145 |        611 |    2732 |
+| Infantry Fighting Vehicles                       |        1869 |       110 |         145 |        611 |    2735 |
 | Armoured Personnel Carriers                      |         233 |         9 |          15 |         91 |     348 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          33 |         4 |           1 |          9 |      47 |
 | Infantry Mobility Vehicles                       |         146 |         6 |           2 |         51 |     205 |
@@ -10,7 +10,7 @@
 | Engineering Vehicles And Equipment               |         168 |         9 |          38 |        125 |     340 |
 | Self-Propelled Anti-Tank Missile Systems         |          17 |         1 |           4 |         19 |      41 |
 | Artillery Support Vehicles And Equipment         |          53 |         0 |           2 |         52 |     107 |
-| Towed Artillery                                  |         168 |        26 |           5 |         96 |     295 |
+| Towed Artillery                                  |         169 |        26 |           5 |         96 |     296 |
 | Self-Propelled Artillery                         |         368 |        30 |           7 |        107 |     512 |
 | Multiple Rocket Launchers                        |         191 |        16 |           2 |         52 |     261 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         14 |      17 |
@@ -21,7 +21,7 @@
 | Aircraft                                         |          81 |         8 |           0 |          0 |      89 |
 | Helicopters                                      |          91 |        12 |           0 |          2 |     105 |
 | Unmanned Combat Aerial Vehicles                  |          11 |         0 |           0 |          3 |      14 |
-| Reconnaissance Unmanned Aerial Vehicles          |         160 |         0 |           0 |        123 |     283 |
+| Reconnaissance Unmanned Aerial Vehicles          |         161 |         0 |           0 |        123 |     284 |
 | Naval Ships                                      |           9 |         5 |           0 |          0 |      14 |
 | Trucks, Vehicles, and Jeeps                      |        2128 |        51 |          51 |        569 |    2799 |
-| total                                            |        8186 |       476 |         449 |       2870 |   11981 |
+| total                                            |        8191 |       476 |         449 |       2870 |   11986 |
