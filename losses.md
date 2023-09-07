@@ -2,17 +2,17 @@
  
  ## Russia
  
- ### Russia - 12037, of which: destroyed: 8234, damaged: 481, abandoned: 448, captured: 2874
+ ### Russia - 12055, of which: destroyed: 8251, damaged: 482, abandoned: 448, captured: 2874
 
  
 
  
 
- Tanks (2296, of which destroyed: 1487, damaged: 130, abandoned: 132, captured: 549)
+ Tanks (2299, of which destroyed: 1490, damaged: 130, abandoned: 132, captured: 549)
 
- Armoured Fighting Vehicles (966, of which destroyed: 636, damaged: 26, abandoned: 37, captured: 267)
+ Armoured Fighting Vehicles (969, of which destroyed: 639, damaged: 27, abandoned: 36, captured: 267)
 
- Infantry Fighting Vehicles (2755, of which destroyed: 1884, damaged: 110, abandoned: 147, captured: 613)
+ Infantry Fighting Vehicles (2761, of which destroyed: 1890, damaged: 110, abandoned: 147, captured: 613)
 
  Armoured Personnel Carriers (349, of which destroyed: 234, damaged: 9, abandoned: 15, captured: 91)
 
@@ -22,7 +22,7 @@
 
  Command Posts And Communications Stations (251, of which destroyed: 164, damaged: 2, abandoned: 2, captured: 83)
 
- Engineering Vehicles And Equipment (340, of which destroyed: 168, damaged: 9, abandoned: 38, captured: 125)
+ Engineering Vehicles And Equipment (341, of which destroyed: 168, damaged: 9, abandoned: 39, captured: 125)
 
  Self-Propelled Anti-Tank Missile Systems (41, of which destroyed: 17, damaged: 1, abandoned: 4, captured: 19)
 
@@ -32,7 +32,7 @@
 
  Self-Propelled Artillery (513, of which destroyed: 369, damaged: 30, abandoned: 7, captured: 107)
 
- Multiple Rocket Launchers (263, of which destroyed: 193, damaged: 16, abandoned: 2, captured: 52)
+ Multiple Rocket Launchers (264, of which destroyed: 194, damaged: 16, abandoned: 2, captured: 52)
 
  Anti-Aircraft Guns (17, of which destroyed: 3, captured: 14)
 
@@ -54,5 +54,5 @@
 
  Naval Ships (14, of which destroyed: 9, damaged: 5)
 
- Trucks, Vehicles, and Jeeps (2815, of which destroyed: 2138, damaged: 52, abandoned: 51, captured: 569)
+ Trucks, Vehicles, and Jeeps (2819, of which destroyed: 2142, damaged: 52, abandoned: 51, captured: 569)
 
