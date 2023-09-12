@@ -1,7 +1,7 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |        1497 |       130 |         135 |        550 |    2312 |
-| Armoured Fighting Vehicles                       |         644 |        27 |          36 |        268 |     975 |
+| Armoured Fighting Vehicles                       |         646 |        27 |          36 |        268 |     977 |
 | Infantry Fighting Vehicles                       |        1902 |       110 |         148 |        613 |    2773 |
 | Armoured Personnel Carriers                      |         236 |         9 |          15 |         91 |     351 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          33 |         4 |           1 |          9 |      47 |
@@ -21,7 +21,7 @@
 | Aircraft                                         |          81 |         8 |           0 |          0 |      89 |
 | Helicopters                                      |          91 |        12 |           0 |          2 |     105 |
 | Unmanned Combat Aerial Vehicles                  |          11 |         0 |           0 |          3 |      14 |
-| Reconnaissance Unmanned Aerial Vehicles          |         163 |         0 |           0 |        124 |     287 |
+| Reconnaissance Unmanned Aerial Vehicles          |         162 |         0 |           0 |        124 |     286 |
 | Naval Ships                                      |           9 |         5 |           0 |          0 |      14 |
-| Trucks, Vehicles, and Jeeps                      |        2156 |        52 |          51 |        569 |    2828 |
-| total                                            |        8306 |       480 |         455 |       2877 |   12118 |
+| Trucks, Vehicles, and Jeeps                      |        2157 |        52 |          51 |        569 |    2829 |
+| total                                            |        8308 |       480 |         455 |       2877 |   12120 |
