@@ -1,6 +1,6 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1497 |       130 |         135 |        550 |    2312 |
+| Tanks                                            |        1498 |       130 |         135 |        550 |    2313 |
 | Armoured Fighting Vehicles                       |         646 |        27 |          36 |        268 |     977 |
 | Infantry Fighting Vehicles                       |        1902 |       110 |         148 |        613 |    2773 |
 | Armoured Personnel Carriers                      |         236 |         9 |          15 |         91 |     351 |
@@ -12,7 +12,7 @@
 | Artillery Support Vehicles And Equipment         |          53 |         0 |           2 |         52 |     107 |
 | Towed Artillery                                  |         170 |        26 |           5 |         97 |     298 |
 | Self-Propelled Artillery                         |         374 |        30 |           7 |        107 |     518 |
-| Multiple Rocket Launchers                        |         196 |        16 |           2 |         52 |     266 |
+| Multiple Rocket Launchers                        |         196 |        17 |           2 |         52 |     267 |
 | Anti-Aircraft Guns                               |           3 |         0 |           0 |         14 |      17 |
 | Self-Propelled Anti-Aircraft Guns                |          14 |         1 |           2 |          8 |      25 |
 | Surface-To-Air Missile Systems                   |         106 |        22 |           4 |         24 |     156 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |         162 |         0 |           0 |        124 |     286 |
 | Naval Ships                                      |           9 |         5 |           0 |          0 |      14 |
 | Trucks, Vehicles, and Jeeps                      |        2157 |        52 |          51 |        569 |    2829 |
-| total                                            |        8308 |       480 |         455 |       2877 |   12120 |
+| total                                            |        8309 |       481 |         455 |       2877 |   12122 |
