@@ -18,10 +18,10 @@
 | Surface-To-Air Missile Systems                   |         105 |        22 |           4 |         24 |     155 |
 | Radars                                           |          29 |         4 |           0 |          9 |      42 |
 | Jammers And Deception Systems                    |          41 |         6 |           0 |          7 |      54 |
-| Aircraft                                         |          81 |         8 |           0 |          0 |      89 |
+| Aircraft                                         |          82 |         8 |           0 |          0 |      90 |
 | Helicopters                                      |          91 |        12 |           0 |          2 |     105 |
 | Unmanned Combat Aerial Vehicles                  |          11 |         0 |           0 |          3 |      14 |
 | Reconnaissance Unmanned Aerial Vehicles          |         162 |         0 |           0 |        124 |     286 |
-| Naval Ships and Submarines                       |           9 |         7 |           0 |          0 |      16 |
+| Naval Ships and Submarines                       |          10 |         6 |           0 |          0 |      16 |
 | Trucks, Vehicles, and Jeeps                      |        2157 |        52 |          51 |        569 |    2829 |
-| total                                            |        8308 |       485 |         455 |       2877 |   12125 |
+| total                                            |        8310 |       484 |         455 |       2877 |   12126 |
