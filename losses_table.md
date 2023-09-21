@@ -3,7 +3,7 @@
 | Tanks                                            |        1515 |       129 |         136 |        551 |    2331 |
 | Armoured Fighting Vehicles                       |         647 |        27 |          36 |        268 |     978 |
 | Infantry Fighting Vehicles                       |        1920 |       110 |         153 |        613 |    2796 |
-| Armoured Personnel Carriers                      |         236 |         9 |          15 |         91 |     351 |
+| Armoured Personnel Carriers                      |         237 |         9 |          15 |         91 |     352 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          33 |         4 |           1 |          9 |      47 |
 | Infantry Mobility Vehicles                       |         149 |         6 |           2 |         51 |     208 |
 | Command Posts And Communications Stations        |         164 |         2 |           2 |         83 |     251 |
@@ -21,7 +21,7 @@
 | Aircraft                                         |          83 |         8 |           0 |          0 |      91 |
 | Helicopters                                      |          91 |        12 |           0 |          2 |     105 |
 | Unmanned Combat Aerial Vehicles                  |          11 |         0 |           0 |          3 |      14 |
-| Reconnaissance Unmanned Aerial Vehicles          |         162 |         0 |           0 |        125 |     287 |
+| Reconnaissance Unmanned Aerial Vehicles          |         162 |         0 |           0 |        127 |     289 |
 | Naval Ships and Submarines                       |          11 |         5 |           0 |          0 |      16 |
-| Trucks, Vehicles, and Jeeps                      |        2168 |        52 |          51 |        569 |    2840 |
-| total                                            |        8388 |       484 |         462 |       2879 |   12213 |
+| Trucks, Vehicles, and Jeeps                      |        2172 |        52 |          51 |        569 |    2844 |
+| total                                            |        8393 |       484 |         462 |       2881 |   12220 |
