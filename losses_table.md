@@ -1,9 +1,9 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1571 |       137 |         146 |        550 |    2404 |
-| Armoured Fighting Vehicles                       |         667 |        29 |          39 |        269 |    1004 |
-| Infantry Fighting Vehicles                       |        2010 |       110 |         152 |        615 |    2887 |
-| Armoured Personnel Carriers                      |         245 |        11 |          17 |         92 |     365 |
+| Tanks                                            |        1580 |       137 |         152 |        550 |    2419 |
+| Armoured Fighting Vehicles                       |         672 |        29 |          39 |        269 |    1009 |
+| Infantry Fighting Vehicles                       |        2043 |       111 |         158 |        615 |    2927 |
+| Armoured Personnel Carriers                      |         246 |        11 |          17 |         92 |     366 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          34 |         4 |           1 |          9 |      48 |
 | Infantry Mobility Vehicles                       |         154 |         7 |           2 |         51 |     214 |
 | Command Posts And Communications Stations        |         166 |         2 |           2 |         83 |     253 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |         171 |         0 |           0 |        128 |     299 |
 | Naval Ships and Submarines                       |          11 |         5 |           0 |          0 |      16 |
 | Trucks, Vehicles, and Jeeps                      |        2243 |        62 |          51 |        573 |    2929 |
-| total                                            |        8759 |       519 |         478 |       2893 |   12649 |
+| total                                            |        8807 |       520 |         490 |       2893 |   12710 |
