@@ -1,27 +1,27 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |        1607 |       139 |         162 |        550 |    2458 |
-| Armoured Fighting Vehicles                       |         688 |        29 |          40 |        269 |    1026 |
-| Infantry Fighting Vehicles                       |        2081 |       115 |         159 |        618 |    2973 |
-| Armoured Personnel Carriers                      |         248 |        11 |          17 |         91 |     367 |
+| Armoured Fighting Vehicles                       |         693 |        30 |          44 |        269 |    1036 |
+| Infantry Fighting Vehicles                       |        2087 |       117 |         167 |        618 |    2989 |
+| Armoured Personnel Carriers                      |         249 |        11 |          17 |         92 |     369 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          35 |         4 |           1 |          9 |      49 |
 | Infantry Mobility Vehicles                       |         160 |         8 |           4 |         51 |     223 |
 | Command Posts And Communications Stations        |         166 |         2 |           2 |         84 |     254 |
-| Engineering Vehicles And Equipment               |         180 |        10 |          42 |        125 |     357 |
+| Engineering Vehicles And Equipment               |         180 |        10 |          43 |        125 |     358 |
 | Self-Propelled Anti-Tank Missile Systems         |          18 |         1 |           4 |         19 |      42 |
 | Artillery Support Vehicles And Equipment         |          55 |         0 |           2 |         52 |     109 |
 | Towed Artillery                                  |         189 |        34 |           5 |        101 |     329 |
-| Self-Propelled Artillery                         |         438 |        32 |           7 |        107 |     584 |
+| Self-Propelled Artillery                         |         439 |        32 |           7 |        107 |     585 |
 | Multiple Rocket Launchers                        |         225 |        21 |           2 |         53 |     301 |
 | Anti-Aircraft Guns                               |           5 |         0 |           0 |         14 |      19 |
 | Self-Propelled Anti-Aircraft Guns                |          14 |         1 |           2 |          8 |      25 |
 | Surface-To-Air Missile Systems                   |         122 |        25 |           4 |         24 |     175 |
-| Radars                                           |          29 |         5 |           0 |          9 |      43 |
+| Radars                                           |          30 |         5 |           0 |          9 |      44 |
 | Jammers And Deception Systems                    |          44 |         7 |           0 |          7 |      58 |
 | Aircraft                                         |          85 |         8 |           0 |          0 |      93 |
 | Helicopters                                      |         102 |        28 |           0 |          2 |     132 |
 | Unmanned Combat Aerial Vehicles                  |          11 |         0 |           0 |          3 |      14 |
 | Reconnaissance Unmanned Aerial Vehicles          |         173 |         0 |           0 |        130 |     303 |
 | Naval Ships and Submarines                       |          11 |         5 |           0 |          0 |      16 |
-| Trucks, Vehicles, and Jeeps                      |        2270 |        65 |          51 |        573 |    2959 |
-| total                                            |        8956 |       550 |         504 |       2899 |   12909 |
+| Trucks, Vehicles, and Jeeps                      |        2271 |        66 |          51 |        573 |    2961 |
+| total                                            |        8971 |       554 |         517 |       2900 |   12942 |
