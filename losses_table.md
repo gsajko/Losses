@@ -1,9 +1,9 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1593 |       138 |         157 |        550 |    2438 |
-| Armoured Fighting Vehicles                       |         689 |        29 |          40 |        269 |    1027 |
-| Infantry Fighting Vehicles                       |        2083 |       115 |         159 |        617 |    2974 |
-| Armoured Personnel Carriers                      |         248 |        11 |          17 |         92 |     368 |
+| Tanks                                            |        1607 |       139 |         162 |        550 |    2458 |
+| Armoured Fighting Vehicles                       |         688 |        29 |          40 |        269 |    1026 |
+| Infantry Fighting Vehicles                       |        2081 |       115 |         159 |        618 |    2973 |
+| Armoured Personnel Carriers                      |         248 |        11 |          17 |         91 |     367 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          35 |         4 |           1 |          9 |      49 |
 | Infantry Mobility Vehicles                       |         160 |         8 |           4 |         51 |     223 |
 | Command Posts And Communications Stations        |         166 |         2 |           2 |         84 |     254 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |         173 |         0 |           0 |        130 |     303 |
 | Naval Ships and Submarines                       |          11 |         5 |           0 |          0 |      16 |
 | Trucks, Vehicles, and Jeeps                      |        2270 |        65 |          51 |        573 |    2959 |
-| total                                            |        8945 |       549 |         499 |       2899 |   12892 |
+| total                                            |        8956 |       550 |         504 |       2899 |   12909 |
