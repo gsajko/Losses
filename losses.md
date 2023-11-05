@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 12948, of which: destroyed: 8971, damaged: 559, abandoned: 516, captured: 2902
+ ### Russia - 13021, of which: destroyed: 9024, damaged: 566, abandoned: 528, captured: 2903
 
  
 
@@ -18,19 +18,19 @@
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (49, of which destroyed: 35, damaged: 4, abandoned: 1, captured: 9)
 
- Infantry Mobility Vehicles (223, of which destroyed: 160, damaged: 8, abandoned: 4, captured: 51)
+ Infantry Mobility Vehicles (224, of which destroyed: 161, damaged: 8, abandoned: 4, captured: 51)
 
- Command Posts And Communications Stations (255, of which destroyed: 167, damaged: 2, abandoned: 2, captured: 84)
+ Command Posts And Communications Stations (256, of which destroyed: 167, damaged: 3, abandoned: 2, captured: 84)
 
- Engineering Vehicles And Equipment (358, of which destroyed: 180, damaged: 10, abandoned: 43, captured: 125)
+ Engineering Vehicles And Equipment (359, of which destroyed: 181, damaged: 10, abandoned: 43, captured: 125)
 
  Self-Propelled Anti-Tank Missile Systems (42, of which destroyed: 18, damaged: 1, abandoned: 4, captured: 19)
 
  Artillery Support Vehicles And Equipment (109, of which destroyed: 55, abandoned: 2, captured: 52)
 
- Towed Artillery (332, of which destroyed: 191, damaged: 35, abandoned: 5, captured: 101)
+ Towed Artillery (333, of which destroyed: 192, damaged: 35, abandoned: 5, captured: 101)
 
- Self-Propelled Artillery (586, of which destroyed: 440, damaged: 32, abandoned: 7, captured: 107)
+ Self-Propelled Artillery (591, of which destroyed: 445, damaged: 32, abandoned: 7, captured: 107)
 
  Multiple Rocket Launchers (303, of which destroyed: 226, damaged: 22, abandoned: 2, captured: 53)
 
@@ -50,9 +50,9 @@
 
  Unmanned Combat Aerial Vehicles (14, of which destroyed: 11, captured: 3)
 
- Reconnaissance Unmanned Aerial Vehicles (303, of which destroyed: 173, captured: 130)
+ Reconnaissance Unmanned Aerial Vehicles (306, of which destroyed: 175, captured: 131)
 
  Naval Ships and Submarines (16, of which destroyed: 11, damaged: 5)
 
- Trucks, Vehicles, and Jeeps (2964, of which destroyed: 2274, damaged: 66, abandoned: 51, captured: 573)
+ Trucks, Vehicles, and Jeeps (2967, of which destroyed: 2277, damaged: 66, abandoned: 51, captured: 573)
 
