@@ -42,7 +42,7 @@
 
  Radars (48, of which destroyed: 31, damaged: 5, captured: 9)
 
- Jammers And Deception Systems (62, of which destroyed: 46, damaged: 9, captured: 7)
+ Jammers And Deception Systems (63, of which destroyed: 47, damaged: 9, captured: 7)
 
  Aircraft (94, of which destroyed: 86, damaged: 8)
 
