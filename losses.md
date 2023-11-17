@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 13082, of which: destroyed: 9083, damaged: 569, abandoned: 530, captured: 2900
+ ### Russia - 13139, of which: destroyed: 9126, damaged: 573, abandoned: 537, captured: 2903
 
  
 
@@ -18,11 +18,11 @@
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (49, of which destroyed: 35, damaged: 4, abandoned: 1, captured: 9)
 
- Infantry Mobility Vehicles (224, of which destroyed: 161, damaged: 8, abandoned: 4, captured: 51)
+ Infantry Mobility Vehicles (225, of which destroyed: 161, damaged: 9, abandoned: 4, captured: 51)
 
  Command Posts And Communications Stations (258, of which destroyed: 169, damaged: 3, abandoned: 2, captured: 84)
 
- Engineering Vehicles And Equipment (363, of which destroyed: 184, damaged: 10, abandoned: 44, captured: 125)
+ Engineering Vehicles And Equipment (364, of which destroyed: 185, damaged: 10, abandoned: 44, captured: 125)
 
  Self-Propelled Anti-Tank Missile Systems (42, of which destroyed: 18, damaged: 1, abandoned: 4, captured: 19)
 
@@ -38,9 +38,9 @@
 
  Self-Propelled Anti-Aircraft Guns (25, of which destroyed: 14, damaged: 1, abandoned: 2, captured: 8)
 
- Surface-To-Air Missile Systems (178, of which destroyed: 125, damaged: 25, abandoned: 4, captured: 24)
+ Surface-To-Air Missile Systems (180, of which destroyed: 126, damaged: 26, abandoned: 4, captured: 24)
 
- Radars (48, of which destroyed: 31, damaged: 5, captured: 9)
+ Radars (49, of which destroyed: 31, damaged: 5, captured: 10)
 
  Jammers And Deception Systems (63, of which destroyed: 47, damaged: 9, captured: 7)
 
@@ -50,9 +50,9 @@
 
  Unmanned Combat Aerial Vehicles (14, of which destroyed: 11, captured: 3)
 
- Reconnaissance Unmanned Aerial Vehicles (308, of which destroyed: 177, captured: 131)
+ Reconnaissance Unmanned Aerial Vehicles (311, of which destroyed: 179, captured: 132)
 
  Naval Ships and Submarines (19, of which destroyed: 12, damaged: 7)
 
- Trucks, Vehicles, and Jeeps (2983, of which destroyed: 2291, damaged: 68, abandoned: 51, captured: 573)
+ Trucks, Vehicles, and Jeeps (2989, of which destroyed: 2297, damaged: 68, abandoned: 51, captured: 573)
 
