@@ -2,12 +2,12 @@
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |        1642 |       139 |         176 |        548 |    2505 |
 | Armoured Fighting Vehicles                       |         728 |        30 |          48 |        270 |    1076 |
-| Infantry Fighting Vehicles                       |        2147 |       122 |         176 |        619 |    3064 |
+| Infantry Fighting Vehicles                       |        2147 |       123 |         176 |        619 |    3065 |
 | Armoured Personnel Carriers                      |         251 |        13 |          18 |         92 |     374 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          35 |         4 |           1 |          9 |      49 |
 | Infantry Mobility Vehicles                       |         162 |         9 |           4 |         51 |     226 |
 | Command Posts And Communications Stations        |         169 |         3 |           2 |         84 |     258 |
-| Engineering Vehicles And Equipment               |         187 |        10 |          44 |        125 |     366 |
+| Engineering Vehicles And Equipment               |         187 |        11 |          44 |        125 |     367 |
 | Self-Propelled Anti-Tank Missile Systems         |          18 |         1 |           4 |         19 |      42 |
 | Artillery Support Vehicles And Equipment         |          55 |         0 |           2 |         53 |     110 |
 | Towed Artillery                                  |         192 |        34 |           5 |        100 |     331 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |         179 |         0 |           0 |        132 |     311 |
 | Naval Ships and Submarines                       |          12 |         7 |           0 |          0 |      19 |
 | Trucks, Vehicles, and Jeeps                      |        2312 |        70 |          51 |        575 |    3008 |
-| total                                            |        9208 |       577 |         546 |       2905 |   13236 |
+| total                                            |        9208 |       579 |         546 |       2905 |   13238 |
