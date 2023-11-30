@@ -8,13 +8,13 @@
 
  
 
- Tanks (2504, of which destroyed: 1641, damaged: 139, abandoned: 176, captured: 548)
+ Tanks (2505, of which destroyed: 1642, damaged: 139, abandoned: 176, captured: 548)
 
  Armoured Fighting Vehicles (1076, of which destroyed: 728, damaged: 30, abandoned: 48, captured: 270)
 
  Infantry Fighting Vehicles (3064, of which destroyed: 2147, damaged: 122, abandoned: 176, captured: 619)
 
- Armoured Personnel Carriers (373, of which destroyed: 251, damaged: 11, abandoned: 18, captured: 92)
+ Armoured Personnel Carriers (375, of which destroyed: 251, damaged: 13, abandoned: 18, captured: 92)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (49, of which destroyed: 35, damaged: 4, abandoned: 1, captured: 9)
 
@@ -22,7 +22,7 @@
 
  Command Posts And Communications Stations (258, of which destroyed: 169, damaged: 3, abandoned: 2, captured: 84)
 
- Engineering Vehicles And Equipment (365, of which destroyed: 186, damaged: 10, abandoned: 44, captured: 125)
+ Engineering Vehicles And Equipment (366, of which destroyed: 187, damaged: 10, abandoned: 44, captured: 125)
 
  Self-Propelled Anti-Tank Missile Systems (42, of which destroyed: 18, damaged: 1, abandoned: 4, captured: 19)
 
@@ -30,15 +30,15 @@
 
  Towed Artillery (331, of which destroyed: 192, damaged: 34, abandoned: 5, captured: 100)
 
- Self-Propelled Artillery (607, of which destroyed: 460, damaged: 33, abandoned: 7, captured: 107)
+ Self-Propelled Artillery (609, of which destroyed: 462, damaged: 33, abandoned: 7, captured: 107)
 
- Multiple Rocket Launchers (312, of which destroyed: 231, damaged: 24, abandoned: 2, captured: 53)
+ Multiple Rocket Launchers (313, of which destroyed: 232, damaged: 24, abandoned: 2, captured: 53)
 
  Anti-Aircraft Guns (20, of which destroyed: 6, captured: 14)
 
  Self-Propelled Anti-Aircraft Guns (25, of which destroyed: 14, damaged: 1, abandoned: 2, captured: 8)
 
- Surface-To-Air Missile Systems (181, of which destroyed: 127, damaged: 26, abandoned: 4, captured: 24)
+ Surface-To-Air Missile Systems (183, of which destroyed: 128, damaged: 27, abandoned: 4, captured: 24)
 
  Radars (49, of which destroyed: 31, damaged: 5, captured: 10)
 
