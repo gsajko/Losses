@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 13351, of which: destroyed: 9289, damaged: 600, abandoned: 557, captured: 2905
+ ### Russia - 13341, of which: destroyed: 9280, damaged: 600, abandoned: 556, captured: 2905
 
  
 
