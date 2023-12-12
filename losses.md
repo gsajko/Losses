@@ -2,23 +2,23 @@
  
  ## Russia
  
- ### Russia - 13370, of which: destroyed: 9299, damaged: 601, abandoned: 564, captured: 2906
+ ### Russia - 13442, of which: destroyed: 9349, damaged: 602, abandoned: 585, captured: 2906
 
  
 
  
 
- Tanks (2547, of which destroyed: 1666, damaged: 141, abandoned: 192, captured: 548)
+ Tanks (2548, of which destroyed: 1667, damaged: 141, abandoned: 192, captured: 548)
 
  Armoured Fighting Vehicles (1086, of which destroyed: 735, damaged: 31, abandoned: 50, captured: 270)
 
- Infantry Fighting Vehicles (3122, of which destroyed: 2190, damaged: 126, abandoned: 187, captured: 619)
+ Infantry Fighting Vehicles (3145, of which destroyed: 2202, damaged: 125, abandoned: 199, captured: 619)
 
- Armoured Personnel Carriers (384, of which destroyed: 258 damaged: 14, abandoned: 19, captured: 92)
+ Armoured Personnel Carriers (388, of which destroyed: 262 damaged: 14, abandoned: 19, captured: 92)
 
- Mine-Resistant Ambush Protected (MRAP) Vehicles (49, of which destroyed: 35, damaged: 4, abandoned: 1, captured: 9)
+ Mine-Resistant Ambush Protected (MRAP) Vehicles (50, of which destroyed: 36, damaged: 4, abandoned: 1, captured: 9)
 
- Infantry Mobility Vehicles (228, of which destroyed: 163, damaged: 10, abandoned: 4, captured: 51)
+ Infantry Mobility Vehicles (230, of which destroyed: 165, damaged: 10, abandoned: 4, captured: 51)
 
  Command Posts And Communications Stations (260, of which destroyed: 171, damaged: 3, abandoned: 2, captured: 84)
 
@@ -46,7 +46,7 @@
 
  Aircraft (95, of which destroyed: 87, damaged: 8)
 
- Helicopters (132, of which destroyed: 102, damaged: 28, captured: 2)
+ Helicopters (133, of which destroyed: 103, damaged: 28, captured: 2)
 
  Unmanned Combat Aerial Vehicles (14, of which destroyed: 11, captured: 3)
 
@@ -54,5 +54,5 @@
 
  Naval Ships and Submarines (19, of which destroyed: 12, damaged: 7)
 
- Trucks, Vehicles, and Jeeps (3017, of which destroyed: 2320, damaged: 71, abandoned: 51, captured: 575)
+ Trucks, Vehicles, and Jeeps (3021, of which destroyed: 2324, damaged: 71, abandoned: 51, captured: 575)
 
