@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |        1679 |       143 |         195 |        546 |    2563 |
-| Armoured Fighting Vehicles                       |         738 |        31 |          51 |        270 |    1090 |
-| Infantry Fighting Vehicles                       |        2215 |       125 |         203 |        617 |    3160 |
+| Armoured Fighting Vehicles                       |         739 |        31 |          52 |        270 |    1092 |
+| Infantry Fighting Vehicles                       |        2215 |       125 |         205 |        617 |    3162 |
 | Armoured Personnel Carriers                      |         262 |        12 |          19 |         92 |     385 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          36 |         4 |           1 |          9 |      50 |
 | Infantry Mobility Vehicles                       |         165 |        10 |           6 |         51 |     232 |
@@ -11,17 +11,17 @@
 | Self-Propelled Anti-Tank Missile Systems         |          17 |         1 |           4 |         19 |      41 |
 | Artillery Support Vehicles And Equipment         |          56 |         0 |           2 |         53 |     111 |
 | Towed Artillery                                  |         194 |        35 |           5 |        100 |     334 |
-| Self-Propelled Artillery                         |         479 |        36 |           7 |        107 |     629 |
+| Self-Propelled Artillery                         |         480 |        36 |           7 |        107 |     630 |
 | Multiple Rocket Launchers                        |         241 |        26 |           2 |         53 |     322 |
 | Anti-Aircraft Guns                               |          26 |         0 |           0 |         17 |      43 |
 | Self-Propelled Anti-Aircraft Guns                |          14 |         1 |           2 |          8 |      25 |
-| Surface-To-Air Missile Systems                   |         131 |        30 |           4 |         24 |     189 |
-| Radars                                           |          31 |         5 |           0 |         10 |      46 |
-| Jammers And Deception Systems                    |          47 |        10 |           0 |          7 |      64 |
+| Surface-To-Air Missile Systems                   |         133 |        30 |           4 |         24 |     191 |
+| Radars                                           |          32 |         5 |           0 |         10 |      47 |
+| Jammers And Deception Systems                    |          48 |        10 |           0 |          7 |      65 |
 | Aircraft                                         |          88 |         8 |           0 |          0 |      96 |
 | Helicopters                                      |         103 |        28 |           0 |          2 |     133 |
 | Unmanned Combat Aerial Vehicles                  |          11 |         0 |           0 |          3 |      14 |
 | Reconnaissance Unmanned Aerial Vehicles          |         178 |         0 |           0 |        132 |     310 |
 | Naval Ships and Submarines                       |          12 |         7 |           0 |          0 |      19 |
 | Trucks, Vehicles, and Jeeps                      |        2314 |        72 |          51 |        572 |    3009 |
-| total                                            |        9399 |       598 |         599 |       2900 |   13496 |
+| total                                            |        9405 |       598 |         602 |       2900 |   13505 |
