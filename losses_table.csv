@@ -1,12 +1,12 @@
  Russian Losses                                   ,   destroyed ,   damaged ,   abandoned ,   captured ,   total 
  Tanks                                            ,        1694 ,       144 ,         195 ,        546 ,    2579 
  Armoured Fighting Vehicles                       ,         742 ,        31 ,          52 ,        270 ,    1095 
- Infantry Fighting Vehicles                       ,        2230 ,       126 ,         207 ,        617 ,    3180 
+ Infantry Fighting Vehicles                       ,        2230 ,       126 ,         206 ,        617 ,    3179 
  Armoured Personnel Carriers                      ,         263 ,        12 ,          19 ,         92 ,     386 
  Mine-Resistant Ambush Protected  (MRAP) Vehicles ,          37 ,         4 ,           1 ,          9 ,      51 
  Infantry Mobility Vehicles                       ,         165 ,        10 ,           6 ,         51 ,     232 
- Command Posts And Communications Stations        ,         174 ,         3 ,           2 ,         84 ,     263 
- Engineering Vehicles And Equipment               ,         190 ,        11 ,          45 ,        124 ,     370 
+ Command Posts And Communications Stations        ,         175 ,         3 ,           2 ,         83 ,     263 
+ Engineering Vehicles And Equipment               ,         189 ,        12 ,          44 ,        124 ,     369 
  Self-Propelled Anti-Tank Missile Systems         ,          18 ,         1 ,           4 ,         19 ,      42 
  Artillery Support Vehicles And Equipment         ,          57 ,         0 ,           2 ,         53 ,     112 
  Towed Artillery                                  ,         194 ,        37 ,           5 ,        100 ,     336 
@@ -23,4 +23,4 @@
  Reconnaissance Unmanned Aerial Vehicles          ,         179 ,         0 ,           0 ,        132 ,     311 
  Naval Ships and Submarines                       ,          12 ,         7 ,           0 ,          0 ,      19 
 " Trucks, Vehicles, and Jeeps                      ",        2335 ,        74 ,          50 ,        573 ,    3032 
- total                                            ,        9482 ,       604 ,         603 ,       2901 ,   13590 
+ total                                            ,        9482 ,       605 ,         601 ,       2900 ,   13588 
