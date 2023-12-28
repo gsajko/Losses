@@ -16,7 +16,7 @@
 
  Armoured Personnel Carriers (390, of which destroyed: 265 damaged: 13, abandoned: 19, captured: 92)
 
- Mine-Resistant Ambush Protected (MRAP) Vehicles (52, of which destroyed: 38, damaged: 4, abandoned: 1, captured: 9)
+ Mine-Resistant Ambush Protected (MRAP) Vehicles (52, of which destroyed: 37, damaged: 4, abandoned: 1, captured: 10)
 
  Infantry Mobility Vehicles (232, of which destroyed: 165, damaged: 10, abandoned: 6, captured: 51)
 
