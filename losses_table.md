@@ -2,7 +2,7 @@
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |        1699 |       145 |         195 |        546 |    2585 |
 | Armoured Fighting Vehicles                       |         746 |        31 |          58 |        270 |    1105 |
-| Infantry Fighting Vehicles                       |        2263 |       128 |         213 |        617 |    3221 |
+| Infantry Fighting Vehicles                       |        2263 |       129 |         213 |        617 |    3222 |
 | Armoured Personnel Carriers                      |         265 |        13 |          19 |         92 |     389 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          38 |         4 |           1 |          9 |      52 |
 | Infantry Mobility Vehicles                       |         165 |        10 |           6 |         51 |     232 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |         180 |         0 |           0 |        132 |     312 |
 | Naval Ships and Submarines                       |          12 |         7 |           0 |          0 |      19 |
 | Trucks, Vehicles, and Jeeps                      |        2337 |        74 |          50 |        573 |    3034 |
-| total                                            |        9534 |       609 |         614 |       2900 |   13657 |
+| total                                            |        9534 |       610 |         614 |       2900 |   13658 |
