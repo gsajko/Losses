@@ -2,17 +2,17 @@
  
  ## Russia
  
- ### Russia - 13683, of which: destroyed: 9545, damaged: 618, abandoned: 617, captured: 2903
+ ### Russia - 13728, of which: destroyed: 9581, damaged: 621, abandoned: 622, captured: 2904
 
  
 
  
 
- Tanks (2603, of which destroyed: 1710, damaged: 146, abandoned: 203, captured: 544)
+ Tanks (2608, of which destroyed: 1713, damaged: 146, abandoned: 205, captured: 544)
 
- Armoured Fighting Vehicles (1108, of which destroyed: 747, damaged: 31, abandoned: 60, captured: 270)
+ Armoured Fighting Vehicles (1113, of which destroyed: 752, damaged: 31, abandoned: 60, captured: 270)
 
- Infantry Fighting Vehicles (3180, of which destroyed: 2264, damaged: 128, abandoned: 215, captured: 617)
+ Infantry Fighting Vehicles (3211, of which destroyed: 2254, damaged: 129, abandoned: 211, captured: 617)
 
  Armoured Personnel Carriers (389, of which destroyed: 264 damaged: 13, abandoned: 19, captured: 92)
 
@@ -22,7 +22,7 @@
 
  Command Posts And Communications Stations (264, of which destroyed: 176, damaged: 3, abandoned: 2, captured: 83)
 
- Engineering Vehicles And Equipment (370, of which destroyed: 190, damaged: 12, abandoned: 44, captured: 124)
+ Engineering Vehicles And Equipment (371, of which destroyed: 191, damaged: 12, abandoned: 44, captured: 124)
 
  Self-Propelled Anti-Tank Missile Systems (43, of which destroyed: 18, damaged: 1, abandoned: 4, captured: 20)
 
@@ -34,7 +34,7 @@
 
  Multiple Rocket Launchers (328, of which destroyed: 247, damaged: 26, abandoned: 2, captured: 53)
 
- Anti-Aircraft Guns (43, of which destroyed: 26, captured: 17)
+ Anti-Aircraft Guns (44, of which destroyed: 27, captured: 17)
 
  Self-Propelled Anti-Aircraft Guns (26, of which destroyed: 15, damaged: 1, abandoned: 2, captured: 8)
 
@@ -54,5 +54,5 @@
 
  Naval Ships and Submarines (20, of which destroyed: 13, damaged: 7)
 
- Trucks, Vehicles, and Jeeps (3043, of which destroyed: 2346, damaged: 74, abandoned: 50, captured: 573)
+ Trucks, Vehicles, and Jeeps (3060, of which destroyed: 2361, damaged: 74, abandoned: 50, captured: 575)
 
