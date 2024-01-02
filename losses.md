@@ -8,7 +8,7 @@
 
  
 
- Tanks (2608, of which destroyed: 1713, damaged: 146, abandoned: 205, captured: 544)
+ Tanks (2607, of which destroyed: 1713, damaged: 145, abandoned: 205, captured: 544)
 
  Armoured Fighting Vehicles (1113, of which destroyed: 752, damaged: 31, abandoned: 60, captured: 270)
 
