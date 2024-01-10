@@ -1,11 +1,11 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1729 |       145 |         207 |        544 |    2625 |
+| Tanks                                            |        1728 |       145 |         207 |        544 |    2624 |
 | Armoured Fighting Vehicles                       |         757 |        31 |          61 |        271 |    1120 |
-| Infantry Fighting Vehicles                       |        2290 |       131 |         217 |        618 |    3256 |
+| Infantry Fighting Vehicles                       |        2289 |       131 |         217 |        618 |    3255 |
 | Armoured Personnel Carriers                      |         264 |        13 |          19 |         92 |     388 |
-| Mine-Resistant Ambush Protected  (MRAP) Vehicles |          36 |         4 |           1 |         10 |      51 |
-| Infantry Mobility Vehicles                       |         167 |        11 |           5 |         51 |     234 |
+| Mine-Resistant Ambush Protected  (MRAP) Vehicles |          35 |         4 |           1 |         10 |      50 |
+| Infantry Mobility Vehicles                       |         166 |        12 |           5 |         51 |     234 |
 | Command Posts And Communications Stations        |         177 |         3 |           2 |         82 |     264 |
 | Engineering Vehicles And Equipment               |         191 |        13 |          44 |        124 |     372 |
 | Self-Propelled Anti-Tank Missile Systems         |          18 |         1 |           4 |         20 |      43 |
@@ -23,5 +23,5 @@
 | Unmanned Combat Aerial Vehicles                  |          11 |         0 |           0 |          3 |      14 |
 | Reconnaissance Unmanned Aerial Vehicles          |         181 |         0 |           0 |        133 |     314 |
 | Naval Ships and Submarines                       |          13 |         7 |           0 |          0 |      20 |
-| Trucks, Vehicles, and Jeeps                      |        2372 |        74 |          47 |        575 |    3068 |
-| total                                            |        9671 |       618 |         629 |       2904 |   13822 |
+| Trucks, Vehicles, and Jeeps                      |        2372 |        74 |          47 |        574 |    3067 |
+| total                                            |        9667 |       619 |         629 |       2903 |   13818 |
