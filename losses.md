@@ -2,13 +2,13 @@
  
  ## Russia
  
- ### Russia - 14082, of which: destroyed: 9834, damaged: 640, abandoned: 676, captured: 2932
+ ### Russia - 14081, of which: destroyed: 9834, damaged: 640, abandoned: 675, captured: 2932
 
  
 
  
 
- Tanks (2662, of which destroyed: 1745, damaged: 148, abandoned: 228, captured: 541)
+ Tanks (2661, of which destroyed: 1745, damaged: 148, abandoned: 227, captured: 541)
 
  Armoured Fighting Vehicles (1144, of which destroyed: 763, damaged: 32, abandoned: 74, captured: 271)
 
@@ -40,7 +40,7 @@
 
  Surface-To-Air Missile Systems (202, of which destroyed: 144, damaged: 30, abandoned: 4, captured: 24)
 
- Radars (58, of which destroyed: 38, damaged: 10, captured: 10)
+ Radars (60, of which destroyed: 39, damaged: 11, captured: 10)
 
  Jammers And Deception Systems (70, of which destroyed: 52, damaged: 11, captured: 7)
 
