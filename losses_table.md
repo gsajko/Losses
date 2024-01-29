@@ -1,9 +1,9 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |        1746 |       149 |         229 |        541 |    2665 |
-| Armoured Fighting Vehicles                       |         773 |        32 |          79 |        271 |    1155 |
-| Infantry Fighting Vehicles                       |        2333 |       131 |         239 |        621 |    3324 |
-| Armoured Personnel Carriers                      |         262 |        14 |          22 |         93 |     391 |
+| Armoured Fighting Vehicles                       |         774 |        32 |          79 |        271 |    1156 |
+| Infantry Fighting Vehicles                       |        2333 |       131 |         238 |        621 |    3323 |
+| Armoured Personnel Carriers                      |         261 |        14 |          23 |         93 |     391 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          36 |         5 |           1 |         10 |      52 |
 | Infantry Mobility Vehicles                       |         167 |        12 |           5 |         51 |     235 |
 | Command Posts And Communications Stations        |         179 |         4 |           2 |         83 |     268 |
@@ -23,5 +23,5 @@
 | Unmanned Combat Aerial Vehicles                  |          11 |         0 |           0 |          3 |      14 |
 | Reconnaissance Unmanned Aerial Vehicles          |         182 |         0 |           0 |        136 |     318 |
 | Naval Ships and Submarines                       |          13 |         7 |           0 |          0 |      20 |
-| Trucks, Vehicles, and Jeeps                      |        2406 |        76 |          46 |        573 |    3101 |
-| total                                            |        9865 |       642 |         679 |       2932 |   14118 |
+| Trucks, Vehicles, and Jeeps                      |        2402 |        76 |          46 |        573 |    3097 |
+| total                                            |        9861 |       642 |         679 |       2932 |   14114 |
