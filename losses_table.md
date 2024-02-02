@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1768 |       149 |         243 |        541 |    2701 |
-| Armoured Fighting Vehicles                       |         794 |        32 |          81 |        271 |    1178 |
-| Infantry Fighting Vehicles                       |        2353 |       132 |         253 |        621 |    3359 |
+| Tanks                                            |        1769 |       149 |         241 |        541 |    2700 |
+| Armoured Fighting Vehicles                       |         789 |        32 |          83 |        271 |    1175 |
+| Infantry Fighting Vehicles                       |        2353 |       132 |         252 |        621 |    3358 |
 | Armoured Personnel Carriers                      |         262 |        14 |          23 |         93 |     392 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          36 |         5 |           1 |         10 |      52 |
 | Infantry Mobility Vehicles                       |         168 |        12 |           5 |         51 |     236 |
@@ -23,5 +23,5 @@
 | Unmanned Combat Aerial Vehicles                  |          11 |         0 |           0 |          3 |      14 |
 | Reconnaissance Unmanned Aerial Vehicles          |         183 |         0 |           0 |        137 |     320 |
 | Naval Ships and Submarines                       |          14 |         7 |           0 |          0 |      21 |
-| Trucks, Vehicles, and Jeeps                      |        2417 |        77 |          46 |        574 |    3114 |
-| total                                            |        9951 |       644 |         710 |       2934 |   14239 |
+| Trucks, Vehicles, and Jeeps                      |        2414 |        77 |          46 |        574 |    3111 |
+| total                                            |        9944 |       644 |         709 |       2934 |   14231 |
