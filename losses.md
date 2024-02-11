@@ -22,7 +22,7 @@
 
  Command Posts And Communications Stations (269, of which destroyed: 180, damaged: 4, abandoned: 2, captured: 83)
 
- Engineering Vehicles And Equipment (437, of which destroyed: 240, damaged: 15, abandoned: 33, captured: 149)
+ Engineering Vehicles And Equipment (437, of which destroyed: 239, damaged: 15, abandoned: 33, captured: 150)
 
  Self-Propelled Anti-Tank Missile Systems (43, of which destroyed: 18, damaged: 1, abandoned: 4, captured: 20)
 
@@ -54,5 +54,5 @@
 
  Naval Ships and Submarines (21, of which destroyed: 14, damaged: 7)
 
- Trucks, Vehicles, and Jeeps (3117, of which destroyed: 2420, damaged: 77, abandoned: 46, captured: 574)
+ Trucks, Vehicles, and Jeeps (3116, of which destroyed: 2419, damaged: 77, abandoned: 46, captured: 574)
 
