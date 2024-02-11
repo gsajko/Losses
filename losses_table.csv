@@ -1,8 +1,8 @@
  Russian Losses                                   ,   destroyed ,   damaged ,   abandoned ,   captured ,   total 
- Tanks                                            ,        1785 ,       149 ,         253 ,        542 ,    2729 
- Armoured Fighting Vehicles                       ,         799 ,        32 ,          88 ,        271 ,    1190 
- Infantry Fighting Vehicles                       ,        2376 ,       134 ,         256 ,        622 ,    3388 
- Armoured Personnel Carriers                      ,         263 ,        15 ,          24 ,         93 ,     395 
+ Tanks                                            ,        1783 ,       149 ,         253 ,        542 ,    2727 
+ Armoured Fighting Vehicles                       ,         796 ,        32 ,          88 ,        271 ,    1187 
+ Infantry Fighting Vehicles                       ,        2375 ,       134 ,         256 ,        622 ,    3387 
+ Armoured Personnel Carriers                      ,         262 ,        15 ,          23 ,         93 ,     393 
  Mine-Resistant Ambush Protected  (MRAP) Vehicles ,          37 ,         5 ,           1 ,         10 ,      53 
  Infantry Mobility Vehicles                       ,         166 ,        12 ,           5 ,         51 ,     234 
  Command Posts And Communications Stations        ,         180 ,         4 ,           2 ,         83 ,     269 
@@ -22,5 +22,5 @@
  Unmanned Combat Aerial Vehicles                  ,          11 ,         0 ,           0 ,          3 ,      14 
  Reconnaissance Unmanned Aerial Vehicles          ,         186 ,         0 ,           0 ,        137 ,     323 
  Naval Ships and Submarines                       ,          14 ,         7 ,           0 ,          0 ,      21 
-" Trucks, Vehicles, and Jeeps                      ",        2421 ,        77 ,          46 ,        574 ,    3118 
- total                                            ,       10012 ,       650 ,         734 ,       2936 ,   14332 
+" Trucks, Vehicles, and Jeeps                      ",        2420 ,        77 ,          46 ,        574 ,    3117 
+ total                                            ,       10004 ,       650 ,         733 ,       2936 ,   14323 
