@@ -30,7 +30,7 @@
 
  Towed Artillery (344, of which destroyed: 199, damaged: 41, abandoned: 5, captured: 99)
 
- Self-Propelled Artillery (671, of which destroyed: 519, damaged: 38, abandoned: 7, captured: 107)
+ Self-Propelled Artillery (673, of which destroyed: 521, damaged: 38, abandoned: 7, captured: 107)
 
  Multiple Rocket Launchers (347, of which destroyed: 261, damaged: 30, abandoned: 2, captured: 54)
 
