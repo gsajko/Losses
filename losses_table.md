@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        1801 |       147 |         265 |        539 |    2752 |
+| Tanks                                            |        1801 |       147 |         267 |        539 |    2754 |
 | Armoured Fighting Vehicles                       |         817 |        34 |          94 |        269 |    1214 |
-| Infantry Fighting Vehicles                       |        2445 |       139 |         266 |        619 |    3469 |
+| Infantry Fighting Vehicles                       |        2448 |       139 |         268 |        619 |    3474 |
 | Armoured Personnel Carriers                      |         268 |        17 |          21 |         93 |     399 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          37 |         5 |           1 |         10 |      53 |
 | Infantry Mobility Vehicles                       |         167 |        14 |           3 |         51 |     235 |
@@ -21,7 +21,7 @@
 | Aircraft                                         |          96 |         8 |           0 |          0 |     104 |
 | Helicopters                                      |         103 |        30 |           0 |          2 |     135 |
 | Unmanned Combat Aerial Vehicles                  |          11 |         0 |           0 |          3 |      14 |
-| Reconnaissance Unmanned Aerial Vehicles          |         188 |         0 |           0 |        138 |     326 |
+| Reconnaissance Unmanned Aerial Vehicles          |         189 |         0 |           0 |        138 |     327 |
 | Naval Ships and Submarines                       |          15 |         5 |           0 |          0 |      20 |
 | Trucks, Vehicles, and Jeeps                      |        2426 |        80 |          46 |        571 |    3123 |
-| total                                            |       10151 |       666 |         758 |       2932 |   14507 |
+| total                                            |       10155 |       666 |         762 |       2932 |   14515 |
