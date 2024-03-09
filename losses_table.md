@@ -2,8 +2,8 @@
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Tanks                                            |        1840 |       149 |         277 |        537 |    2803 |
 | Armoured Fighting Vehicles                       |         846 |        34 |          95 |        268 |    1243 |
-| Infantry Fighting Vehicles                       |        2531 |       140 |         273 |        620 |    3564 |
-| Armoured Personnel Carriers                      |         270 |        18 |          25 |         93 |     406 |
+| Infantry Fighting Vehicles                       |        2530 |       140 |         273 |        620 |    3563 |
+| Armoured Personnel Carriers                      |         270 |        18 |          26 |         93 |     407 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          37 |         5 |           1 |         10 |      53 |
 | Infantry Mobility Vehicles                       |         168 |        14 |           3 |         51 |     236 |
 | Command Posts And Communications Stations        |         183 |         4 |           2 |         85 |     274 |
@@ -17,11 +17,11 @@
 | Self-Propelled Anti-Aircraft Guns                |          14 |         1 |           2 |          8 |      25 |
 | Surface-To-Air Missile Systems                   |         153 |        31 |           4 |         24 |     212 |
 | Radars                                           |          40 |        12 |           0 |         10 |      62 |
-| Jammers And Deception Systems                    |          55 |        11 |           0 |          8 |      74 |
+| Jammers And Deception Systems                    |          56 |        11 |           0 |          8 |      75 |
 | Aircraft                                         |          97 |         8 |           0 |          0 |     105 |
 | Helicopters                                      |         103 |        30 |           0 |          2 |     135 |
 | Unmanned Combat Aerial Vehicles                  |          11 |         0 |           0 |          3 |      14 |
 | Reconnaissance Unmanned Aerial Vehicles          |         196 |         0 |           0 |        140 |     336 |
 | Naval Ships and Submarines                       |          16 |         5 |           0 |          0 |      21 |
 | Trucks, Vehicles, and Jeeps                      |        2436 |        81 |          46 |        571 |    3134 |
-| total                                            |       10345 |       674 |         782 |       2936 |   14737 |
+| total                                            |       10345 |       674 |         783 |       2936 |   14738 |
