@@ -3,11 +3,11 @@
 | Tanks                                            |        1859 |       150 |         284 |        537 |    2830 |
 | Armoured Fighting Vehicles                       |         857 |        34 |         102 |        268 |    1261 |
 | Infantry Fighting Vehicles                       |        2575 |       141 |         290 |        620 |    3626 |
-| Armoured Personnel Carriers                      |         269 |        18 |          26 |         93 |     406 |
+| Armoured Personnel Carriers                      |         271 |        18 |          27 |         93 |     409 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          37 |         5 |           1 |         10 |      53 |
 | Infantry Mobility Vehicles                       |         169 |        14 |           3 |         51 |     237 |
 | Command Posts And Communications Stations        |         183 |         4 |           2 |         85 |     274 |
-| Engineering Vehicles And Equipment               |         240 |        16 |          34 |        152 |     442 |
+| Engineering Vehicles And Equipment               |         242 |        17 |          34 |        152 |     445 |
 | Self-Propelled Anti-Tank Missile Systems         |          18 |         1 |           4 |         21 |      44 |
 | Artillery Support Vehicles And Equipment         |          60 |         0 |           2 |         54 |     116 |
 | Towed Artillery                                  |         203 |        42 |           5 |        100 |     350 |
@@ -24,4 +24,4 @@
 | Reconnaissance Unmanned Aerial Vehicles          |         196 |         0 |           0 |        140 |     336 |
 | Naval Ships and Submarines                       |          16 |         5 |           0 |          0 |      21 |
 | Trucks, Vehicles, and Jeeps                      |        2445 |        81 |          47 |        571 |    3144 |
-| total                                            |       10439 |       676 |         815 |       2937 |   14867 |
+| total                                            |       10443 |       677 |         816 |       2937 |   14873 |
