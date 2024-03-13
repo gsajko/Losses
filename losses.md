@@ -14,7 +14,7 @@
 
  Infantry Fighting Vehicles (3589, of which destroyed: 2547, damaged: 141, abandoned: 281, captured: 620)
 
- Armoured Personnel Carriers (407, of which destroyed: 270, damaged: 18, abandoned: 26, captured: 93)
+ Armoured Personnel Carriers (406, of which destroyed: 269, damaged: 18, abandoned: 26, captured: 93)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (53, of which destroyed: 37, damaged: 5, abandoned: 1, captured: 10)
 
