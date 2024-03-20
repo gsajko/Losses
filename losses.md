@@ -14,15 +14,15 @@
 
  Infantry Fighting Vehicles (3620, of which destroyed: 2577, damaged: 139, abandoned: 284, captured: 620)
 
- Armoured Personnel Carriers (409, of which destroyed: 272, damaged: 18, abandoned: 26, captured: 93)
+ Armoured Personnel Carriers (417, of which destroyed: 279, damaged: 18, abandoned: 27, captured: 93)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (53, of which destroyed: 37, damaged: 5, abandoned: 1, captured: 10)
 
- Infantry Mobility Vehicles (238, of which destroyed: 170, damaged: 14, abandoned: 3, captured: 51)
+ Infantry Mobility Vehicles (239, of which destroyed: 171, damaged: 14, abandoned: 3, captured: 51)
 
  Command Posts And Communications Stations (274, of which destroyed: 183, damaged: 4, abandoned: 2, captured: 85)
 
- Engineering Vehicles And Equipment (445, of which destroyed: 242, damaged: 17, abandoned: 34, captured: 152)
+ Engineering Vehicles And Equipment (448, of which destroyed: 243, damaged: 17, abandoned: 36, captured: 152)
 
  Self-Propelled Anti-Tank Missile Systems (44, of which destroyed: 18, damaged: 1, abandoned: 4, captured: 21)
 
@@ -30,11 +30,11 @@
 
  Towed Artillery (352, of which destroyed: 204, damaged: 43, abandoned: 5, captured: 100)
 
- Self-Propelled Artillery (695, of which destroyed: 540, damaged: 40, abandoned: 7, captured: 108)
+ Self-Propelled Artillery (705, of which destroyed: 549, damaged: 41, abandoned: 7, captured: 108)
 
- Multiple Rocket Launchers (360, of which destroyed: 272, damaged: 32, abandoned: 2, captured: 54)
+ Multiple Rocket Launchers (361, of which destroyed: 272, damaged: 33, abandoned: 2, captured: 54)
 
- Anti-Aircraft Guns (50, of which destroyed: 31, damaged: 1, captured: 18)
+ Anti-Aircraft Guns (51, of which destroyed: 32, damaged: 1, captured: 18)
 
  Self-Propelled Anti-Aircraft Guns (25, of which destroyed: 14, damaged: 1, abandoned: 2, captured: 8)
 
@@ -44,7 +44,7 @@
 
  Jammers And Deception Systems (76, of which destroyed: 57, damaged: 11, captured: 8)
 
- Aircraft (105, of which destroyed: 97, damaged: 8)
+ Aircraft (106, of which destroyed: 98, damaged: 8)
 
  Helicopters (135, of which destroyed: 103, damaged: 30, captured: 2)
 
