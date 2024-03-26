@@ -54,5 +54,5 @@
 
  Naval Ships and Submarines (21, of which destroyed: 16, damaged: 5)
 
- Trucks, Vehicles, and Jeeps (3175, of which destroyed: 2473, damaged: 84, abandoned: 47, captured: 571)
+ Trucks, Vehicles, and Jeeps (3174, of which destroyed: 2472, damaged: 84, abandoned: 47, captured: 571)
 
