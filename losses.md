@@ -44,7 +44,7 @@
 
  Jammers And Deception Systems (79, of which destroyed: 60, damaged: 11, captured: 8)
 
- Aircraft (108, of which destroyed: 99, damaged: 9)
+ Aircraft (109, of which destroyed: 100, damaged: 9)
 
  Helicopters (136, of which destroyed: 104, damaged: 30, captured: 2)
 
@@ -52,7 +52,7 @@
 
  Reconnaissance Unmanned Aerial Vehicles (343, of which destroyed: 202, captured: 141)
 
- Naval Ships and Submarines (22, of which destroyed: 16, damaged: 6)
+ Naval Ships and Submarines (23, of which destroyed: 17, damaged: 6)
 
  Trucks, Vehicles, and Jeeps (3235, of which destroyed: 2528, damaged: 88, abandoned: 48, captured: 571)
 
