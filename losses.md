@@ -20,7 +20,7 @@
 
  Infantry Mobility Vehicles (240, of which destroyed: 172, damaged: 14, abandoned: 3, captured: 51)
 
- Command Posts And Communications Stations (276, of which destroyed: 185, damaged: 4, abandoned: 2, captured: 85)
+ Command Posts And Communications Stations (275, of which destroyed: 184, damaged: 4, abandoned: 2, captured: 85)
 
  Engineering Vehicles And Equipment (460, of which destroyed: 252, damaged: 17, abandoned: 39, captured: 152)
 
