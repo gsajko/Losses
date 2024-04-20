@@ -34,7 +34,7 @@
 
  Multiple Rocket Launchers (369, of which destroyed: 280, damaged: 33, abandoned: 2, captured: 54)
 
- Anti-Aircraft Guns (50, of which destroyed: 31, damaged: 1, captured: 18)
+ Anti-Aircraft Guns (49, of which destroyed: 30, damaged: 1, captured: 18)
 
  Self-Propelled Anti-Aircraft Guns (26, of which destroyed: 14, damaged: 2, abandoned: 2, captured: 8)
 
