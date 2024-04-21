@@ -24,6 +24,8 @@
 
  Engineering Vehicles And Equipment (462, of which destroyed: 255, damaged: 17, abandoned: 39, captured: 151)
 
+ Unmanned Ground Vehicles (3, of which destroyed: 3)
+
  Self-Propelled Anti-Tank Missile Systems (43, of which destroyed: 18, damaged: 1, abandoned: 4, captured: 20)
 
  Artillery Support Vehicles And Equipment (117, of which destroyed: 62, abandoned: 1, captured: 54)
