@@ -2,27 +2,27 @@
  
  ## Russia
  
- ### Russia - 15624, of which: destroyed: 11125, damaged: 715, abandoned: 881, captured: 2903
+ ### Russia - 15724, of which: destroyed: 11202, damaged: 719, abandoned: 900, captured: 2903
 
  
 
  
 
- Tanks (2969, of which destroyed: 1982, damaged: 155, abandoned: 318, captured: 514)
+ Tanks (3000, of which destroyed: 2001, damaged: 156, abandoned: 329, captured: 514)
 
  Armoured Fighting Vehicles (1321, of which destroyed: 926, damaged: 34, abandoned: 94, captured: 267)
 
- Infantry Fighting Vehicles (3924, of which destroyed: 2841, damaged: 144, abandoned: 324, captured: 615)
+ Infantry Fighting Vehicles (3954, of which destroyed: 2866, damaged: 144, abandoned: 329, captured: 615)
 
- Armoured Personnel Carriers (429, of which destroyed: 292, damaged: 18, abandoned: 27, captured: 92)
+ Armoured Personnel Carriers (431, of which destroyed: 294, damaged: 18, abandoned: 27, captured: 92)
 
- Mine-Resistant Ambush Protected (MRAP) Vehicles (55, of which destroyed: 38, damaged: 5, abandoned: 1, captured: 11)
+ Mine-Resistant Ambush Protected (MRAP) Vehicles (56, of which destroyed: 39, damaged: 5, abandoned: 1, captured: 11)
 
  Infantry Mobility Vehicles (241, of which destroyed: 172, damaged: 14, abandoned: 3, captured: 52)
 
  Command Posts And Communications Stations (276, of which destroyed: 185, damaged: 4, abandoned: 2, captured: 85)
 
- Engineering Vehicles And Equipment (463, of which destroyed: 256, damaged: 17, abandoned: 39, captured: 151)
+ Engineering Vehicles And Equipment (467, of which destroyed: 257, damaged: 17, abandoned: 42, captured: 151)
 
  Unmanned Ground Vehicles (3, of which destroyed: 3)
 
@@ -30,17 +30,17 @@
 
  Artillery Support Vehicles And Equipment (117, of which destroyed: 62, abandoned: 1, captured: 54)
 
- Towed Artillery (360, of which destroyed: 211, damaged: 49, abandoned: 5, captured: 95)
+ Towed Artillery (362, of which destroyed: 212, damaged: 50, abandoned: 5, captured: 95)
 
- Self-Propelled Artillery (727, of which destroyed: 570, damaged: 42, abandoned: 7, captured: 108)
+ Self-Propelled Artillery (730, of which destroyed: 573, damaged: 42, abandoned: 7, captured: 108)
 
- Multiple Rocket Launchers (370, of which destroyed: 281, damaged: 33, abandoned: 2, captured: 54)
+ Multiple Rocket Launchers (373, of which destroyed: 283, damaged: 34, abandoned: 2, captured: 54)
 
  Anti-Aircraft Guns (49, of which destroyed: 30, damaged: 1, captured: 18)
 
  Self-Propelled Anti-Aircraft Guns (26, of which destroyed: 14, damaged: 2, abandoned: 2, captured: 8)
 
- Surface-To-Air Missile Systems (228, of which destroyed: 165, damaged: 35, abandoned: 4, captured: 24)
+ Surface-To-Air Missile Systems (232, of which destroyed: 168, damaged: 36, abandoned: 4, captured: 24)
 
  Radars (68, of which destroyed: 42, damaged: 16, captured: 10)
 
@@ -52,9 +52,9 @@
 
  Unmanned Combat Aerial Vehicles (14, of which destroyed: 11, captured: 3)
 
- Reconnaissance Unmanned Aerial Vehicles (357, of which destroyed: 215, captured: 142)
+ Reconnaissance Unmanned Aerial Vehicles (358, of which destroyed: 216, captured: 142)
 
  Naval Ships and Submarines (24, of which destroyed: 17, damaged: 7)
 
- Trucks, Vehicles, and Jeeps (3241, of which destroyed: 2536, damaged: 88, abandoned: 48, captured: 569)
+ Trucks, Vehicles, and Jeeps (3253, of which destroyed: 2548, damaged: 88, abandoned: 48, captured: 569)
 
