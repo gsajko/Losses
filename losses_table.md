@@ -1,8 +1,8 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        2018 |       157 |         331 |        515 |    3021 |
-| Armoured Fighting Vehicles                       |         942 |        34 |          95 |        266 |    1337 |
-| Infantry Fighting Vehicles                       |        2910 |       144 |         331 |        614 |    3999 |
+| Tanks                                            |        2031 |       157 |         333 |        515 |    3036 |
+| Armoured Fighting Vehicles                       |         943 |        34 |          94 |        266 |    1337 |
+| Infantry Fighting Vehicles                       |        2918 |       144 |         331 |        614 |    4007 |
 | Armoured Personnel Carriers                      |         299 |        18 |          27 |         92 |     436 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          39 |         5 |           1 |         11 |      56 |
 | Infantry Mobility Vehicles                       |         176 |        14 |           3 |         52 |     245 |
@@ -19,10 +19,10 @@
 | Surface-To-Air Missile Systems                   |         170 |        36 |           4 |         24 |     234 |
 | Radars                                           |          43 |        16 |           0 |         10 |      69 |
 | Jammers And Deception Systems                    |          60 |        11 |           0 |          9 |      80 |
-| Aircraft                                         |         101 |         9 |           0 |          0 |     110 |
+| Aircraft                                         |         104 |         9 |           0 |          0 |     113 |
 | Helicopters                                      |         105 |        30 |           0 |          2 |     137 |
 | Unmanned Combat Aerial Vehicles                  |          11 |         0 |           0 |          3 |      14 |
-| Reconnaissance Unmanned Aerial Vehicles          |         217 |         0 |           0 |        142 |     359 |
+| Reconnaissance Unmanned Aerial Vehicles          |         220 |         0 |           0 |        142 |     362 |
 | Naval Ships and Submarines                       |          17 |         7 |           0 |          0 |      24 |
-| Trucks, Vehicles, and Jeeps                      |        2553 |        89 |          48 |        569 |    3259 |
-| total                                            |       11317 |       723 |         903 |       2902 |   15845 |
+| Trucks, Vehicles, and Jeeps                      |        2557 |        89 |          48 |        569 |    3263 |
+| total                                            |       11349 |       723 |         904 |       2902 |   15878 |
