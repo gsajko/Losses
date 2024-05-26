@@ -2,23 +2,23 @@
  
  ## Russia
  
- ### Russia - 16019, of which: destroyed: 11476, damaged: 725, abandoned: 910, captured: 2908
+ ### Russia - 16031, of which: destroyed: 11486, damaged: 725, abandoned: 910, captured: 2910
 
  
 
  
 
- Tanks (3065, of which destroyed: 2056, damaged: 155, abandoned: 337, captured: 517)
+ Tanks (3066, of which destroyed: 2057, damaged: 155, abandoned: 337, captured: 517)
 
- Armoured Fighting Vehicles (1355, of which destroyed: 956, damaged: 35, abandoned: 96, captured: 268)
+ Armoured Fighting Vehicles (1358, of which destroyed: 958, damaged: 35, abandoned: 96, captured: 269)
 
- Infantry Fighting Vehicles (4048, of which destroyed: 2957, damaged: 145, abandoned: 330, captured: 616)
+ Infantry Fighting Vehicles (4052, of which destroyed: 2961, damaged: 145, abandoned: 330, captured: 616)
 
  Armoured Personnel Carriers (441, of which destroyed: 304, damaged: 18, abandoned: 27, captured: 92)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (56, of which destroyed: 39, damaged: 5, abandoned: 1, captured: 11)
 
- Infantry Mobility Vehicles (246, of which destroyed: 176, damaged: 14, abandoned: 4, captured: 52)
+ Infantry Mobility Vehicles (248, of which destroyed: 177, damaged: 14, abandoned: 4, captured: 53)
 
  Command Posts And Communications Stations (277, of which destroyed: 186, damaged: 4, abandoned: 2, captured: 85)
 
@@ -36,7 +36,7 @@
 
  Multiple Rocket Launchers (378, of which destroyed: 288, damaged: 34, abandoned: 2, captured: 54)
 
- Anti-Aircraft Guns (50, of which destroyed: 31, damaged: 1, captured: 18)
+ Anti-Aircraft Guns (51, of which destroyed: 32, damaged: 1, captured: 18)
 
  Self-Propelled Anti-Aircraft Guns (26, of which destroyed: 14, damaged: 2, abandoned: 2, captured: 8)
 
@@ -46,7 +46,7 @@
 
  Jammers And Deception Systems (81, of which destroyed: 60, damaged: 12, captured: 9)
 
- Aircraft (113, of which destroyed: 104, damaged: 9)
+ Aircraft (114, of which destroyed: 105, damaged: 9)
 
  Helicopters (137, of which destroyed: 105, damaged: 30, captured: 2)
 
