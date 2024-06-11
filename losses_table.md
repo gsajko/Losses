@@ -7,7 +7,7 @@
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          39 |         5 |           1 |         11 |      56 |
 | Infantry Mobility Vehicles                       |         179 |        14 |           3 |         53 |     249 |
 | Command Posts And Communications Stations        |         188 |         4 |           2 |         85 |     279 |
-| Engineering Vehicles And Equipment               |         287 |        20 |          43 |        151 |     501 |
+| Engineering Vehicles And Equipment               |         289 |        20 |          43 |        151 |     503 |
 | Unmanned Ground Vehicles                         |           3 |         0 |           0 |          0 |       3 |
 | Self-Propelled Anti-Tank Missile Systems         |          18 |         1 |           4 |         20 |      43 |
 | Artillery Support Vehicles And Equipment         |          65 |         0 |           1 |         54 |     120 |
@@ -24,5 +24,5 @@
 | Unmanned Combat Aerial Vehicles                  |          11 |         1 |           0 |          3 |      15 |
 | Reconnaissance Unmanned Aerial Vehicles          |         231 |         0 |           0 |        143 |     374 |
 | Naval Ships and Submarines                       |          19 |         7 |           0 |          0 |      26 |
-| Trucks, Vehicles, and Jeeps                      |        2607 |        90 |          48 |        568 |    3313 |
-| total                                            |       11762 |       742 |         935 |       2908 |   16347 |
+| Trucks, Vehicles, and Jeeps                      |        2610 |        90 |          48 |        568 |    3316 |
+| total                                            |       11767 |       742 |         935 |       2908 |   16352 |
