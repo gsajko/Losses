@@ -2,19 +2,19 @@
  
  ## Russia
  
- ### Russia - 16472, of which: destroyed: 11881, damaged: 747, abandoned: 937, captured: 2907
+ ### Russia - 16515, of which: destroyed: 11915, damaged: 748, abandoned: 941, captured: 2911
 
  
 
  
 
- Tanks (3139, of which destroyed: 2119, damaged: 157, abandoned: 347, captured: 516)
+ Tanks (3152, of which destroyed: 2128, damaged: 157, abandoned: 350, captured: 517)
 
  Armoured Fighting Vehicles (1413, of which destroyed: 1012, damaged: 35, abandoned: 97, captured: 269)
 
- Infantry Fighting Vehicles (4170, of which destroyed: 3065, damaged: 147, abandoned: 343, captured: 615)
+ Infantry Fighting Vehicles (4179, of which destroyed: 3074, damaged: 147, abandoned: 343, captured: 615)
 
- Armoured Personnel Carriers (456, of which destroyed: 315, damaged: 18, abandoned: 31, captured: 92)
+ Armoured Personnel Carriers (457, of which destroyed: 316, damaged: 18, abandoned: 31, captured: 92)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (56, of which destroyed: 39, damaged: 5, abandoned: 1, captured: 11)
 
@@ -22,7 +22,7 @@
 
  Command Posts And Communications Stations (280, of which destroyed: 188, damaged: 5, abandoned: 2, captured: 85)
 
- Engineering Vehicles And Equipment (514, of which destroyed: 300, damaged: 20, abandoned: 43, captured: 151)
+ Engineering Vehicles And Equipment (517, of which destroyed: 302, damaged: 21, abandoned: 43, captured: 151)
 
  Unmanned Ground Vehicles (3, of which destroyed: 3)
 
@@ -52,9 +52,9 @@
 
  Unmanned Combat Aerial Vehicles (15, of which destroyed: 11, damaged: 1, captured: 3)
 
- Reconnaissance Unmanned Aerial Vehicles (378, of which destroyed: 235, captured: 143)
+ Reconnaissance Unmanned Aerial Vehicles (382, of which destroyed: 236, captured: 146)
 
  Naval Ships and Submarines (26, of which destroyed: 19, damaged: 7)
 
- Trucks, Vehicles, and Jeeps (3351, of which destroyed: 2645, damaged: 90, abandoned: 48, captured: 568)
+ Trucks, Vehicles, and Jeeps (3353, of which destroyed: 2647, damaged: 90, abandoned: 48, captured: 568)
 
