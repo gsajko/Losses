@@ -10,11 +10,11 @@
 
  Tanks (3271, of which destroyed: 2234, damaged: 156, abandoned: 362, captured: 519)
 
- Armoured Fighting Vehicles (1481, of which destroyed: 1075, damaged: 36, abandoned: 99, captured: 271)
+ Armoured Fighting Vehicles (1480, of which destroyed: 1076, damaged: 36, abandoned: 99, captured: 271)
 
  Infantry Fighting Vehicles (4347, of which destroyed: 3225, damaged: 147, abandoned: 359, captured: 616)
 
- Armoured Personnel Carriers (469, of which destroyed: 325, damaged: 19, abandoned: 33, captured: 92)
+ Armoured Personnel Carriers (468, of which destroyed: 325, damaged: 18, abandoned: 33, captured: 92)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (56, of which destroyed: 39, damaged: 5, abandoned: 1, captured: 11)
 
