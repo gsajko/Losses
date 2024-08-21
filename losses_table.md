@@ -1,19 +1,19 @@
 | Russian Losses                                   |   destroyed |   damaged |   abandoned |   captured |   total |
 |:-------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
-| Tanks                                            |        2285 |       156 |         369 |        528 |    3338 |
-| Armoured Fighting Vehicles                       |        1113 |        36 |          97 |        272 |    1518 |
-| Infantry Fighting Vehicles                       |        3309 |       149 |         372 |        617 |    4447 |
-| Armoured Personnel Carriers                      |         333 |        18 |          34 |         92 |     477 |
+| Tanks                                            |        2283 |       156 |         369 |        529 |    3337 |
+| Armoured Fighting Vehicles                       |        1114 |        36 |          96 |        272 |    1518 |
+| Infantry Fighting Vehicles                       |        3320 |       149 |         371 |        617 |    4457 |
+| Armoured Personnel Carriers                      |         336 |        18 |          34 |         92 |     480 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles |          39 |         5 |           1 |         11 |      56 |
-| Infantry Mobility Vehicles                       |         201 |        14 |           3 |         53 |     271 |
+| Infantry Mobility Vehicles                       |         202 |        15 |           3 |         53 |     273 |
 | Command Posts And Communications Stations        |         192 |         5 |           2 |         85 |     284 |
-| Engineering Vehicles And Equipment               |         317 |        22 |          46 |        152 |     537 |
+| Engineering Vehicles And Equipment               |         317 |        25 |          46 |        152 |     540 |
 | Unmanned Ground Vehicles                         |           3 |         0 |           0 |          0 |       3 |
 | Self-Propelled Anti-Tank Missile Systems         |          19 |         1 |           4 |         20 |      44 |
 | Artillery Support Vehicles And Equipment         |          71 |         0 |           1 |         55 |     127 |
-| Towed Artillery                                  |         243 |        52 |           5 |         95 |     395 |
-| Self-Propelled Artillery                         |         653 |        47 |           6 |        109 |     815 |
-| Multiple Rocket Launchers                        |         315 |        35 |           2 |         54 |     406 |
+| Towed Artillery                                  |         244 |        53 |           5 |         96 |     398 |
+| Self-Propelled Artillery                         |         656 |        47 |           6 |        109 |     818 |
+| Multiple Rocket Launchers                        |         316 |        35 |           2 |         54 |     407 |
 | Anti-Aircraft Guns                               |          33 |         1 |           0 |         18 |      52 |
 | Self-Propelled Anti-Aircraft Guns                |          14 |         2 |           2 |          7 |      25 |
 | Surface-To-Air Missile Systems                   |         197 |        45 |           4 |         24 |     270 |
@@ -24,5 +24,5 @@
 | Unmanned Combat Aerial Vehicles                  |          11 |         1 |           0 |          3 |      15 |
 | Reconnaissance Unmanned Aerial Vehicles          |         251 |         0 |           1 |        158 |     410 |
 | Naval Ships and Submarines                       |          21 |         7 |           0 |          0 |      28 |
-| Trucks, Vehicles, and Jeeps                      |        2814 |        94 |          47 |        568 |    3523 |
-| total                                            |       12763 |       765 |         996 |       2942 |   17466 |
+| Trucks, Vehicles, and Jeeps                      |        2819 |        94 |          48 |        570 |    3531 |
+| total                                            |       12787 |       770 |         995 |       2946 |   17498 |
