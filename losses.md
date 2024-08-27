@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 17569, of which: destroyed: 12843, damaged: 777, abandoned: 998, captured: 2951
+ ### Russia - 17569, of which: destroyed: 12842, damaged: 777, abandoned: 998, captured: 2952
 
  
 
@@ -22,7 +22,7 @@
 
  Command Posts And Communications Stations (286, of which destroyed: 193, damaged: 5, abandoned: 2, captured: 86)
 
- Engineering Vehicles And Equipment (547, of which destroyed: 321, damaged: 28, abandoned: 46, captured: 152)
+ Engineering Vehicles And Equipment (547, of which destroyed: 320, damaged: 28, abandoned: 46, captured: 153)
 
  Unmanned Ground Vehicles (3, of which destroyed: 3)
 
