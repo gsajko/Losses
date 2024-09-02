@@ -2,21 +2,21 @@
  
  ## Russia
  
- ### Russia - 17602, of which: destroyed: 12873, damaged: 777, abandoned: 1000, captured: 2952
+ ### Russia - 17652, of which: destroyed: 12921, damaged: 778, abandoned: 999, captured: 2954
 
- Losses excluding Recon Drones and Trucks - 13640, of which: destroyed: 9785, damaged: 683, abandoned: 951, captured: 2221
+ Losses excluding Recon Drones and Trucks - 13682, of which: destroyed: 9822, damaged: 684, abandoned: 954, captured: 2222
 
- Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 9898, of which: destroyed: 7136, damaged: 364, abandoned: 876, captured: 1522
-
- 
+ Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 9926, of which: destroyed: 7162, damaged: 364, abandoned: 877, captured: 1523
 
  
 
- Tanks (3354, of which destroyed: 2300, damaged: 156, abandoned: 368, captured: 530)
+ 
+
+ Tanks (3354, of which destroyed: 2302, damaged: 156, abandoned: 366, captured: 530)
 
  Armoured Fighting Vehicles (1538, of which destroyed: 1134, damaged: 36, abandoned: 97, captured: 271)
 
- Infantry Fighting Vehicles (4483, of which destroyed: 3341, damaged: 149, abandoned: 374, captured: 619)
+ Infantry Fighting Vehicles (4494, of which destroyed: 3353, damaged: 149, abandoned: 373, captured: 619)
 
  Armoured Personnel Carriers (483, of which destroyed: 337, damaged: 18, abandoned: 36, captured: 92)
 
@@ -46,7 +46,7 @@
 
  Surface-To-Air Missile Systems (271, of which destroyed: 198, damaged: 45, abandoned: 4, captured: 24)
 
- Radars (79, of which destroyed: 48, damaged: 21, captured: 10)
+ Radars (79, of which destroyed: 47, damaged: 22, captured: 10)
 
  Jammers And Deception Systems (84, of which destroyed: 63, damaged: 12, captured: 9)
 
