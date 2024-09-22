@@ -2,21 +2,21 @@
  
  ## Russia
  
- ### Russia - 18008, of which: destroyed: 13221, damaged: 806, abandoned: 1010, captured: 2971
+ ### Russia - 18015, of which: destroyed: 13228, damaged: 806, abandoned: 1010, captured: 2971
 
- Losses excluding Recon Drones and Trucks - 13944, of which: destroyed: 10045, damaged: 710, abandoned: 961, captured: 2228
+ Losses excluding Recon Drones and Trucks - 13949, of which: destroyed: 10050, damaged: 710, abandoned: 961, captured: 2228
 
- Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10122, of which: destroyed: 7346, damaged: 366, abandoned: 882, captured: 1528
-
- 
+ Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10126, of which: destroyed: 7350, damaged: 366, abandoned: 882, captured: 1528
 
  
 
- Tanks (3395, of which destroyed: 2339, damaged: 157, abandoned: 367, captured: 532)
+ 
 
- Armoured Fighting Vehicles (1582, of which destroyed: 1179, damaged: 36, abandoned: 96, captured: 271)
+ Tanks (3396, of which destroyed: 2340, damaged: 157, abandoned: 367, captured: 532)
 
- Infantry Fighting Vehicles (4600, of which destroyed: 3446, damaged: 150, abandoned: 382, captured: 622)
+ Armoured Fighting Vehicles (1583, of which destroyed: 1180, damaged: 36, abandoned: 96, captured: 271)
+
+ Infantry Fighting Vehicles (4602, of which destroyed: 3448, damaged: 150, abandoned: 382, captured: 622)
 
  Armoured Personnel Carriers (489, of which destroyed: 343, damaged: 18, abandoned: 36, captured: 92)
 
@@ -36,7 +36,7 @@
 
  Towed Artillery (411, of which destroyed: 252, damaged: 57, abandoned: 5, captured: 97)
 
- Self-Propelled Artillery (832, of which destroyed: 668, damaged: 49, abandoned: 6, captured: 109)
+ Self-Propelled Artillery (833, of which destroyed: 669, damaged: 49, abandoned: 6, captured: 109)
 
  Multiple Rocket Launchers (421, of which destroyed: 328, damaged: 37, abandoned: 2, captured: 54)
 
