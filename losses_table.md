@@ -14,7 +14,7 @@
 | Self-Propelled Anti-Tank Missile Systems                                                                                                                 |          19 |         1 |           4 |         20 |      44 |
 | Artillery Support Vehicles And Equipment                                                                                                                 |          71 |         0 |           1 |         55 |     127 |
 | Towed Artillery                                                                                                                                          |         252 |        57 |           5 |         97 |     411 |
-| Self-Propelled Artillery                                                                                                                                 |         670 |        49 |           6 |        109 |     834 |
+| Self-Propelled Artillery                                                                                                                                 |         670 |        48 |           6 |        109 |     833 |
 | Multiple Rocket Launchers                                                                                                                                |         328 |        37 |           2 |         54 |     421 |
 | Anti-Aircraft Guns                                                                                                                                       |          34 |         1 |           0 |         18 |      53 |
 | Self-Propelled Anti-Aircraft Guns                                                                                                                        |          15 |         2 |           2 |          7 |      26 |
@@ -27,4 +27,4 @@
 | Reconnaissance Unmanned Aerial Vehicles                                                                                                                  |         292 |         0 |           1 |        169 |     462 |
 | Naval Ships and Submarines                                                                                                                               |          21 |         7 |           0 |          0 |      28 |
 | Trucks, Vehicles, and Jeeps                                                                                                                              |        2897 |        97 |          48 |        575 |    3617 |
-| total                                                                                                                                                    |       30747 |      1883 |        2868 |       6730 |   42228 |
+| total                                                                                                                                                    |       30747 |      1882 |        2868 |       6730 |   42227 |
