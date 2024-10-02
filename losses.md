@@ -2,11 +2,11 @@
  
  ## Russia
  
- ### Russia - 18149, of which: destroyed: 13359, damaged: 805, abandoned: 1011, captured: 2974
+ ### Russia - 18203, of which: destroyed: 13404, damaged: 805, abandoned: 1019, captured: 2975
 
- Losses excluding Recon Drones and Trucks - 14057, of which: destroyed: 10158, damaged: 708, abandoned: 962, captured: 2229
+ Losses excluding Recon Drones and Trucks - 14103, of which: destroyed: 10195, damaged: 708, abandoned: 970, captured: 2230
 
- Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10219, of which: destroyed: 7442, damaged: 365, abandoned: 884, captured: 1528
+ Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10262, of which: destroyed: 7476, damaged: 365, abandoned: 892, captured: 1529
 
  
 
@@ -16,9 +16,9 @@
 
  Armoured Fighting Vehicles (1614, of which destroyed: 1208, damaged: 36, abandoned: 99, captured: 271)
 
- Infantry Fighting Vehicles (4644, of which destroyed: 3492, damaged: 149, abandoned: 381, captured: 622)
+ Infantry Fighting Vehicles (4664, of which destroyed: 3507, damaged: 149, abandoned: 385, captured: 623)
 
- Armoured Personnel Carriers (496, of which destroyed: 349, damaged: 18, abandoned: 37, captured: 92)
+ Armoured Personnel Carriers (497, of which destroyed: 350, damaged: 18, abandoned: 37, captured: 92)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (56, of which destroyed: 39, damaged: 5, abandoned: 1, captured: 11)
 
@@ -50,7 +50,7 @@
 
  Jammers And Deception Systems (84, of which destroyed: 63, damaged: 12, captured: 9)
 
- Aircraft (128, of which destroyed: 113, damaged: 15)
+ Aircraft (129, of which destroyed: 114, damaged: 15)
 
  Helicopters (145, of which destroyed: 113, damaged: 30, captured: 2)
 
@@ -60,5 +60,5 @@
 
  Naval Ships and Submarines (28, of which destroyed: 21, damaged: 7)
 
- Trucks, Vehicles, and Jeeps (3627, of which destroyed: 2907, damaged: 97, abandoned: 48, captured: 575)
+ Trucks, Vehicles, and Jeeps (3632, of which destroyed: 2912, damaged: 97, abandoned: 48, captured: 575)
 
