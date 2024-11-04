@@ -2,7 +2,7 @@
  
  ## Russia
  
- ### Russia - 18604, of which: destroyed: 14048, damaged: 814, abandoned: 1056, captured: 2986
+ ### Russia - 18904, of which: destroyed: 14048, damaged: 814, abandoned: 1056, captured: 2986
 
  Losses excluding Recon Drones and Trucks - 14695, of which: destroyed: 10742, damaged: 715, abandoned: 1007, captured: 2231
 
