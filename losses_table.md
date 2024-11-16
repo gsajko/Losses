@@ -2,8 +2,8 @@
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Losses excluding Recon Drones and Trucks - 14829, of which: destroyed: 10867, damaged: 716, abandoned: 1015, captured: 2231                              |       10867 |       716 |        1015 |       2231 |   14829 |
 | Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10888, of which: destroyed: 8054, damaged: 367, abandoned: 937, captured: 1530 |        8054 |       367 |         937 |       1530 |   10888 |
-| Tanks                                                                                                                                                    |        2492 |       158 |         375 |        533 |    3558 |
-| Armoured Fighting Vehicles                                                                                                                               |        1332 |        36 |         105 |        271 |    1744 |
+| Tanks                                                                                                                                                    |        2502 |       158 |         376 |        533 |    3569 |
+| Armoured Fighting Vehicles                                                                                                                               |        1341 |        36 |         105 |        271 |    1753 |
 | Infantry Fighting Vehicles                                                                                                                               |        3797 |       150 |         416 |        623 |    4986 |
 | Armoured Personnel Carriers                                                                                                                              |         394 |        18 |          40 |         92 |     544 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles                                                                                                         |          39 |         5 |           1 |         11 |      56 |
@@ -27,4 +27,4 @@
 | Reconnaissance Unmanned Aerial Vehicles                                                                                                                  |         320 |         0 |           1 |        177 |     498 |
 | Naval Ships and Submarines                                                                                                                               |          21 |         7 |           0 |          0 |      28 |
 | Trucks, Vehicles, and Jeeps                                                                                                                              |        2999 |        99 |          48 |        579 |    3725 |
-| total                                                                                                                                                    |       33107 |      1898 |        3016 |       6748 |   44769 |
+| total                                                                                                                                                    |       33126 |      1898 |        3017 |       6748 |   44789 |
