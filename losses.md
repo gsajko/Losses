@@ -2,23 +2,23 @@
  
  ## Russia
  
- ### Russia - 19712, of which: destroyed: 14791, damaged: 821, abandoned: 1096, captured: 3004
+ ### Russia - 19782, of which: destroyed: 14856, damaged: 821, abandoned: 1099, captured: 3006
 
- Losses excluding Recon Drones and Trucks - 15411, of which: destroyed: 11410, damaged: 721, abandoned: 1045, captured: 2235
+ Losses excluding Recon Drones and Trucks - 15469, of which: destroyed: 11465, damaged: 721, abandoned: 1048, captured: 2235
 
- Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 11395, of which: destroyed: 8532, damaged: 366, abandoned: 962, captured: 1535
-
- 
+ Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 11444, of which: destroyed: 8581, damaged: 366, abandoned: 962, captured: 1535
 
  
 
- Tanks (3673, of which destroyed: 2609, damaged: 157, abandoned: 373, captured: 534)
+ 
+
+ Tanks (3673, of which destroyed: 2610, damaged: 157, abandoned: 372, captured: 534)
 
  Armoured Fighting Vehicles (1838, of which destroyed: 1428, damaged: 35, abandoned: 104, captured: 271)
 
- Infantry Fighting Vehicles (5263, of which destroyed: 4044, damaged: 151, abandoned: 441, captured: 627)
+ Infantry Fighting Vehicles (5286, of which destroyed: 4066, damaged: 151, abandoned: 442, captured: 627)
 
- Armoured Personnel Carriers (589, of which destroyed: 436, damaged: 18, abandoned: 43, captured: 92)
+ Armoured Personnel Carriers (591, of which destroyed: 438, damaged: 18, abandoned: 43, captured: 92)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (56, of which destroyed: 39, damaged: 5, abandoned: 1, captured: 11)
 
@@ -60,5 +60,5 @@
 
  Naval Ships and Submarines (28, of which destroyed: 21, damaged: 7)
 
- Trucks, Vehicles, and Jeeps (3774, of which destroyed: 3046, damaged: 100, abandoned: 50, captured: 578)
+ Trucks, Vehicles, and Jeeps (3782, of which destroyed: 3054, damaged: 100, abandoned: 50, captured: 578)
 
