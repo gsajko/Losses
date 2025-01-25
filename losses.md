@@ -36,9 +36,9 @@
 
  Towed Artillery (445, of which destroyed: 259, damaged: 83, abandoned: 5, captured: 98)
 
- Self-Propelled Artillery (870, of which destroyed: 707, damaged: 48, abandoned: 6, captured: 109)
+ Self-Propelled Artillery (871, of which destroyed: 708, damaged: 48, abandoned: 6, captured: 109)
 
- Multiple Rocket Launchers (451, of which destroyed: 355, damaged: 40, abandoned: 2, captured: 54)
+ Multiple Rocket Launchers (452, of which destroyed: 356, damaged: 40, abandoned: 2, captured: 54)
 
  Anti-Aircraft Guns (57, of which destroyed: 38, damaged: 1, captured: 18)
 
@@ -56,9 +56,9 @@
 
  Unmanned Combat Aerial Vehicles (18, of which destroyed: 14, damaged: 1, captured: 3)
 
- Reconnaissance Unmanned Aerial Vehicles (537, of which destroyed: 340, abandoned: 1, captured: 196)
+ Reconnaissance Unmanned Aerial Vehicles (539, of which destroyed: 342, abandoned: 1, captured: 196)
 
  Naval Ships and Submarines (28, of which destroyed: 21, damaged: 7)
 
- Trucks, Vehicles, and Jeeps (3804, of which destroyed: 3073, damaged: 102, abandoned: 50, captured: 579)
+ Trucks, Vehicles, and Jeeps (3805, of which destroyed: 3074, damaged: 102, abandoned: 50, captured: 579)
 
