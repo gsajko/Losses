@@ -1,8 +1,8 @@
  Russian Losses                                                                                                                                           ,   destroyed ,   damaged ,   abandoned ,   captured ,   total 
-" Losses excluding Recon Drones and Trucks - 15806, of which: destroyed: 11753, damaged: 752, abandoned: 1065, captured: 2236                              ",       11753 ,       752 ,        1065 ,       2236 ,   15806 
-" Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 11704, of which: destroyed: 8825, damaged: 368, abandoned: 975, captured: 1536 ",        8825 ,       368 ,         975 ,       1536 ,   11704 
- Tanks                                                                                                                                                    ,        2655 ,       157 ,         375 ,        534 ,    3721 
- Armoured Fighting Vehicles                                                                                                                               ,        1470 ,        35 ,         105 ,        271 ,    1881 
+" Losses excluding Recon Drones and Trucks - 15812, of which: destroyed: 11759, damaged: 752, abandoned: 1065, captured: 2236                              ",       11759 ,       752 ,        1065 ,       2236 ,   15812 
+" Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 11710, of which: destroyed: 8831, damaged: 368, abandoned: 975, captured: 1536 ",        8831 ,       368 ,         975 ,       1536 ,   11710 
+ Tanks                                                                                                                                                    ,        2656 ,       157 ,         375 ,        534 ,    3722 
+ Armoured Fighting Vehicles                                                                                                                               ,        1472 ,        35 ,         105 ,        271 ,    1883 
  Infantry Fighting Vehicles                                                                                                                               ,        4202 ,       153 ,         451 ,        628 ,    5434 
  Armoured Personnel Carriers                                                                                                                              ,         459 ,        18 ,          43 ,         92 ,     612 
  Mine-Resistant Ambush Protected  (MRAP) Vehicles                                                                                                         ,          39 ,         5 ,           1 ,         11 ,      56 
@@ -26,4 +26,4 @@
  Reconnaissance Unmanned Aerial Vehicles                                                                                                                  ,         343 ,         0 ,           1 ,        196 ,     540 
  Naval Ships and Submarines                                                                                                                               ,          21 ,         7 ,           0 ,          0 ,      28 
 " Trucks, Vehicles, and Jeeps                                                                                                                              ",        3087 ,       103 ,          50 ,        579 ,    3819 
- total                                                                                                                                                    ,       35761 ,      1975 ,        3156 ,       6783 ,   47675 
+ total                                                                                                                                                    ,       35776 ,      1975 ,        3156 ,       6783 ,   47690 
