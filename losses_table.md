@@ -4,7 +4,7 @@
 | Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 11710, of which: destroyed: 8831, damaged: 368, abandoned: 975, captured: 1536 |        8831 |       368 |         975 |       1536 |   11710 |
 | Tanks                                                                                                                                                    |        2656 |       157 |         375 |        534 |    3722 |
 | Armoured Fighting Vehicles                                                                                                                               |        1472 |        35 |         105 |        271 |    1883 |
-| Infantry Fighting Vehicles                                                                                                                               |        4202 |       153 |         451 |        628 |    5434 |
+| Infantry Fighting Vehicles                                                                                                                               |        4205 |       153 |         451 |        628 |    5437 |
 | Armoured Personnel Carriers                                                                                                                              |         459 |        18 |          43 |         92 |     612 |
 | Mine-Resistant Ambush Protected  (MRAP) Vehicles                                                                                                         |          39 |         5 |           1 |         11 |      56 |
 | Infantry Mobility Vehicles                                                                                                                               |         263 |        18 |           7 |         51 |     339 |
@@ -27,4 +27,4 @@
 | Reconnaissance Unmanned Aerial Vehicles                                                                                                                  |         343 |         0 |           1 |        196 |     540 |
 | Naval Ships and Submarines                                                                                                                               |          21 |         7 |           0 |          0 |      28 |
 | Trucks, Vehicles, and Jeeps                                                                                                                              |        3087 |       103 |          50 |        579 |    3819 |
-| total                                                                                                                                                    |       35776 |      1975 |        3156 |       6783 |   47690 |
+| total                                                                                                                                                    |       35779 |      1975 |        3156 |       6783 |   47693 |
