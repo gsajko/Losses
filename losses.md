@@ -12,11 +12,11 @@
 
  
 
- Tanks (3741, of which destroyed: 2673, damaged: 157, abandoned: 377, captured: 534)
+ Tanks (3742, of which destroyed: 2674, damaged: 157, abandoned: 377, captured: 534)
 
- Armoured Fighting Vehicles (1898, of which destroyed: 1487, damaged: 35, abandoned: 105, captured: 271)
+ Armoured Fighting Vehicles (1899, of which destroyed: 1488, damaged: 35, abandoned: 105, captured: 271)
 
- Infantry Fighting Vehicles (5448, of which destroyed: 4216, damaged: 153, abandoned: 451, captured: 628)
+ Infantry Fighting Vehicles (5454, of which destroyed: 4221, damaged: 153, abandoned: 452, captured: 628)
 
  Armoured Personnel Carriers (614, of which destroyed: 461, damaged: 18, abandoned: 43, captured: 92)
 
@@ -36,7 +36,7 @@
 
  Towed Artillery (446, of which destroyed: 260, damaged: 83, abandoned: 5, captured: 98)
 
- Self-Propelled Artillery (879, of which destroyed: 715, damaged: 48, abandoned: 7, captured: 109)
+ Self-Propelled Artillery (880, of which destroyed: 716, damaged: 48, abandoned: 7, captured: 109)
 
  Multiple Rocket Launchers (454, of which destroyed: 358, damaged: 40, abandoned: 2, captured: 54)
 
