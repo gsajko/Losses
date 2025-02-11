@@ -1,6 +1,6 @@
  Russian Losses                                                                                                                                           ,   destroyed ,   damaged ,   abandoned ,   captured ,   total 
-" Losses excluding Recon Drones and Trucks - 15890, of which: destroyed: 11832, damaged: 752, abandoned: 1070, captured: 2236                              ",       11832 ,       752 ,        1070 ,       2236 ,   15890 
-" Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 11769, of which: destroyed: 8887, damaged: 368, abandoned: 978, captured: 1536 ",        8887 ,       368 ,         978 ,       1536 ,   11769 
+" Losses excluding Recon Drones and Trucks - 15915, of which: destroyed: 11853, damaged: 755, abandoned: 1071, captured: 2236                              ",       11853 ,       755 ,        1071 ,       2236 ,   15915 
+" Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 11786, of which: destroyed: 8903, damaged: 368, abandoned: 979, captured: 1536 ",        8903 ,       368 ,         979 ,       1536 ,   11786 
  Tanks                                                                                                                                                    ,        2675 ,       157 ,         378 ,        534 ,    3744 
  Armoured Fighting Vehicles                                                                                                                               ,        1492 ,        35 ,         104 ,        271 ,    1902 
  Infantry Fighting Vehicles                                                                                                                               ,        4234 ,       153 ,         452 ,        628 ,    5467 
@@ -25,5 +25,5 @@
  Unmanned Combat Aerial Vehicles                                                                                                                          ,          14 ,         1 ,           0 ,          3 ,      18 
  Reconnaissance Unmanned Aerial Vehicles                                                                                                                  ,         348 ,         0 ,           1 ,        197 ,     546 
  Naval Ships and Submarines                                                                                                                               ,          21 ,         7 ,           0 ,          0 ,      28 
-" Trucks, Vehicles, and Jeeps                                                                                                                              ",        3102 ,       103 ,          51 ,        579 ,    3835 
- total                                                                                                                                                    ,       36022 ,      1978 ,        3171 ,       6784 ,   47955 
+" Trucks, Vehicles, and Jeeps                                                                                                                              ",        3114 ,       103 ,          52 ,        579 ,    3848 
+ total                                                                                                                                                    ,       36071 ,      1981 ,        3174 ,       6784 ,   48010 
