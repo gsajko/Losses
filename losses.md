@@ -2,27 +2,27 @@
  
  ## Russia
  
- ### Russia - 20344, of which: destroyed: 15348, damaged: 858, abandoned: 1125, captured: 3013
+ ### Russia - 20337, of which: destroyed: 15344, damaged: 858, abandoned: 1122, captured: 3013
 
- Losses excluding Recon Drones and Trucks - 15935, of which: destroyed: 11872, damaged: 755, abandoned: 1072, captured: 2236
+ Losses excluding Recon Drones and Trucks - 15928, of which: destroyed: 11868, damaged: 755, abandoned: 1069, captured: 2236
 
- Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 11802, of which: destroyed: 8918, damaged: 368, abandoned: 980, captured: 1536
-
- 
+ Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 11794, of which: destroyed: 8913, damaged: 368, abandoned: 977, captured: 1536
 
  
 
- Tanks (3751, of which destroyed: 2682, damaged: 157, abandoned: 378, captured: 534)
+ 
 
- Armoured Fighting Vehicles (1907, of which destroyed: 1497, damaged: 35, abandoned: 104, captured: 271)
+ Tanks (3750, of which destroyed: 2681, damaged: 157, abandoned: 378, captured: 534)
 
- Infantry Fighting Vehicles (5473, of which destroyed: 4239, damaged: 153, abandoned: 453, captured: 628)
+ Armoured Fighting Vehicles (1906, of which destroyed: 1496, damaged: 35, abandoned: 104, captured: 271)
 
- Armoured Personnel Carriers (615, of which destroyed: 461, damaged: 18, abandoned: 44, captured: 92)
+ Infantry Fighting Vehicles (5470, of which destroyed: 4239, damaged: 153, abandoned: 450, captured: 628)
+
+ Armoured Personnel Carriers (612, of which destroyed: 458, damaged: 18, abandoned: 44, captured: 92)
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (56, of which destroyed: 39, damaged: 5, abandoned: 1, captured: 11)
 
- Infantry Mobility Vehicles (345, of which destroyed: 268, damaged: 18, abandoned: 8, captured: 51)
+ Infantry Mobility Vehicles (346, of which destroyed: 269, damaged: 18, abandoned: 8, captured: 51)
 
  Command Posts And Communications Stations (297, of which destroyed: 204, damaged: 5, abandoned: 2, captured: 86)
 
