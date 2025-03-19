@@ -26,7 +26,7 @@
 
  Command Posts And Communications Stations (299, of which destroyed: 206, damaged: 5, abandoned: 2, captured: 86)
 
- Engineering Vehicles And Equipment (625, of which destroyed: 368, damaged: 45, abandoned: 58, captured: 154)
+ Engineering Vehicles And Equipment (626, of which destroyed: 369, damaged: 45, abandoned: 58, captured: 154)
 
  Unmanned Ground Vehicles (5, of which destroyed: 5)
 
