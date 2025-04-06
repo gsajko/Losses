@@ -19,7 +19,7 @@
 | Anti-Aircraft Guns                                                                                                                                       |          40 |         1 |           0 |         18 |      59 |
 | Self-Propelled Anti-Aircraft Guns                                                                                                                        |          16 |         2 |           2 |          7 |      27 |
 | Surface-To-Air Missile Systems                                                                                                                           |         228 |        54 |           4 |         24 |     310 |
-| Radars                                                                                                                                                   |          60 |        26 |           0 |         10 |      96 |
+| Radars                                                                                                                                                   |          61 |        26 |           0 |         10 |      97 |
 | Jammers And Deception Systems                                                                                                                            |          67 |        12 |           0 |          9 |      88 |
 | Aircraft                                                                                                                                                 |         120 |        17 |           0 |          0 |     137 |
 | Helicopters                                                                                                                                              |         122 |        33 |           0 |          2 |     157 |
@@ -27,4 +27,4 @@
 | Reconnaissance Unmanned Aerial Vehicles                                                                                                                  |         377 |         0 |           1 |        204 |     582 |
 | Naval Ships and Submarines                                                                                                                               |          21 |         7 |           0 |          0 |      28 |
 | Trucks, Vehicles, and Jeeps                                                                                                                              |        3186 |       103 |          52 |        582 |    3923 |
-| total                                                                                                                                                    |       37617 |      2025 |        3242 |       6806 |   49690 |
+| total                                                                                                                                                    |       37618 |      2025 |        3242 |       6806 |   49691 |
