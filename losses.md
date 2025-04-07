@@ -12,11 +12,11 @@
 
  
 
- Tanks (3871, of which destroyed: 2793, damaged: 158, abandoned: 387, captured: 533)
+ Tanks (3872, of which destroyed: 2794, damaged: 158, abandoned: 387, captured: 533)
 
- Armoured Fighting Vehicles (2016, of which destroyed: 1593, damaged: 36, abandoned: 114, captured: 273)
+ Armoured Fighting Vehicles (2018, of which destroyed: 1595, damaged: 36, abandoned: 114, captured: 273)
 
- Infantry Fighting Vehicles (5718, of which destroyed: 4475, damaged: 153, abandoned: 461, captured: 629)
+ Infantry Fighting Vehicles (5720, of which destroyed: 4477, damaged: 153, abandoned: 461, captured: 629)
 
  Armoured Personnel Carriers (632, of which destroyed: 478, damaged: 18, abandoned: 42, captured: 94)
 
@@ -44,7 +44,7 @@
 
  Self-Propelled Anti-Aircraft Guns (27, of which destroyed: 16, damaged: 2, abandoned: 2, captured: 7)
 
- Surface-To-Air Missile Systems (311, of which destroyed: 229, damaged: 54, abandoned: 4, captured: 24)
+ Surface-To-Air Missile Systems (312, of which destroyed: 230, damaged: 54, abandoned: 4, captured: 24)
 
  Radars (98, of which destroyed: 62, damaged: 26, captured: 10)
 
@@ -56,7 +56,7 @@
 
  Unmanned Combat Aerial Vehicles (18, of which destroyed: 14, damaged: 1, captured: 3)
 
- Reconnaissance Unmanned Aerial Vehicles (602, of which destroyed: 386, abandoned: 1, captured: 215)
+ Reconnaissance Unmanned Aerial Vehicles (603, of which destroyed: 387, abandoned: 1, captured: 215)
 
  Naval Ships and Submarines (28, of which destroyed: 21, damaged: 7)
 
