@@ -2,7 +2,7 @@
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|----------:|------------:|-----------:|--------:|
 | Losses excluding Recon Drones and Trucks - 16561, of which: destroyed: 12442, damaged: 778, abandoned: 1101, captured: 2240                               |       12442 |       778 |        1101 |       2240 |   16561 |
 | Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 12299, of which: destroyed: 9384, damaged: 370, abandoned: 1005, captured: 1540 |        9384 |       370 |        1005 |       1540 |   12299 |
-| Tanks                                                                                                                                                     |        2794 |       158 |         387 |        533 |    3872 |
+| Tanks                                                                                                                                                     |        2807 |       158 |         389 |        533 |    3887 |
 | Armoured Fighting Vehicles                                                                                                                                |        1595 |        36 |         114 |        273 |    2018 |
 | Infantry Fighting Vehicles                                                                                                                                |        4477 |       153 |         461 |        629 |    5720 |
 | Armoured Personnel Carriers                                                                                                                               |         478 |        18 |          42 |         94 |     632 |
@@ -27,4 +27,4 @@
 | Reconnaissance Unmanned Aerial Vehicles                                                                                                                   |         387 |         0 |           1 |        215 |     603 |
 | Naval Ships and Submarines                                                                                                                                |          21 |         7 |           0 |          0 |      28 |
 | Trucks, Vehicles, and Jeeps                                                                                                                               |        3171 |       102 |          52 |        582 |    3907 |
-| total                                                                                                                                                     |       37826 |      2028 |        3260 |       6817 |   49931 |
+| total                                                                                                                                                     |       37839 |      2028 |        3262 |       6817 |   49946 |
