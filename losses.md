@@ -56,9 +56,9 @@
 
  Unmanned Combat Aerial Vehicles (18, of which destroyed: 14, damaged: 1, captured: 3)
 
- Reconnaissance Unmanned Aerial Vehicles (603, of which destroyed: 387, abandoned: 1, captured: 215)
+ Reconnaissance Unmanned Aerial Vehicles (605, of which destroyed: 387, abandoned: 1, captured: 217)
 
  Naval Ships and Submarines (28, of which destroyed: 21, damaged: 7)
 
- Trucks, Vehicles, and Jeeps (3907, of which destroyed: 3171, damaged: 102, abandoned: 52, captured: 582)
+ Trucks, Vehicles, and Jeeps (3911, of which destroyed: 3175, damaged: 102, abandoned: 52, captured: 582)
 
