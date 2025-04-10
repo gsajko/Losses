@@ -2,19 +2,19 @@
  
  ## Russia
  
- ### Russia - 21071, of which: destroyed: 16000, damaged: 880, abandoned: 1154, captured: 3037
+ ### Russia - 21128, of which: destroyed: 16053, damaged: 881, abandoned: 1156, captured: 3038
 
- Losses excluding Recon Drones and Trucks - 16561, of which: destroyed: 12442, damaged: 778, abandoned: 1101, captured: 2240
+ Losses excluding Recon Drones and Trucks - 16612, of which: destroyed: 12491, damaged: 779, abandoned: 1103, captured: 2239
 
- Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 12299, of which: destroyed: 9384, damaged: 370, abandoned: 1005, captured: 1540
-
- 
+ Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 12347, of which: destroyed: 9430, damaged: 371, abandoned: 1006, captured: 1540
 
  
 
- Tanks (3890, of which destroyed: 2810, damaged: 158, abandoned: 389, captured: 533)
+ 
 
- Armoured Fighting Vehicles (2028, of which destroyed: 1604, damaged: 36, abandoned: 115, captured: 273)
+ Tanks (3885, of which destroyed: 2805, damaged: 158, abandoned: 389, captured: 533)
+
+ Armoured Fighting Vehicles (2028, of which destroyed: 1607, damaged: 36, abandoned: 112, captured: 273)
 
  Infantry Fighting Vehicles (5737, of which destroyed: 4492, damaged: 154, abandoned: 462, captured: 629)
 
@@ -22,7 +22,7 @@
 
  Mine-Resistant Ambush Protected (MRAP) Vehicles (60, of which destroyed: 43, damaged: 5, abandoned: 1, captured: 11)
 
- Infantry Mobility Vehicles (365, of which destroyed: 284, damaged: 18, abandoned: 12, captured: 51)
+ Infantry Mobility Vehicles (365, of which destroyed: 285, damaged: 18, abandoned: 12, captured: 50)
 
  Command Posts And Communications Stations (300, of which destroyed: 207, damaged: 5, abandoned: 2, captured: 86)
 
@@ -52,7 +52,7 @@
 
  Aircraft (138, of which destroyed: 121, damaged: 17)
 
- Helicopters (157, of which destroyed: 122, damaged: 33, captured: 2)
+ Helicopters (156, of which destroyed: 121, damaged: 33, captured: 2)
 
  Unmanned Combat Aerial Vehicles (18, of which destroyed: 14, damaged: 1, captured: 3)
 
